@@ -1,0 +1,5365 @@
+true_class,predicted_class,predicted_value
+EVS Visit,Sitting In Wheelchair,0.81
+EVS Visit,Nurse Visit,0.1
+EVS Visit,Asleep-Trying to sleep,0.05
+EVS Visit,Therapy,0.03
+EVS Visit,EVS Visit,0.0
+EVS Visit,Eating,0.0
+EVS Visit,Doctor Visit,0.0
+EVS Visit,Family,0.0
+EVS Visit,Watching TV,0.0
+EVS Visit,Talking on the Phone,0.0
+EVS Visit,Lying In Bed,0.0
+EVS Visit,Transfer To Bed,0.0
+EVS Visit,Nurse Visit,0.72
+EVS Visit,Asleep-Trying to sleep,0.21
+EVS Visit,Sitting In Wheelchair,0.07
+EVS Visit,Eating,0.0
+EVS Visit,Therapy,0.0
+EVS Visit,EVS Visit,0.0
+EVS Visit,Watching TV,0.0
+EVS Visit,Transfer To Bed,0.0
+EVS Visit,Doctor Visit,0.0
+EVS Visit,Family,0.0
+EVS Visit,Talking on the Phone,0.0
+EVS Visit,Lying In Bed,0.0
+EVS Visit,Nurse Visit,0.49
+EVS Visit,Asleep-Trying to sleep,0.49
+EVS Visit,Sitting In Wheelchair,0.01
+EVS Visit,Eating,0.01
+EVS Visit,Therapy,0.01
+EVS Visit,EVS Visit,0.0
+EVS Visit,Watching TV,0.0
+EVS Visit,Talking on the Phone,0.0
+EVS Visit,Doctor Visit,0.0
+EVS Visit,Family,0.0
+EVS Visit,Lying In Bed,0.0
+EVS Visit,Transfer To Bed,0.0
+EVS Visit,Nurse Visit,0.71
+EVS Visit,Asleep-Trying to sleep,0.26
+EVS Visit,Therapy,0.02
+EVS Visit,Sitting In Wheelchair,0.01
+EVS Visit,EVS Visit,0.0
+EVS Visit,Eating,0.0
+EVS Visit,Watching TV,0.0
+EVS Visit,Family,0.0
+EVS Visit,Talking on the Phone,0.0
+EVS Visit,Doctor Visit,0.0
+EVS Visit,Transfer To Bed,0.0
+EVS Visit,Lying In Bed,0.0
+EVS Visit,Nurse Visit,0.97
+EVS Visit,Asleep-Trying to sleep,0.02
+EVS Visit,Eating,0.0
+EVS Visit,Sitting In Wheelchair,0.0
+EVS Visit,EVS Visit,0.0
+EVS Visit,Therapy,0.0
+EVS Visit,Transfer To Bed,0.0
+EVS Visit,Watching TV,0.0
+EVS Visit,Talking on the Phone,0.0
+EVS Visit,Family,0.0
+EVS Visit,Doctor Visit,0.0
+EVS Visit,Lying In Bed,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.87
+Sitting In Wheelchair,Transfer To Bed,0.13
+Sitting In Wheelchair,Talking on the Phone,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Talking on the Phone,0.93
+Sitting In Wheelchair,Transfer To Bed,0.07
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.69
+Sitting In Wheelchair,Transfer To Bed,0.27
+Sitting In Wheelchair,Talking on the Phone,0.04
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Talking on the Phone,0.76
+Sitting In Wheelchair,Nurse Visit,0.23
+Sitting In Wheelchair,Transfer To Bed,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.49
+Sitting In Wheelchair,Transfer To Bed,0.37
+Sitting In Wheelchair,Talking on the Phone,0.14
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Talking on the Phone,1.0
+Sitting In Wheelchair,Transfer To Bed,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Watching TV,0.68
+Sitting In Wheelchair,Nurse Visit,0.24
+Sitting In Wheelchair,Talking on the Phone,0.06
+Sitting In Wheelchair,Transfer To Bed,0.01
+Sitting In Wheelchair,Eating,0.01
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.83
+Sitting In Wheelchair,Transfer To Bed,0.17
+Sitting In Wheelchair,Talking on the Phone,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Talking on the Phone,0.84
+Sitting In Wheelchair,Transfer To Bed,0.13
+Sitting In Wheelchair,Sitting In Wheelchair,0.02
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Therapy,0.95
+Sitting In Wheelchair,Nurse Visit,0.04
+Sitting In Wheelchair,Talking on the Phone,0.01
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Transfer To Bed,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Talking on the Phone,0.69
+Sitting In Wheelchair,Transfer To Bed,0.18
+Sitting In Wheelchair,Sitting In Wheelchair,0.13
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Talking on the Phone,1.0
+Sitting In Wheelchair,Transfer To Bed,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.57
+Sitting In Wheelchair,Transfer To Bed,0.4
+Sitting In Wheelchair,Talking on the Phone,0.03
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Transfer To Bed,1.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Talking on the Phone,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.66
+Sitting In Wheelchair,Transfer To Bed,0.33
+Sitting In Wheelchair,Talking on the Phone,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Talking on the Phone,1.0
+Sitting In Wheelchair,Transfer To Bed,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Talking on the Phone,0.98
+Sitting In Wheelchair,Transfer To Bed,0.02
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Talking on the Phone,1.0
+Sitting In Wheelchair,Transfer To Bed,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Watching TV,0.64
+Sitting In Wheelchair,Talking on the Phone,0.36
+Sitting In Wheelchair,Transfer To Bed,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Talking on the Phone,0.97
+Sitting In Wheelchair,Transfer To Bed,0.02
+Sitting In Wheelchair,Sitting In Wheelchair,0.01
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Talking on the Phone,1.0
+Sitting In Wheelchair,Transfer To Bed,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Transfer To Bed,1.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Talking on the Phone,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.86
+Sitting In Wheelchair,Transfer To Bed,0.12
+Sitting In Wheelchair,Talking on the Phone,0.02
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Talking on the Phone,1.0
+Sitting In Wheelchair,Transfer To Bed,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Talking on the Phone,0.73
+Sitting In Wheelchair,Transfer To Bed,0.21
+Sitting In Wheelchair,Sitting In Wheelchair,0.06
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Talking on the Phone,1.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Transfer To Bed,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.53
+Sitting In Wheelchair,Transfer To Bed,0.47
+Sitting In Wheelchair,Talking on the Phone,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Sitting In Wheelchair,Talking on the Phone,1.0
+Sitting In Wheelchair,Transfer To Bed,0.0
+Sitting In Wheelchair,Nurse Visit,0.0
+Sitting In Wheelchair,Eating,0.0
+Sitting In Wheelchair,Watching TV,0.0
+Sitting In Wheelchair,Sitting In Wheelchair,0.0
+Sitting In Wheelchair,Therapy,0.0
+Sitting In Wheelchair,Lying In Bed,0.0
+Sitting In Wheelchair,Asleep-Trying to sleep,0.0
+Sitting In Wheelchair,EVS Visit,0.0
+Sitting In Wheelchair,Doctor Visit,0.0
+Sitting In Wheelchair,Family,0.0
+Doctor Visit,Talking on the Phone,0.81
+Doctor Visit,Transfer To Bed,0.09
+Doctor Visit,Therapy,0.09
+Doctor Visit,Nurse Visit,0.0
+Doctor Visit,Doctor Visit,0.0
+Doctor Visit,Eating,0.0
+Doctor Visit,Watching TV,0.0
+Doctor Visit,Lying In Bed,0.0
+Doctor Visit,Asleep-Trying to sleep,0.0
+Doctor Visit,Sitting In Wheelchair,0.0
+Doctor Visit,EVS Visit,0.0
+Doctor Visit,Family,0.0
+Talking on the Phone,Watching TV,0.87
+Talking on the Phone,Nurse Visit,0.12
+Talking on the Phone,Eating,0.01
+Talking on the Phone,Transfer To Bed,0.0
+Talking on the Phone,Talking on the Phone,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Watching TV,0.53
+Talking on the Phone,Nurse Visit,0.44
+Talking on the Phone,Transfer To Bed,0.02
+Talking on the Phone,Eating,0.0
+Talking on the Phone,Talking on the Phone,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Talking on the Phone,0.99
+Talking on the Phone,Nurse Visit,0.01
+Talking on the Phone,Transfer To Bed,0.0
+Talking on the Phone,Eating,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Watching TV,0.0
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Transfer To Bed,1.0
+Talking on the Phone,Talking on the Phone,0.0
+Talking on the Phone,Nurse Visit,0.0
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,Eating,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Watching TV,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Nurse Visit,0.86
+Talking on the Phone,Watching TV,0.13
+Talking on the Phone,Transfer To Bed,0.01
+Talking on the Phone,Eating,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Talking on the Phone,0.0
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Transfer To Bed,1.0
+Talking on the Phone,Nurse Visit,0.0
+Talking on the Phone,Talking on the Phone,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Eating,0.0
+Talking on the Phone,Watching TV,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Talking on the Phone,1.0
+Talking on the Phone,Nurse Visit,0.0
+Talking on the Phone,Transfer To Bed,0.0
+Talking on the Phone,Eating,0.0
+Talking on the Phone,Watching TV,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Nurse Visit,0.82
+Talking on the Phone,Watching TV,0.14
+Talking on the Phone,Transfer To Bed,0.03
+Talking on the Phone,Eating,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Talking on the Phone,0.0
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Nurse Visit,0.62
+Talking on the Phone,Transfer To Bed,0.27
+Talking on the Phone,Eating,0.05
+Talking on the Phone,Talking on the Phone,0.03
+Talking on the Phone,Watching TV,0.02
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Transfer To Bed,1.0
+Talking on the Phone,Talking on the Phone,0.0
+Talking on the Phone,Nurse Visit,0.0
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Eating,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Watching TV,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Transfer To Bed,1.0
+Talking on the Phone,Talking on the Phone,0.0
+Talking on the Phone,Nurse Visit,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Eating,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Watching TV,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Nurse Visit,0.51
+Talking on the Phone,Transfer To Bed,0.36
+Talking on the Phone,Talking on the Phone,0.1
+Talking on the Phone,Eating,0.02
+Talking on the Phone,Watching TV,0.0
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Watching TV,0.67
+Talking on the Phone,Nurse Visit,0.32
+Talking on the Phone,Eating,0.0
+Talking on the Phone,Transfer To Bed,0.0
+Talking on the Phone,Talking on the Phone,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Transfer To Bed,0.65
+Talking on the Phone,Nurse Visit,0.24
+Talking on the Phone,Watching TV,0.08
+Talking on the Phone,Talking on the Phone,0.03
+Talking on the Phone,Eating,0.01
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Talking on the Phone,1.0
+Talking on the Phone,Watching TV,0.0
+Talking on the Phone,Transfer To Bed,0.0
+Talking on the Phone,Eating,0.0
+Talking on the Phone,Nurse Visit,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Nurse Visit,0.4
+Talking on the Phone,Transfer To Bed,0.3
+Talking on the Phone,Watching TV,0.15
+Talking on the Phone,Talking on the Phone,0.12
+Talking on the Phone,Eating,0.03
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Nurse Visit,0.7
+Talking on the Phone,Transfer To Bed,0.21
+Talking on the Phone,Talking on the Phone,0.03
+Talking on the Phone,Eating,0.03
+Talking on the Phone,Watching TV,0.02
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Doctor Visit,0.0
+Talking on the Phone,Nurse Visit,0.44
+Talking on the Phone,Transfer To Bed,0.3
+Talking on the Phone,Talking on the Phone,0.17
+Talking on the Phone,Watching TV,0.07
+Talking on the Phone,Eating,0.01
+Talking on the Phone,Asleep-Trying to sleep,0.0
+Talking on the Phone,Therapy,0.0
+Talking on the Phone,Sitting In Wheelchair,0.0
+Talking on the Phone,EVS Visit,0.0
+Talking on the Phone,Lying In Bed,0.0
+Talking on the Phone,Family,0.0
+Talking on the Phone,Doctor Visit,0.0
+Family,Family,0.61
+Family,Therapy,0.2
+Family,Watching TV,0.08
+Family,Eating,0.07
+Family,Transfer To Bed,0.03
+Family,Talking on the Phone,0.01
+Family,Nurse Visit,0.0
+Family,Asleep-Trying to sleep,0.0
+Family,Lying In Bed,0.0
+Family,Sitting In Wheelchair,0.0
+Family,EVS Visit,0.0
+Family,Doctor Visit,0.0
+Family,Watching TV,0.5
+Family,Family,0.33
+Family,Eating,0.08
+Family,Therapy,0.04
+Family,Transfer To Bed,0.03
+Family,Talking on the Phone,0.01
+Family,Nurse Visit,0.0
+Family,Asleep-Trying to sleep,0.0
+Family,Lying In Bed,0.0
+Family,Sitting In Wheelchair,0.0
+Family,EVS Visit,0.0
+Family,Doctor Visit,0.0
+Family,Transfer To Bed,0.55
+Family,Family,0.32
+Family,Eating,0.09
+Family,Talking on the Phone,0.02
+Family,Nurse Visit,0.01
+Family,Therapy,0.0
+Family,Watching TV,0.0
+Family,Asleep-Trying to sleep,0.0
+Family,Lying In Bed,0.0
+Family,Sitting In Wheelchair,0.0
+Family,EVS Visit,0.0
+Family,Doctor Visit,0.0
+Family,Watching TV,0.72
+Family,Eating,0.14
+Family,Therapy,0.08
+Family,Talking on the Phone,0.03
+Family,Transfer To Bed,0.02
+Family,Family,0.01
+Family,Nurse Visit,0.0
+Family,Asleep-Trying to sleep,0.0
+Family,Lying In Bed,0.0
+Family,Sitting In Wheelchair,0.0
+Family,EVS Visit,0.0
+Family,Doctor Visit,0.0
+Family,Watching TV,0.83
+Family,Eating,0.06
+Family,Talking on the Phone,0.05
+Family,Transfer To Bed,0.03
+Family,Family,0.02
+Family,Therapy,0.01
+Family,Asleep-Trying to sleep,0.0
+Family,Nurse Visit,0.0
+Family,Lying In Bed,0.0
+Family,Sitting In Wheelchair,0.0
+Family,EVS Visit,0.0
+Family,Doctor Visit,0.0
+Family,Family,0.69
+Family,Transfer To Bed,0.29
+Family,Talking on the Phone,0.0
+Family,Eating,0.0
+Family,Nurse Visit,0.0
+Family,Therapy,0.0
+Family,Watching TV,0.0
+Family,Lying In Bed,0.0
+Family,Asleep-Trying to sleep,0.0
+Family,Sitting In Wheelchair,0.0
+Family,EVS Visit,0.0
+Family,Doctor Visit,0.0
+Family,Transfer To Bed,0.72
+Family,Family,0.23
+Family,Eating,0.02
+Family,Nurse Visit,0.02
+Family,Therapy,0.0
+Family,Talking on the Phone,0.0
+Family,Watching TV,0.0
+Family,Lying In Bed,0.0
+Family,Asleep-Trying to sleep,0.0
+Family,Sitting In Wheelchair,0.0
+Family,EVS Visit,0.0
+Family,Doctor Visit,0.0
+Family,Family,0.49
+Family,Watching TV,0.33
+Family,Therapy,0.1
+Family,Eating,0.05
+Family,Transfer To Bed,0.02
+Family,Talking on the Phone,0.01
+Family,Nurse Visit,0.0
+Family,Asleep-Trying to sleep,0.0
+Family,Lying In Bed,0.0
+Family,Sitting In Wheelchair,0.0
+Family,EVS Visit,0.0
+Family,Doctor Visit,0.0
+Family,Transfer To Bed,0.65
+Family,Family,0.34
+Family,Eating,0.01
+Family,Therapy,0.0
+Family,Talking on the Phone,0.0
+Family,Nurse Visit,0.0
+Family,Watching TV,0.0
+Family,Lying In Bed,0.0
+Family,Asleep-Trying to sleep,0.0
+Family,Sitting In Wheelchair,0.0
+Family,EVS Visit,0.0
+Family,Doctor Visit,0.0
+Watching TV,Talking on the Phone,0.88
+Watching TV,Eating,0.11
+Watching TV,Nurse Visit,0.01
+Watching TV,Transfer To Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.95
+Watching TV,Transfer To Bed,0.05
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Family,0.0
+Watching TV,Eating,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.83
+Watching TV,Watching TV,0.06
+Watching TV,Transfer To Bed,0.05
+Watching TV,Talking on the Phone,0.04
+Watching TV,Eating,0.02
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.94
+Watching TV,Transfer To Bed,0.03
+Watching TV,Talking on the Phone,0.01
+Watching TV,Eating,0.01
+Watching TV,Watching TV,0.0
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Nurse Visit,0.75
+Watching TV,Talking on the Phone,0.08
+Watching TV,Watching TV,0.08
+Watching TV,Eating,0.05
+Watching TV,Transfer To Bed,0.05
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.95
+Watching TV,Transfer To Bed,0.04
+Watching TV,Talking on the Phone,0.0
+Watching TV,Eating,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.88
+Watching TV,Talking on the Phone,0.07
+Watching TV,Transfer To Bed,0.02
+Watching TV,Watching TV,0.02
+Watching TV,Eating,0.02
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Family,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Asleep-Trying to sleep,0.53
+Watching TV,Therapy,0.25
+Watching TV,Sitting In Wheelchair,0.21
+Watching TV,Eating,0.01
+Watching TV,Nurse Visit,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Family,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Nurse Visit,0.98
+Watching TV,Talking on the Phone,0.02
+Watching TV,Watching TV,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Eating,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.8
+Watching TV,Watching TV,0.15
+Watching TV,Talking on the Phone,0.03
+Watching TV,Transfer To Bed,0.02
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Therapy,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,1.0
+Watching TV,Therapy,0.0
+Watching TV,Eating,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Nurse Visit,0.91
+Watching TV,Talking on the Phone,0.03
+Watching TV,Transfer To Bed,0.03
+Watching TV,Eating,0.02
+Watching TV,Watching TV,0.01
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.84
+Watching TV,Transfer To Bed,0.08
+Watching TV,Eating,0.05
+Watching TV,Talking on the Phone,0.02
+Watching TV,Watching TV,0.0
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.56
+Watching TV,Talking on the Phone,0.23
+Watching TV,Watching TV,0.18
+Watching TV,Transfer To Bed,0.01
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Therapy,0.91
+Watching TV,Nurse Visit,0.09
+Watching TV,Watching TV,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Eating,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Transfer To Bed,0.89
+Watching TV,Watching TV,0.11
+Watching TV,Therapy,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Eating,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Therapy,0.94
+Watching TV,Asleep-Trying to sleep,0.05
+Watching TV,Eating,0.01
+Watching TV,Sitting In Wheelchair,0.01
+Watching TV,Transfer To Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Nurse Visit,0.97
+Watching TV,Transfer To Bed,0.03
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Eating,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Family,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.63
+Watching TV,Watching TV,0.19
+Watching TV,Transfer To Bed,0.07
+Watching TV,Talking on the Phone,0.05
+Watching TV,Eating,0.04
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Therapy,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.84
+Watching TV,Watching TV,0.07
+Watching TV,Talking on the Phone,0.04
+Watching TV,Transfer To Bed,0.03
+Watching TV,Eating,0.02
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,0.96
+Watching TV,Therapy,0.03
+Watching TV,Asleep-Trying to sleep,0.01
+Watching TV,Talking on the Phone,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Eating,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Therapy,0.8
+Watching TV,Nurse Visit,0.19
+Watching TV,Watching TV,0.01
+Watching TV,Talking on the Phone,0.0
+Watching TV,Eating,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Family,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.84
+Watching TV,Watching TV,0.15
+Watching TV,Talking on the Phone,0.01
+Watching TV,Transfer To Bed,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Therapy,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Asleep-Trying to sleep,0.65
+Watching TV,Sitting In Wheelchair,0.33
+Watching TV,Therapy,0.02
+Watching TV,Eating,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Family,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Family,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.69
+Watching TV,Watching TV,0.17
+Watching TV,Talking on the Phone,0.09
+Watching TV,Transfer To Bed,0.05
+Watching TV,Asleep-Trying to sleep,0.01
+Watching TV,Eating,0.0
+Watching TV,Therapy,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,1.0
+Watching TV,Eating,0.0
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Watching TV,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,0.96
+Watching TV,Nurse Visit,0.04
+Watching TV,Therapy,0.0
+Watching TV,Eating,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Nurse Visit,0.96
+Watching TV,Talking on the Phone,0.02
+Watching TV,Transfer To Bed,0.01
+Watching TV,Eating,0.01
+Watching TV,Watching TV,0.01
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Eating,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Family,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,0.47
+Watching TV,Watching TV,0.29
+Watching TV,Asleep-Trying to sleep,0.21
+Watching TV,Lying In Bed,0.03
+Watching TV,Eating,0.0
+Watching TV,Therapy,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Family,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.99
+Watching TV,Watching TV,0.01
+Watching TV,Talking on the Phone,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Eating,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.66
+Watching TV,Watching TV,0.17
+Watching TV,Talking on the Phone,0.08
+Watching TV,Transfer To Bed,0.05
+Watching TV,Eating,0.03
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Therapy,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Therapy,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.98
+Watching TV,Transfer To Bed,0.01
+Watching TV,Watching TV,0.01
+Watching TV,Talking on the Phone,0.0
+Watching TV,Eating,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,0.86
+Watching TV,Therapy,0.14
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Nurse Visit,0.67
+Watching TV,Transfer To Bed,0.33
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Eating,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Family,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.64
+Watching TV,Watching TV,0.24
+Watching TV,Talking on the Phone,0.11
+Watching TV,Transfer To Bed,0.01
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.97
+Watching TV,Watching TV,0.02
+Watching TV,Transfer To Bed,0.0
+Watching TV,Eating,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.95
+Watching TV,Transfer To Bed,0.03
+Watching TV,Talking on the Phone,0.01
+Watching TV,Watching TV,0.01
+Watching TV,Eating,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.53
+Watching TV,Watching TV,0.22
+Watching TV,Talking on the Phone,0.21
+Watching TV,Transfer To Bed,0.02
+Watching TV,Therapy,0.01
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,0.96
+Watching TV,Therapy,0.02
+Watching TV,Asleep-Trying to sleep,0.02
+Watching TV,Lying In Bed,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Eating,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Nurse Visit,0.99
+Watching TV,Eating,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.92
+Watching TV,Talking on the Phone,0.03
+Watching TV,Watching TV,0.02
+Watching TV,Transfer To Bed,0.01
+Watching TV,Eating,0.01
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Therapy,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,0.94
+Watching TV,Nurse Visit,0.06
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.92
+Watching TV,Transfer To Bed,0.03
+Watching TV,Talking on the Phone,0.02
+Watching TV,Watching TV,0.01
+Watching TV,Eating,0.01
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.86
+Watching TV,Watching TV,0.14
+Watching TV,Eating,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Therapy,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Talking on the Phone,0.54
+Watching TV,Nurse Visit,0.33
+Watching TV,Eating,0.1
+Watching TV,Transfer To Bed,0.01
+Watching TV,Watching TV,0.01
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.7
+Watching TV,Watching TV,0.26
+Watching TV,Talking on the Phone,0.02
+Watching TV,Transfer To Bed,0.01
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Therapy,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,1.0
+Watching TV,Therapy,0.0
+Watching TV,Eating,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Nurse Visit,0.9
+Watching TV,Talking on the Phone,0.06
+Watching TV,Watching TV,0.02
+Watching TV,Transfer To Bed,0.01
+Watching TV,Eating,0.01
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,0.98
+Watching TV,Therapy,0.02
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Eating,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Family,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.98
+Watching TV,Talking on the Phone,0.01
+Watching TV,Watching TV,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Eating,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.97
+Watching TV,Talking on the Phone,0.02
+Watching TV,Watching TV,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Eating,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,0.61
+Watching TV,Nurse Visit,0.39
+Watching TV,Lying In Bed,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Eating,0.0
+Watching TV,Family,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Watching TV,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Therapy,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Family,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.73
+Watching TV,Transfer To Bed,0.27
+Watching TV,Watching TV,0.0
+Watching TV,Eating,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Talking on the Phone,0.4
+Watching TV,Nurse Visit,0.37
+Watching TV,Watching TV,0.2
+Watching TV,Transfer To Bed,0.02
+Watching TV,Asleep-Trying to sleep,0.01
+Watching TV,Therapy,0.01
+Watching TV,Eating,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Therapy,0.0
+Watching TV,Eating,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.81
+Watching TV,Talking on the Phone,0.06
+Watching TV,Watching TV,0.05
+Watching TV,Eating,0.04
+Watching TV,Transfer To Bed,0.03
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.65
+Watching TV,Transfer To Bed,0.27
+Watching TV,Talking on the Phone,0.05
+Watching TV,Eating,0.02
+Watching TV,Watching TV,0.0
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.47
+Watching TV,Therapy,0.47
+Watching TV,Watching TV,0.05
+Watching TV,Talking on the Phone,0.0
+Watching TV,Eating,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Family,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.91
+Watching TV,Transfer To Bed,0.04
+Watching TV,Talking on the Phone,0.02
+Watching TV,Watching TV,0.02
+Watching TV,Eating,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.78
+Watching TV,Watching TV,0.08
+Watching TV,Talking on the Phone,0.07
+Watching TV,Transfer To Bed,0.04
+Watching TV,Eating,0.02
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.94
+Watching TV,Transfer To Bed,0.05
+Watching TV,Watching TV,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Eating,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.92
+Watching TV,Transfer To Bed,0.07
+Watching TV,Talking on the Phone,0.0
+Watching TV,Eating,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.56
+Watching TV,Transfer To Bed,0.33
+Watching TV,Talking on the Phone,0.05
+Watching TV,Eating,0.03
+Watching TV,Therapy,0.02
+Watching TV,Watching TV,0.01
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.92
+Watching TV,Transfer To Bed,0.04
+Watching TV,Talking on the Phone,0.03
+Watching TV,Watching TV,0.01
+Watching TV,Eating,0.0
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.96
+Watching TV,Transfer To Bed,0.04
+Watching TV,Therapy,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Family,0.0
+Watching TV,Watching TV,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.59
+Watching TV,Transfer To Bed,0.19
+Watching TV,Talking on the Phone,0.12
+Watching TV,Watching TV,0.05
+Watching TV,Eating,0.05
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,1.0
+Watching TV,Therapy,0.0
+Watching TV,Eating,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Nurse Visit,0.79
+Watching TV,Watching TV,0.06
+Watching TV,Transfer To Bed,0.06
+Watching TV,Talking on the Phone,0.06
+Watching TV,Eating,0.02
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,0.66
+Watching TV,Nurse Visit,0.34
+Watching TV,Therapy,0.0
+Watching TV,Eating,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Family,0.0
+Watching TV,Watching TV,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.57
+Watching TV,Transfer To Bed,0.22
+Watching TV,Watching TV,0.08
+Watching TV,Talking on the Phone,0.07
+Watching TV,Eating,0.06
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,0.93
+Watching TV,Asleep-Trying to sleep,0.05
+Watching TV,Therapy,0.02
+Watching TV,Lying In Bed,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Talking on the Phone,0.37
+Watching TV,Eating,0.17
+Watching TV,Transfer To Bed,0.17
+Watching TV,Nurse Visit,0.15
+Watching TV,Watching TV,0.13
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Sitting In Wheelchair,0.55
+Watching TV,Asleep-Trying to sleep,0.45
+Watching TV,Therapy,0.0
+Watching TV,Eating,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Family,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Transfer To Bed,0.8
+Watching TV,Nurse Visit,0.19
+Watching TV,Lying In Bed,0.0
+Watching TV,Therapy,0.0
+Watching TV,Eating,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Family,0.0
+Watching TV,Watching TV,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.89
+Watching TV,Watching TV,0.07
+Watching TV,Talking on the Phone,0.02
+Watching TV,Transfer To Bed,0.01
+Watching TV,Eating,0.01
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Talking on the Phone,0.59
+Watching TV,Nurse Visit,0.28
+Watching TV,Eating,0.12
+Watching TV,Transfer To Bed,0.01
+Watching TV,Watching TV,0.0
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.95
+Watching TV,Transfer To Bed,0.04
+Watching TV,Talking on the Phone,0.0
+Watching TV,Eating,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,0.72
+Watching TV,Nurse Visit,0.28
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Eating,0.0
+Watching TV,Family,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.86
+Watching TV,Transfer To Bed,0.11
+Watching TV,Talking on the Phone,0.02
+Watching TV,Watching TV,0.0
+Watching TV,Eating,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.98
+Watching TV,Watching TV,0.01
+Watching TV,Transfer To Bed,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Eating,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Therapy,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.93
+Watching TV,Transfer To Bed,0.07
+Watching TV,Lying In Bed,0.0
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Family,0.0
+Watching TV,Eating,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Watching TV,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Asleep-Trying to sleep,0.71
+Watching TV,Sitting In Wheelchair,0.22
+Watching TV,Therapy,0.07
+Watching TV,Eating,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Family,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Therapy,0.96
+Watching TV,Asleep-Trying to sleep,0.03
+Watching TV,Eating,0.01
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Nurse Visit,0.88
+Watching TV,Transfer To Bed,0.1
+Watching TV,Talking on the Phone,0.01
+Watching TV,Eating,0.01
+Watching TV,Watching TV,0.0
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Transfer To Bed,0.97
+Watching TV,Nurse Visit,0.03
+Watching TV,Therapy,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Eating,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Watching TV,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.58
+Watching TV,Therapy,0.37
+Watching TV,Watching TV,0.05
+Watching TV,Eating,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Family,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Transfer To Bed,1.0
+Watching TV,Therapy,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Nurse Visit,0.0
+Watching TV,Eating,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,1.0
+Watching TV,Therapy,0.0
+Watching TV,Eating,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Transfer To Bed,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Lying In Bed,0.0
+Watching TV,Family,0.0
+Watching TV,Doctor Visit,0.0
+Watching TV,Nurse Visit,0.9
+Watching TV,Transfer To Bed,0.09
+Watching TV,Therapy,0.01
+Watching TV,Lying In Bed,0.0
+Watching TV,Asleep-Trying to sleep,0.0
+Watching TV,Talking on the Phone,0.0
+Watching TV,Eating,0.0
+Watching TV,Watching TV,0.0
+Watching TV,Family,0.0
+Watching TV,EVS Visit,0.0
+Watching TV,Sitting In Wheelchair,0.0
+Watching TV,Doctor Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.67
+Asleep-Trying to sleep,Therapy,0.28
+Asleep-Trying to sleep,Nurse Visit,0.03
+Asleep-Trying to sleep,Watching TV,0.01
+Asleep-Trying to sleep,Sitting In Wheelchair,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Eating,0.55
+Asleep-Trying to sleep,Transfer To Bed,0.26
+Asleep-Trying to sleep,Therapy,0.11
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.02
+Asleep-Trying to sleep,Nurse Visit,0.02
+Asleep-Trying to sleep,Talking on the Phone,0.02
+Asleep-Trying to sleep,Lying In Bed,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.45
+Asleep-Trying to sleep,Eating,0.36
+Asleep-Trying to sleep,Therapy,0.1
+Asleep-Trying to sleep,Nurse Visit,0.03
+Asleep-Trying to sleep,Lying In Bed,0.03
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,Talking on the Phone,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Eating,0.61
+Asleep-Trying to sleep,Transfer To Bed,0.12
+Asleep-Trying to sleep,EVS Visit,0.1
+Asleep-Trying to sleep,Nurse Visit,0.08
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.07
+Asleep-Trying to sleep,Talking on the Phone,0.01
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.72
+Asleep-Trying to sleep,Sitting In Wheelchair,0.27
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Eating,0.8
+Asleep-Trying to sleep,Talking on the Phone,0.06
+Asleep-Trying to sleep,Transfer To Bed,0.04
+Asleep-Trying to sleep,Therapy,0.04
+Asleep-Trying to sleep,Nurse Visit,0.03
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,Watching TV,0.01
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Transfer To Bed,1.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.67
+Asleep-Trying to sleep,Nurse Visit,0.25
+Asleep-Trying to sleep,Sitting In Wheelchair,0.08
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Therapy,0.98
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Eating,0.46
+Asleep-Trying to sleep,Transfer To Bed,0.36
+Asleep-Trying to sleep,Therapy,0.07
+Asleep-Trying to sleep,Nurse Visit,0.05
+Asleep-Trying to sleep,Talking on the Phone,0.02
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.02
+Asleep-Trying to sleep,Lying In Bed,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Transfer To Bed,1.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.64
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.36
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.49
+Asleep-Trying to sleep,Transfer To Bed,0.17
+Asleep-Trying to sleep,Therapy,0.13
+Asleep-Trying to sleep,Watching TV,0.12
+Asleep-Trying to sleep,Lying In Bed,0.08
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Therapy,0.85
+Asleep-Trying to sleep,Lying In Bed,0.12
+Asleep-Trying to sleep,Watching TV,0.02
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,1.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.83
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.12
+Asleep-Trying to sleep,Sitting In Wheelchair,0.05
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.99
+Asleep-Trying to sleep,Sitting In Wheelchair,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,1.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.41
+Asleep-Trying to sleep,Nurse Visit,0.29
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.24
+Asleep-Trying to sleep,Watching TV,0.05
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Eating,0.65
+Asleep-Trying to sleep,Therapy,0.2
+Asleep-Trying to sleep,Transfer To Bed,0.1
+Asleep-Trying to sleep,Talking on the Phone,0.03
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Therapy,0.83
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.1
+Asleep-Trying to sleep,Sitting In Wheelchair,0.07
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.78
+Asleep-Trying to sleep,Therapy,0.18
+Asleep-Trying to sleep,Nurse Visit,0.02
+Asleep-Trying to sleep,Sitting In Wheelchair,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.98
+Asleep-Trying to sleep,Lying In Bed,0.01
+Asleep-Trying to sleep,Therapy,0.01
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Therapy,0.9
+Asleep-Trying to sleep,Lying In Bed,0.08
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Nurse Visit,0.97
+Asleep-Trying to sleep,Eating,0.03
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.9
+Asleep-Trying to sleep,Sitting In Wheelchair,0.06
+Asleep-Trying to sleep,Therapy,0.04
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.57
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.24
+Asleep-Trying to sleep,Watching TV,0.09
+Asleep-Trying to sleep,Nurse Visit,0.08
+Asleep-Trying to sleep,Transfer To Bed,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.51
+Asleep-Trying to sleep,Nurse Visit,0.41
+Asleep-Trying to sleep,Lying In Bed,0.04
+Asleep-Trying to sleep,Watching TV,0.02
+Asleep-Trying to sleep,Transfer To Bed,0.02
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.95
+Asleep-Trying to sleep,Sitting In Wheelchair,0.04
+Asleep-Trying to sleep,Therapy,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.85
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.15
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.99
+Asleep-Trying to sleep,Therapy,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Eating,0.65
+Asleep-Trying to sleep,Transfer To Bed,0.17
+Asleep-Trying to sleep,Therapy,0.13
+Asleep-Trying to sleep,Talking on the Phone,0.02
+Asleep-Trying to sleep,Nurse Visit,0.02
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Transfer To Bed,1.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.96
+Asleep-Trying to sleep,Nurse Visit,0.02
+Asleep-Trying to sleep,Lying In Bed,0.01
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Eating,0.75
+Asleep-Trying to sleep,Talking on the Phone,0.14
+Asleep-Trying to sleep,Therapy,0.05
+Asleep-Trying to sleep,Transfer To Bed,0.04
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.92
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.08
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.7
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.3
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.55
+Asleep-Trying to sleep,Eating,0.32
+Asleep-Trying to sleep,Therapy,0.06
+Asleep-Trying to sleep,Nurse Visit,0.03
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.02
+Asleep-Trying to sleep,Lying In Bed,0.02
+Asleep-Trying to sleep,Talking on the Phone,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Therapy,0.64
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.27
+Asleep-Trying to sleep,Sitting In Wheelchair,0.09
+Asleep-Trying to sleep,Eating,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.53
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.28
+Asleep-Trying to sleep,Sitting In Wheelchair,0.19
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Nurse Visit,0.68
+Asleep-Trying to sleep,Lying In Bed,0.23
+Asleep-Trying to sleep,Therapy,0.07
+Asleep-Trying to sleep,Watching TV,0.02
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.95
+Asleep-Trying to sleep,Eating,0.03
+Asleep-Trying to sleep,Transfer To Bed,0.01
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.69
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.23
+Asleep-Trying to sleep,Sitting In Wheelchair,0.08
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.93
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.06
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Nurse Visit,0.97
+Asleep-Trying to sleep,Therapy,0.02
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Therapy,0.89
+Asleep-Trying to sleep,Watching TV,0.08
+Asleep-Trying to sleep,Nurse Visit,0.03
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.8
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.19
+Asleep-Trying to sleep,Sitting In Wheelchair,0.01
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.62
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.24
+Asleep-Trying to sleep,Sitting In Wheelchair,0.14
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.96
+Asleep-Trying to sleep,Sitting In Wheelchair,0.03
+Asleep-Trying to sleep,Transfer To Bed,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.53
+Asleep-Trying to sleep,Transfer To Bed,0.21
+Asleep-Trying to sleep,Therapy,0.16
+Asleep-Trying to sleep,Watching TV,0.05
+Asleep-Trying to sleep,Lying In Bed,0.04
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,1.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.99
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Therapy,1.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.55
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.24
+Asleep-Trying to sleep,Nurse Visit,0.1
+Asleep-Trying to sleep,Watching TV,0.09
+Asleep-Trying to sleep,Transfer To Bed,0.02
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.98
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.02
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.47
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.29
+Asleep-Trying to sleep,Sitting In Wheelchair,0.24
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Eating,0.36
+Asleep-Trying to sleep,Talking on the Phone,0.3
+Asleep-Trying to sleep,Nurse Visit,0.19
+Asleep-Trying to sleep,Therapy,0.08
+Asleep-Trying to sleep,Transfer To Bed,0.05
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,Watching TV,0.01
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Therapy,0.53
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.26
+Asleep-Trying to sleep,Sitting In Wheelchair,0.21
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.74
+Asleep-Trying to sleep,Lying In Bed,0.2
+Asleep-Trying to sleep,Nurse Visit,0.03
+Asleep-Trying to sleep,Watching TV,0.03
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.91
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.08
+Asleep-Trying to sleep,Sitting In Wheelchair,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Nurse Visit,0.93
+Asleep-Trying to sleep,Therapy,0.07
+Asleep-Trying to sleep,Eating,0.01
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.55
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.45
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Therapy,0.75
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.16
+Asleep-Trying to sleep,Sitting In Wheelchair,0.09
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.56
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.44
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.59
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.26
+Asleep-Trying to sleep,Sitting In Wheelchair,0.15
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.98
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Watching TV,0.01
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.62
+Asleep-Trying to sleep,Therapy,0.14
+Asleep-Trying to sleep,Transfer To Bed,0.11
+Asleep-Trying to sleep,Watching TV,0.07
+Asleep-Trying to sleep,Lying In Bed,0.06
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Therapy,0.85
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.1
+Asleep-Trying to sleep,Sitting In Wheelchair,0.04
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.6
+Asleep-Trying to sleep,Therapy,0.23
+Asleep-Trying to sleep,Sitting In Wheelchair,0.17
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.67
+Asleep-Trying to sleep,Lying In Bed,0.18
+Asleep-Trying to sleep,Nurse Visit,0.12
+Asleep-Trying to sleep,Watching TV,0.02
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.94
+Asleep-Trying to sleep,Sitting In Wheelchair,0.03
+Asleep-Trying to sleep,Transfer To Bed,0.02
+Asleep-Trying to sleep,Eating,0.01
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Nurse Visit,0.73
+Asleep-Trying to sleep,Lying In Bed,0.21
+Asleep-Trying to sleep,Therapy,0.06
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.97
+Asleep-Trying to sleep,Sitting In Wheelchair,0.03
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.86
+Asleep-Trying to sleep,Watching TV,0.08
+Asleep-Trying to sleep,Nurse Visit,0.04
+Asleep-Trying to sleep,Lying In Bed,0.02
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.97
+Asleep-Trying to sleep,Therapy,0.01
+Asleep-Trying to sleep,Talking on the Phone,0.01
+Asleep-Trying to sleep,Lying In Bed,0.01
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Therapy,0.94
+Asleep-Trying to sleep,Sitting In Wheelchair,0.05
+Asleep-Trying to sleep,Transfer To Bed,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.76
+Asleep-Trying to sleep,Therapy,0.22
+Asleep-Trying to sleep,Sitting In Wheelchair,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.95
+Asleep-Trying to sleep,Sitting In Wheelchair,0.05
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Eating,0.67
+Asleep-Trying to sleep,Transfer To Bed,0.14
+Asleep-Trying to sleep,Talking on the Phone,0.08
+Asleep-Trying to sleep,Nurse Visit,0.04
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.03
+Asleep-Trying to sleep,Therapy,0.02
+Asleep-Trying to sleep,Watching TV,0.01
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.49
+Asleep-Trying to sleep,Therapy,0.31
+Asleep-Trying to sleep,Sitting In Wheelchair,0.18
+Asleep-Trying to sleep,Eating,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.82
+Asleep-Trying to sleep,Therapy,0.11
+Asleep-Trying to sleep,Lying In Bed,0.03
+Asleep-Trying to sleep,Watching TV,0.02
+Asleep-Trying to sleep,Transfer To Bed,0.01
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.96
+Asleep-Trying to sleep,Lying In Bed,0.02
+Asleep-Trying to sleep,Therapy,0.01
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Eating,0.83
+Asleep-Trying to sleep,Talking on the Phone,0.08
+Asleep-Trying to sleep,Nurse Visit,0.03
+Asleep-Trying to sleep,Transfer To Bed,0.02
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.02
+Asleep-Trying to sleep,Therapy,0.01
+Asleep-Trying to sleep,Watching TV,0.01
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.84
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.16
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.91
+Asleep-Trying to sleep,Therapy,0.06
+Asleep-Trying to sleep,Lying In Bed,0.02
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.75
+Asleep-Trying to sleep,Therapy,0.22
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Sitting In Wheelchair,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Transfer To Bed,1.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Therapy,0.91
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.08
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.86
+Asleep-Trying to sleep,Watching TV,0.07
+Asleep-Trying to sleep,Nurse Visit,0.07
+Asleep-Trying to sleep,Lying In Bed,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.86
+Asleep-Trying to sleep,Therapy,0.12
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Sitting In Wheelchair,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.9
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.09
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Eating,0.41
+Asleep-Trying to sleep,Transfer To Bed,0.4
+Asleep-Trying to sleep,Therapy,0.1
+Asleep-Trying to sleep,Nurse Visit,0.03
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.02
+Asleep-Trying to sleep,Talking on the Phone,0.02
+Asleep-Trying to sleep,Lying In Bed,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Therapy,0.86
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.07
+Asleep-Trying to sleep,Sitting In Wheelchair,0.06
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Therapy,0.97
+Asleep-Trying to sleep,Watching TV,0.02
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.78
+Asleep-Trying to sleep,Lying In Bed,0.17
+Asleep-Trying to sleep,Nurse Visit,0.03
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,Watching TV,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Eating,0.44
+Asleep-Trying to sleep,Transfer To Bed,0.42
+Asleep-Trying to sleep,Nurse Visit,0.09
+Asleep-Trying to sleep,Talking on the Phone,0.03
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,EVS Visit,0.01
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Eating,0.67
+Asleep-Trying to sleep,Talking on the Phone,0.27
+Asleep-Trying to sleep,Therapy,0.02
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,Transfer To Bed,0.01
+Asleep-Trying to sleep,Watching TV,0.01
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Nurse Visit,0.97
+Asleep-Trying to sleep,Therapy,0.03
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.97
+Asleep-Trying to sleep,Sitting In Wheelchair,0.03
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.93
+Asleep-Trying to sleep,Lying In Bed,0.03
+Asleep-Trying to sleep,Therapy,0.02
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.02
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.46
+Asleep-Trying to sleep,Therapy,0.22
+Asleep-Trying to sleep,Transfer To Bed,0.19
+Asleep-Trying to sleep,Watching TV,0.07
+Asleep-Trying to sleep,Lying In Bed,0.06
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,1.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Therapy,0.47
+Asleep-Trying to sleep,Sitting In Wheelchair,0.27
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.26
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Nurse Visit,1.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.57
+Asleep-Trying to sleep,Sitting In Wheelchair,0.43
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.64
+Asleep-Trying to sleep,Lying In Bed,0.17
+Asleep-Trying to sleep,Nurse Visit,0.15
+Asleep-Trying to sleep,Watching TV,0.03
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.89
+Asleep-Trying to sleep,Therapy,0.09
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.58
+Asleep-Trying to sleep,Therapy,0.4
+Asleep-Trying to sleep,Sitting In Wheelchair,0.02
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,1.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.58
+Asleep-Trying to sleep,Sitting In Wheelchair,0.29
+Asleep-Trying to sleep,Therapy,0.13
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.58
+Asleep-Trying to sleep,Transfer To Bed,0.16
+Asleep-Trying to sleep,Therapy,0.13
+Asleep-Trying to sleep,Watching TV,0.07
+Asleep-Trying to sleep,Lying In Bed,0.06
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.83
+Asleep-Trying to sleep,Sitting In Wheelchair,0.17
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.75
+Asleep-Trying to sleep,Sitting In Wheelchair,0.25
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.97
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.03
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.88
+Asleep-Trying to sleep,Sitting In Wheelchair,0.12
+Asleep-Trying to sleep,Therapy,0.01
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.95
+Asleep-Trying to sleep,Therapy,0.03
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,Lying In Bed,0.01
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.82
+Asleep-Trying to sleep,Therapy,0.15
+Asleep-Trying to sleep,Sitting In Wheelchair,0.02
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.92
+Asleep-Trying to sleep,Therapy,0.07
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.96
+Asleep-Trying to sleep,Therapy,0.02
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,Lying In Bed,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Nurse Visit,0.7
+Asleep-Trying to sleep,Therapy,0.3
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.51
+Asleep-Trying to sleep,Sitting In Wheelchair,0.48
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.96
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Watching TV,0.01
+Asleep-Trying to sleep,Lying In Bed,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Therapy,0.96
+Asleep-Trying to sleep,Transfer To Bed,0.02
+Asleep-Trying to sleep,Eating,0.01
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.75
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.25
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Nurse Visit,0.64
+Asleep-Trying to sleep,Therapy,0.27
+Asleep-Trying to sleep,Eating,0.05
+Asleep-Trying to sleep,Lying In Bed,0.03
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.49
+Asleep-Trying to sleep,Transfer To Bed,0.19
+Asleep-Trying to sleep,Lying In Bed,0.13
+Asleep-Trying to sleep,Therapy,0.12
+Asleep-Trying to sleep,Watching TV,0.06
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.68
+Asleep-Trying to sleep,Sitting In Wheelchair,0.31
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.54
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.31
+Asleep-Trying to sleep,Lying In Bed,0.13
+Asleep-Trying to sleep,Watching TV,0.02
+Asleep-Trying to sleep,Transfer To Bed,0.01
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Therapy,0.85
+Asleep-Trying to sleep,Lying In Bed,0.11
+Asleep-Trying to sleep,Nurse Visit,0.03
+Asleep-Trying to sleep,Watching TV,0.01
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.57
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.43
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Eating,0.45
+Asleep-Trying to sleep,Transfer To Bed,0.38
+Asleep-Trying to sleep,Therapy,0.06
+Asleep-Trying to sleep,Nurse Visit,0.03
+Asleep-Trying to sleep,Talking on the Phone,0.03
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.02
+Asleep-Trying to sleep,Lying In Bed,0.01
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Therapy,0.92
+Asleep-Trying to sleep,Lying In Bed,0.06
+Asleep-Trying to sleep,Nurse Visit,0.01
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Therapy,0.64
+Asleep-Trying to sleep,Nurse Visit,0.29
+Asleep-Trying to sleep,Lying In Bed,0.06
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,1.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,1.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Eating,0.58
+Asleep-Trying to sleep,Transfer To Bed,0.26
+Asleep-Trying to sleep,Therapy,0.08
+Asleep-Trying to sleep,Talking on the Phone,0.05
+Asleep-Trying to sleep,Nurse Visit,0.03
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.98
+Asleep-Trying to sleep,Sitting In Wheelchair,0.02
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,1.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Nurse Visit,0.57
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.29
+Asleep-Trying to sleep,Lying In Bed,0.09
+Asleep-Trying to sleep,Watching TV,0.03
+Asleep-Trying to sleep,Transfer To Bed,0.03
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Therapy,0.88
+Asleep-Trying to sleep,Watching TV,0.06
+Asleep-Trying to sleep,Nurse Visit,0.05
+Asleep-Trying to sleep,Lying In Bed,0.01
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,1.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.86
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.14
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,1.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Asleep-Trying to sleep,Transfer To Bed,0.0
+Asleep-Trying to sleep,Transfer To Bed,1.0
+Asleep-Trying to sleep,Therapy,0.0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0.0
+Asleep-Trying to sleep,Lying In Bed,0.0
+Asleep-Trying to sleep,Talking on the Phone,0.0
+Asleep-Trying to sleep,Nurse Visit,0.0
+Asleep-Trying to sleep,Watching TV,0.0
+Asleep-Trying to sleep,Eating,0.0
+Asleep-Trying to sleep,Sitting In Wheelchair,0.0
+Asleep-Trying to sleep,Family,0.0
+Asleep-Trying to sleep,Doctor Visit,0.0
+Asleep-Trying to sleep,EVS Visit,0.0
+Therapy,Therapy,1.0
+Therapy,Transfer To Bed,0.0
+Therapy,Talking on the Phone,0.0
+Therapy,Eating,0.0
+Therapy,Nurse Visit,0.0
+Therapy,Asleep-Trying to sleep,0.0
+Therapy,Lying In Bed,0.0
+Therapy,Watching TV,0.0
+Therapy,Sitting In Wheelchair,0.0
+Therapy,Family,0.0
+Therapy,EVS Visit,0.0
+Therapy,Doctor Visit,0.0
+Therapy,Therapy,0.59
+Therapy,Transfer To Bed,0.36
+Therapy,Talking on the Phone,0.02
+Therapy,Lying In Bed,0.01
+Therapy,Asleep-Trying to sleep,0.01
+Therapy,Nurse Visit,0.0
+Therapy,Watching TV,0.0
+Therapy,Eating,0.0
+Therapy,Sitting In Wheelchair,0.0
+Therapy,EVS Visit,0.0
+Therapy,Family,0.0
+Therapy,Doctor Visit,0.0
+Lying In Bed,Therapy,0.84
+Lying In Bed,Transfer To Bed,0.11
+Lying In Bed,Asleep-Trying to sleep,0.04
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Therapy,0.6
+Lying In Bed,Asleep-Trying to sleep,0.22
+Lying In Bed,Watching TV,0.11
+Lying In Bed,Transfer To Bed,0.04
+Lying In Bed,Talking on the Phone,0.01
+Lying In Bed,Nurse Visit,0.01
+Lying In Bed,Lying In Bed,0.01
+Lying In Bed,Eating,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Watching TV,0.8
+Lying In Bed,Nurse Visit,0.16
+Lying In Bed,Therapy,0.04
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Transfer To Bed,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Watching TV,0.67
+Lying In Bed,Lying In Bed,0.24
+Lying In Bed,Therapy,0.06
+Lying In Bed,Nurse Visit,0.03
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Transfer To Bed,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Transfer To Bed,0.87
+Lying In Bed,Therapy,0.13
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Transfer To Bed,0.8
+Lying In Bed,Therapy,0.18
+Lying In Bed,Watching TV,0.02
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Therapy,0.53
+Lying In Bed,Nurse Visit,0.24
+Lying In Bed,Watching TV,0.2
+Lying In Bed,Lying In Bed,0.03
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Transfer To Bed,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Therapy,0.53
+Lying In Bed,Asleep-Trying to sleep,0.26
+Lying In Bed,Transfer To Bed,0.18
+Lying In Bed,Watching TV,0.02
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Therapy,0.39
+Lying In Bed,Asleep-Trying to sleep,0.36
+Lying In Bed,Transfer To Bed,0.23
+Lying In Bed,Watching TV,0.01
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Lying In Bed,0.96
+Lying In Bed,Nurse Visit,0.02
+Lying In Bed,Therapy,0.01
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Transfer To Bed,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Therapy,0.85
+Lying In Bed,Transfer To Bed,0.14
+Lying In Bed,Asleep-Trying to sleep,0.01
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Asleep-Trying to sleep,0.97
+Lying In Bed,Transfer To Bed,0.03
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Therapy,0.66
+Lying In Bed,Transfer To Bed,0.25
+Lying In Bed,Asleep-Trying to sleep,0.07
+Lying In Bed,Watching TV,0.01
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Transfer To Bed,0.99
+Lying In Bed,Talking on the Phone,0.01
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Therapy,0.75
+Lying In Bed,Nurse Visit,0.21
+Lying In Bed,Lying In Bed,0.02
+Lying In Bed,Watching TV,0.02
+Lying In Bed,Eating,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Transfer To Bed,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Watching TV,0.41
+Lying In Bed,Therapy,0.36
+Lying In Bed,Nurse Visit,0.2
+Lying In Bed,Lying In Bed,0.03
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Transfer To Bed,0.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Doctor Visit,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Transfer To Bed,1.0
+Lying In Bed,Talking on the Phone,0.0
+Lying In Bed,Lying In Bed,0.0
+Lying In Bed,Asleep-Trying to sleep,0.0
+Lying In Bed,Eating,0.0
+Lying In Bed,Nurse Visit,0.0
+Lying In Bed,EVS Visit,0.0
+Lying In Bed,Watching TV,0.0
+Lying In Bed,Family,0.0
+Lying In Bed,Sitting In Wheelchair,0.0
+Lying In Bed,Therapy,0.0
+Lying In Bed,Doctor Visit,0.0
+Eating,Nurse Visit,1.0
+Eating,Therapy,0.0
+Eating,Eating,0.0
+Eating,Talking on the Phone,0.0
+Eating,Watching TV,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Transfer To Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Lying In Bed,0.0
+Eating,Family,0.0
+Eating,EVS Visit,0.0
+Eating,Doctor Visit,0.0
+Eating,Eating,0.7
+Eating,Watching TV,0.27
+Eating,Talking on the Phone,0.01
+Eating,Transfer To Bed,0.01
+Eating,Nurse Visit,0.01
+Eating,Therapy,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Lying In Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Transfer To Bed,1.0
+Eating,Nurse Visit,0.0
+Eating,Therapy,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Eating,0.0
+Eating,Talking on the Phone,0.0
+Eating,EVS Visit,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Watching TV,0.0
+Eating,Lying In Bed,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Nurse Visit,0.99
+Eating,Eating,0.01
+Eating,Therapy,0.0
+Eating,Talking on the Phone,0.0
+Eating,EVS Visit,0.0
+Eating,Watching TV,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Lying In Bed,0.0
+Eating,Transfer To Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Eating,1.0
+Eating,Transfer To Bed,0.0
+Eating,Watching TV,0.0
+Eating,Nurse Visit,0.0
+Eating,Talking on the Phone,0.0
+Eating,Therapy,0.0
+Eating,Lying In Bed,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Eating,0.99
+Eating,Transfer To Bed,0.01
+Eating,Nurse Visit,0.0
+Eating,Watching TV,0.0
+Eating,Talking on the Phone,0.0
+Eating,Therapy,0.0
+Eating,Lying In Bed,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Therapy,0.99
+Eating,Nurse Visit,0.01
+Eating,Talking on the Phone,0.0
+Eating,Eating,0.0
+Eating,Watching TV,0.0
+Eating,Transfer To Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Lying In Bed,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,EVS Visit,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Nurse Visit,0.99
+Eating,Therapy,0.01
+Eating,Eating,0.0
+Eating,Lying In Bed,0.0
+Eating,Watching TV,0.0
+Eating,Transfer To Bed,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,EVS Visit,0.0
+Eating,Talking on the Phone,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Doctor Visit,0.0
+Eating,Family,0.0
+Eating,Nurse Visit,1.0
+Eating,Therapy,0.0
+Eating,Eating,0.0
+Eating,Watching TV,0.0
+Eating,Talking on the Phone,0.0
+Eating,Transfer To Bed,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Lying In Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Nurse Visit,1.0
+Eating,Therapy,0.0
+Eating,Eating,0.0
+Eating,Talking on the Phone,0.0
+Eating,Watching TV,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Transfer To Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Lying In Bed,0.0
+Eating,Doctor Visit,0.0
+Eating,Family,0.0
+Eating,Eating,1.0
+Eating,Transfer To Bed,0.0
+Eating,Nurse Visit,0.0
+Eating,Watching TV,0.0
+Eating,Talking on the Phone,0.0
+Eating,Therapy,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Lying In Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Doctor Visit,0.0
+Eating,Family,0.0
+Eating,Watching TV,0.96
+Eating,Transfer To Bed,0.04
+Eating,Talking on the Phone,0.0
+Eating,Eating,0.0
+Eating,Therapy,0.0
+Eating,Nurse Visit,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Family,0.0
+Eating,Lying In Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Doctor Visit,0.0
+Eating,Nurse Visit,1.0
+Eating,Therapy,0.0
+Eating,Eating,0.0
+Eating,Watching TV,0.0
+Eating,Talking on the Phone,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Transfer To Bed,0.0
+Eating,Lying In Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Transfer To Bed,1.0
+Eating,Nurse Visit,0.0
+Eating,Therapy,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Eating,0.0
+Eating,Talking on the Phone,0.0
+Eating,EVS Visit,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Watching TV,0.0
+Eating,Lying In Bed,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Eating,0.98
+Eating,Transfer To Bed,0.02
+Eating,Nurse Visit,0.0
+Eating,Therapy,0.0
+Eating,Watching TV,0.0
+Eating,Talking on the Phone,0.0
+Eating,Lying In Bed,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Doctor Visit,0.0
+Eating,Family,0.0
+Eating,Transfer To Bed,0.99
+Eating,Nurse Visit,0.01
+Eating,Talking on the Phone,0.0
+Eating,Lying In Bed,0.0
+Eating,Therapy,0.0
+Eating,Eating,0.0
+Eating,Family,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,EVS Visit,0.0
+Eating,Watching TV,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Doctor Visit,0.0
+Eating,Nurse Visit,1.0
+Eating,Therapy,0.0
+Eating,Eating,0.0
+Eating,Watching TV,0.0
+Eating,Talking on the Phone,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Lying In Bed,0.0
+Eating,Transfer To Bed,0.0
+Eating,Family,0.0
+Eating,EVS Visit,0.0
+Eating,Doctor Visit,0.0
+Eating,Transfer To Bed,1.0
+Eating,Talking on the Phone,0.0
+Eating,Lying In Bed,0.0
+Eating,Nurse Visit,0.0
+Eating,Eating,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Family,0.0
+Eating,EVS Visit,0.0
+Eating,Watching TV,0.0
+Eating,Therapy,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Doctor Visit,0.0
+Eating,Therapy,0.66
+Eating,Nurse Visit,0.25
+Eating,Eating,0.09
+Eating,Asleep-Trying to sleep,0.0
+Eating,Lying In Bed,0.0
+Eating,Watching TV,0.0
+Eating,Transfer To Bed,0.0
+Eating,EVS Visit,0.0
+Eating,Talking on the Phone,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Doctor Visit,0.0
+Eating,Family,0.0
+Eating,Nurse Visit,1.0
+Eating,Therapy,0.0
+Eating,Eating,0.0
+Eating,Watching TV,0.0
+Eating,Talking on the Phone,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Transfer To Bed,0.0
+Eating,Lying In Bed,0.0
+Eating,Family,0.0
+Eating,EVS Visit,0.0
+Eating,Doctor Visit,0.0
+Eating,Transfer To Bed,1.0
+Eating,Nurse Visit,0.0
+Eating,Talking on the Phone,0.0
+Eating,Lying In Bed,0.0
+Eating,Eating,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,EVS Visit,0.0
+Eating,Family,0.0
+Eating,Therapy,0.0
+Eating,Watching TV,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Doctor Visit,0.0
+Eating,Asleep-Trying to sleep,0.76
+Eating,Watching TV,0.11
+Eating,Therapy,0.07
+Eating,Transfer To Bed,0.05
+Eating,Talking on the Phone,0.01
+Eating,Lying In Bed,0.0
+Eating,Eating,0.0
+Eating,Nurse Visit,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Asleep-Trying to sleep,0.68
+Eating,Transfer To Bed,0.15
+Eating,Therapy,0.09
+Eating,Watching TV,0.07
+Eating,Talking on the Phone,0.01
+Eating,Lying In Bed,0.0
+Eating,Eating,0.0
+Eating,Nurse Visit,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Transfer To Bed,1.0
+Eating,Nurse Visit,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Therapy,0.0
+Eating,Eating,0.0
+Eating,Talking on the Phone,0.0
+Eating,EVS Visit,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Watching TV,0.0
+Eating,Lying In Bed,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Therapy,0.41
+Eating,Asleep-Trying to sleep,0.38
+Eating,Transfer To Bed,0.2
+Eating,Watching TV,0.01
+Eating,Talking on the Phone,0.0
+Eating,Lying In Bed,0.0
+Eating,Eating,0.0
+Eating,Nurse Visit,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Transfer To Bed,1.0
+Eating,Talking on the Phone,0.0
+Eating,Lying In Bed,0.0
+Eating,Nurse Visit,0.0
+Eating,Eating,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,EVS Visit,0.0
+Eating,Watching TV,0.0
+Eating,Family,0.0
+Eating,Therapy,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Doctor Visit,0.0
+Eating,Nurse Visit,1.0
+Eating,Therapy,0.0
+Eating,Eating,0.0
+Eating,Watching TV,0.0
+Eating,Talking on the Phone,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Transfer To Bed,0.0
+Eating,Lying In Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Family,0.0
+Eating,EVS Visit,0.0
+Eating,Doctor Visit,0.0
+Eating,Eating,0.93
+Eating,Transfer To Bed,0.07
+Eating,Nurse Visit,0.0
+Eating,Watching TV,0.0
+Eating,Therapy,0.0
+Eating,Talking on the Phone,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Lying In Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Watching TV,1.0
+Eating,Eating,0.0
+Eating,Nurse Visit,0.0
+Eating,Therapy,0.0
+Eating,Transfer To Bed,0.0
+Eating,Talking on the Phone,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Lying In Bed,0.0
+Eating,Family,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Doctor Visit,0.0
+Eating,Watching TV,0.97
+Eating,Eating,0.01
+Eating,Talking on the Phone,0.01
+Eating,Therapy,0.01
+Eating,Nurse Visit,0.0
+Eating,Family,0.0
+Eating,Transfer To Bed,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Lying In Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Doctor Visit,0.0
+Eating,Nurse Visit,1.0
+Eating,Therapy,0.0
+Eating,Eating,0.0
+Eating,Watching TV,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Talking on the Phone,0.0
+Eating,Transfer To Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Lying In Bed,0.0
+Eating,EVS Visit,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Nurse Visit,1.0
+Eating,Therapy,0.0
+Eating,Eating,0.0
+Eating,Talking on the Phone,0.0
+Eating,Watching TV,0.0
+Eating,Transfer To Bed,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,EVS Visit,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Lying In Bed,0.0
+Eating,Doctor Visit,0.0
+Eating,Family,0.0
+Eating,Nurse Visit,0.96
+Eating,Therapy,0.03
+Eating,Eating,0.0
+Eating,Lying In Bed,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Transfer To Bed,0.0
+Eating,Watching TV,0.0
+Eating,Talking on the Phone,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Doctor Visit,0.0
+Eating,Family,0.0
+Eating,Transfer To Bed,0.99
+Eating,Nurse Visit,0.01
+Eating,Therapy,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Eating,0.0
+Eating,Talking on the Phone,0.0
+Eating,EVS Visit,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Lying In Bed,0.0
+Eating,Watching TV,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Eating,Asleep-Trying to sleep,0.4
+Eating,Therapy,0.23
+Eating,Watching TV,0.2
+Eating,Transfer To Bed,0.09
+Eating,Lying In Bed,0.07
+Eating,Talking on the Phone,0.01
+Eating,Nurse Visit,0.0
+Eating,Eating,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,Family,0.0
+Eating,EVS Visit,0.0
+Eating,Doctor Visit,0.0
+Eating,Eating,0.98
+Eating,Transfer To Bed,0.02
+Eating,Nurse Visit,0.0
+Eating,Watching TV,0.0
+Eating,Therapy,0.0
+Eating,Talking on the Phone,0.0
+Eating,Asleep-Trying to sleep,0.0
+Eating,Lying In Bed,0.0
+Eating,Sitting In Wheelchair,0.0
+Eating,EVS Visit,0.0
+Eating,Family,0.0
+Eating,Doctor Visit,0.0
+Nurse Visit,Nurse Visit,0.92
+Nurse Visit,Asleep-Trying to sleep,0.06
+Nurse Visit,Therapy,0.01
+Nurse Visit,Eating,0.01
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Transfer To Bed,0.75
+Nurse Visit,Asleep-Trying to sleep,0.25
+Nurse Visit,Nurse Visit,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Therapy,0.52
+Nurse Visit,Asleep-Trying to sleep,0.26
+Nurse Visit,Nurse Visit,0.08
+Nurse Visit,Transfer To Bed,0.07
+Nurse Visit,Eating,0.06
+Nurse Visit,Sitting In Wheelchair,0.01
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Asleep-Trying to sleep,1.0
+Nurse Visit,Nurse Visit,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Nurse Visit,0.9
+Nurse Visit,Therapy,0.08
+Nurse Visit,Asleep-Trying to sleep,0.02
+Nurse Visit,Eating,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Nurse Visit,0.78
+Nurse Visit,Transfer To Bed,0.13
+Nurse Visit,Therapy,0.04
+Nurse Visit,Eating,0.03
+Nurse Visit,EVS Visit,0.01
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Asleep-Trying to sleep,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Nurse Visit,0.56
+Nurse Visit,Therapy,0.34
+Nurse Visit,Talking on the Phone,0.07
+Nurse Visit,Transfer To Bed,0.03
+Nurse Visit,Eating,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Asleep-Trying to sleep,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Nurse Visit,0.7
+Nurse Visit,Therapy,0.3
+Nurse Visit,Eating,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Asleep-Trying to sleep,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Asleep-Trying to sleep,0.74
+Nurse Visit,Sitting In Wheelchair,0.25
+Nurse Visit,Nurse Visit,0.01
+Nurse Visit,Family,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Therapy,0.61
+Nurse Visit,Transfer To Bed,0.34
+Nurse Visit,Sitting In Wheelchair,0.03
+Nurse Visit,Asleep-Trying to sleep,0.01
+Nurse Visit,Nurse Visit,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Nurse Visit,0.89
+Nurse Visit,Talking on the Phone,0.1
+Nurse Visit,Therapy,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Asleep-Trying to sleep,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Talking on the Phone,0.54
+Nurse Visit,Therapy,0.15
+Nurse Visit,Watching TV,0.13
+Nurse Visit,Nurse Visit,0.11
+Nurse Visit,Asleep-Trying to sleep,0.06
+Nurse Visit,Eating,0.01
+Nurse Visit,EVS Visit,0.01
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Nurse Visit,0.71
+Nurse Visit,Sitting In Wheelchair,0.17
+Nurse Visit,Asleep-Trying to sleep,0.08
+Nurse Visit,Therapy,0.04
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Asleep-Trying to sleep,0.49
+Nurse Visit,Sitting In Wheelchair,0.43
+Nurse Visit,Nurse Visit,0.07
+Nurse Visit,Therapy,0.01
+Nurse Visit,Eating,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Asleep-Trying to sleep,0.62
+Nurse Visit,Sitting In Wheelchair,0.38
+Nurse Visit,Nurse Visit,0.01
+Nurse Visit,Eating,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Nurse Visit,0.75
+Nurse Visit,Asleep-Trying to sleep,0.25
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Asleep-Trying to sleep,0.95
+Nurse Visit,Nurse Visit,0.04
+Nurse Visit,Sitting In Wheelchair,0.01
+Nurse Visit,Eating,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Nurse Visit,0.92
+Nurse Visit,Lying In Bed,0.04
+Nurse Visit,Asleep-Trying to sleep,0.03
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Nurse Visit,0.39
+Nurse Visit,Therapy,0.3
+Nurse Visit,Sitting In Wheelchair,0.15
+Nurse Visit,EVS Visit,0.08
+Nurse Visit,Asleep-Trying to sleep,0.07
+Nurse Visit,Eating,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Nurse Visit,0.67
+Nurse Visit,Sitting In Wheelchair,0.18
+Nurse Visit,Therapy,0.11
+Nurse Visit,Asleep-Trying to sleep,0.03
+Nurse Visit,Eating,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Nurse Visit,0.58
+Nurse Visit,Sitting In Wheelchair,0.33
+Nurse Visit,EVS Visit,0.06
+Nurse Visit,Asleep-Trying to sleep,0.03
+Nurse Visit,Eating,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Transfer To Bed,0.39
+Nurse Visit,Therapy,0.37
+Nurse Visit,Asleep-Trying to sleep,0.16
+Nurse Visit,Nurse Visit,0.07
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Asleep-Trying to sleep,0.56
+Nurse Visit,Nurse Visit,0.42
+Nurse Visit,Sitting In Wheelchair,0.02
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Asleep-Trying to sleep,0.6
+Nurse Visit,Sitting In Wheelchair,0.32
+Nurse Visit,Nurse Visit,0.05
+Nurse Visit,Eating,0.03
+Nurse Visit,Therapy,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Nurse Visit,0.61
+Nurse Visit,Sitting In Wheelchair,0.2
+Nurse Visit,Asleep-Trying to sleep,0.1
+Nurse Visit,Therapy,0.08
+Nurse Visit,EVS Visit,0.01
+Nurse Visit,Eating,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Therapy,0.96
+Nurse Visit,Sitting In Wheelchair,0.02
+Nurse Visit,Transfer To Bed,0.01
+Nurse Visit,Asleep-Trying to sleep,0.01
+Nurse Visit,Eating,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Nurse Visit,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Sitting In Wheelchair,0.6
+Nurse Visit,Asleep-Trying to sleep,0.32
+Nurse Visit,Nurse Visit,0.07
+Nurse Visit,Therapy,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Nurse Visit,0.39
+Nurse Visit,Eating,0.18
+Nurse Visit,Asleep-Trying to sleep,0.17
+Nurse Visit,Sitting In Wheelchair,0.15
+Nurse Visit,Therapy,0.11
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Nurse Visit,0.65
+Nurse Visit,Therapy,0.27
+Nurse Visit,Transfer To Bed,0.07
+Nurse Visit,Talking on the Phone,0.01
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Asleep-Trying to sleep,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Therapy,0.45
+Nurse Visit,Sitting In Wheelchair,0.3
+Nurse Visit,Talking on the Phone,0.16
+Nurse Visit,Nurse Visit,0.09
+Nurse Visit,Eating,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Asleep-Trying to sleep,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Nurse Visit,0.99
+Nurse Visit,Therapy,0.01
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Asleep-Trying to sleep,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Asleep-Trying to sleep,0.58
+Nurse Visit,Nurse Visit,0.23
+Nurse Visit,Sitting In Wheelchair,0.16
+Nurse Visit,EVS Visit,0.02
+Nurse Visit,Therapy,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Nurse Visit,0.83
+Nurse Visit,Asleep-Trying to sleep,0.16
+Nurse Visit,Therapy,0.01
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Nurse Visit,0.61
+Nurse Visit,Asleep-Trying to sleep,0.3
+Nurse Visit,Sitting In Wheelchair,0.08
+Nurse Visit,Therapy,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Nurse Visit,0.49
+Nurse Visit,Sitting In Wheelchair,0.18
+Nurse Visit,Transfer To Bed,0.17
+Nurse Visit,Asleep-Trying to sleep,0.15
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Asleep-Trying to sleep,0.96
+Nurse Visit,Nurse Visit,0.04
+Nurse Visit,Eating,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Therapy,1.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Asleep-Trying to sleep,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Nurse Visit,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Nurse Visit,0.6
+Nurse Visit,Transfer To Bed,0.28
+Nurse Visit,EVS Visit,0.12
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Asleep-Trying to sleep,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Therapy,0.91
+Nurse Visit,Asleep-Trying to sleep,0.07
+Nurse Visit,Sitting In Wheelchair,0.02
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Nurse Visit,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Asleep-Trying to sleep,0.54
+Nurse Visit,Sitting In Wheelchair,0.45
+Nurse Visit,Nurse Visit,0.01
+Nurse Visit,Eating,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Asleep-Trying to sleep,0.48
+Nurse Visit,Nurse Visit,0.32
+Nurse Visit,Therapy,0.19
+Nurse Visit,Transfer To Bed,0.02
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Transfer To Bed,1.0
+Nurse Visit,Nurse Visit,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Asleep-Trying to sleep,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Therapy,0.56
+Nurse Visit,Asleep-Trying to sleep,0.19
+Nurse Visit,Sitting In Wheelchair,0.14
+Nurse Visit,Transfer To Bed,0.12
+Nurse Visit,Eating,0.0
+Nurse Visit,Nurse Visit,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Therapy,0.63
+Nurse Visit,Asleep-Trying to sleep,0.27
+Nurse Visit,Sitting In Wheelchair,0.09
+Nurse Visit,Eating,0.01
+Nurse Visit,Transfer To Bed,0.01
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Nurse Visit,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Transfer To Bed,0.82
+Nurse Visit,Watching TV,0.12
+Nurse Visit,Lying In Bed,0.03
+Nurse Visit,Asleep-Trying to sleep,0.02
+Nurse Visit,EVS Visit,0.01
+Nurse Visit,Nurse Visit,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Sitting In Wheelchair,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Asleep-Trying to sleep,0.86
+Nurse Visit,Sitting In Wheelchair,0.08
+Nurse Visit,Therapy,0.05
+Nurse Visit,Eating,0.01
+Nurse Visit,Watching TV,0.01
+Nurse Visit,Nurse Visit,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Sitting In Wheelchair,0.59
+Nurse Visit,Asleep-Trying to sleep,0.27
+Nurse Visit,Nurse Visit,0.14
+Nurse Visit,Eating,0.0
+Nurse Visit,Therapy,0.0
+Nurse Visit,Family,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Talking on the Phone,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Therapy,0.6
+Nurse Visit,Nurse Visit,0.24
+Nurse Visit,Sitting In Wheelchair,0.08
+Nurse Visit,Talking on the Phone,0.07
+Nurse Visit,EVS Visit,0.0
+Nurse Visit,Eating,0.0
+Nurse Visit,Asleep-Trying to sleep,0.0
+Nurse Visit,Watching TV,0.0
+Nurse Visit,Transfer To Bed,0.0
+Nurse Visit,Doctor Visit,0.0
+Nurse Visit,Lying In Bed,0.0
+Nurse Visit,Family,0.0
+Transfer To Bed,Transfer To Bed,1.0
+Transfer To Bed,Therapy,0.0
+Transfer To Bed,Talking on the Phone,0.0
+Transfer To Bed,Eating,0.0
+Transfer To Bed,Nurse Visit,0.0
+Transfer To Bed,Watching TV,0.0
+Transfer To Bed,Lying In Bed,0.0
+Transfer To Bed,Asleep-Trying to sleep,0.0
+Transfer To Bed,Sitting In Wheelchair,0.0
+Transfer To Bed,EVS Visit,0.0
+Transfer To Bed,Doctor Visit,0.0
+Transfer To Bed,Family,0.0
+Transfer To Bed,Transfer To Bed,1.0
+Transfer To Bed,Eating,0.0
+Transfer To Bed,Sitting In Wheelchair,0.0
+Transfer To Bed,Talking on the Phone,0.0
+Transfer To Bed,Therapy,0.0
+Transfer To Bed,Nurse Visit,0.0
+Transfer To Bed,Watching TV,0.0
+Transfer To Bed,Asleep-Trying to sleep,0.0
+Transfer To Bed,Lying In Bed,0.0
+Transfer To Bed,EVS Visit,0.0
+Transfer To Bed,Doctor Visit,0.0
+Transfer To Bed,Family,0.0

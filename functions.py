@@ -243,16 +243,19 @@ def train_model(model, features_train, labels_train, features_test, labels_test,
     # Saving your Model
     model.save(model_name)
 
-    print("Done")
+    print("Done") 
 
 
-def predict_avg(model, output_size, num_frames, image_height, image_width, classes):
+def predict_avg(directory, model, output_size, num_frames, image_height, image_width, classes, webcam=False):
 
     # Initialize the Numpy array which will store Prediction Probabilities
     predicted_labels_probabilities_np = np.zeros((num_frames, output_size), dtype = float)
 
-    # Open webcam
-    video_reader = cv2.VideoCapture(0)
+    if webcam == True:
+        # Open webcam
+        video_reader = cv2.VideoCapture(0)
+    else:
+        video_reader = cv2.VideoCapture(directory)
 
     # Get The Total Frames present in the video
     video_frames_count = int(video_reader.get(cv2.CAP_PROP_FRAME_COUNT))
@@ -416,6 +419,48 @@ def plot_history(history):
   plt.show()
 
 
+def predict_all(test_path, model, num_frames, image_height, image_width, classes, output_size, webcam):
+    # train_path = f'{path}/downloads/selected_features'
+    # test_path = f'{path}/downloads/ignored_features'
+    train_directory = list_files(test_path)
+
+    all_results = [] 
+
+    for directory in train_directory:
+        print(f'Class: {directory}')
+
+        vid_path = f'{test_path}/{directory}'
+
+        dir_files = list_files(vid_path)
+
+        if len(dir_files) != 0:
+
+            for video in dir_files:
+
+                input_path = f'{vid_path}/{video}'
+
+                # Make avg prediction for each video
+                p_class = predict_avg(input_path, model, output_size, num_frames, image_height, image_width, classes, webcam)
+                result = [directory, p_class]
+                # all_results.append(result)
+
+                # Get true labels and predictions
+                true_class = result[0]
+                pred = result[1]
+
+                for p in pred:
+                    all_results.append({"true_class": true_class, 
+                                "predicted_class": p[0], 
+                                "predicted_value": p[1]})
+
+                print(result)
+
+        else:
+            print("No video found")
+
+    print("Done")
+
+    return all_results
 
 
 if __name__ == "__main__":
@@ -431,3 +476,4 @@ if __name__ == "__main__":
     train_model()
     predict_avg()
     predict_avg_stream()
+    predict_all()

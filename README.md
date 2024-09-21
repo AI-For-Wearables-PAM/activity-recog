@@ -9,10 +9,25 @@ Two convolutional neural networks (CNNs) are trained using OpenCV and TensorFlow
 The `tensorflow-metal` plugin will enable the GPU on Macs fitted with [Apple silicon](https://support.apple.com/en-us/116943) or AMD procesors, which radically improves model training time. More info is available [here](https://pypi.org/project/tensorflow-metal/). 
 
 
-#### 1. Create venv  
+#### 1. Set up environment 
+**Deactivate current venv / conda environments**
+venv
+```console
+$ deactivate
+```
 
+conda
+```console
+$ conda deactivate
+```
+
+**Create new venv**
 ```console
 $ python3 -m venv ~/venv-metal  
+```  
+
+**Activate venv-metal**
+```console
 $ source ~/venv-metal/bin/activate  
 ```  
 
