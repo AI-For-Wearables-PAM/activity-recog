@@ -73,13 +73,15 @@ while run:
     # Briefly open webcam and make an average prediction
     elif stream == 'n':
         print('Making predictions...')
-        predictions = predict_avg(model = model, 
-                                output_size = size, 
-                                num_frames = frames, 
-                                image_height = img_height, 
-                                image_width = img_width,
-                                classes = classes_list)
-        
+        predictions = predict_avg(directory = output_path,
+                                  model = model, 
+                                  output_size = size, 
+                                  num_frames = frames, 
+                                  image_height = img_height, 
+                                  image_width = img_width, 
+                                  classes = classes_list, 
+                                  webcam = True)
+
 
         # Generate table of predictions
         table = []
