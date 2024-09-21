@@ -90,17 +90,13 @@ model = load_model(model_path)
 #### Short duration sample from live video
 
 
-
-
 #### Live video with media player
-From `webcam.py`
+From `./examples/webcam.py`
 ```
 window_size = 1
 output_video_file_path = './predictions/new_capture.mp4'  
 predict_on_live_video(output_video_file_path, window_size)
 ```
-
-
 
 
 ## Conv3D Version
