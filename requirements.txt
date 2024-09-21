@@ -1,0 +1,11 @@
+google_api_python_client==2.146.0
+google_auth_oauthlib==1.2.1
+keras==3.5.0
+matplotlib==3.8.4
+numpy==1.23.5
+opencv_python==4.10.0.84
+pandas==2.2.3
+protobuf==5.28.2
+scikit_learn==1.5.2
+tensorflow==2.17.0
+tensorflow_macos==2.15.0

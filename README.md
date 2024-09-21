@@ -1,9 +1,123 @@
-# activity-recog
-Initial work following a tutorial to use OpenCV for human activity recognition. 
+# Patient Activity Monitoring
+This repo features our initial work using OpenCV and TensorFlow for human activity recognition. It modifies base code provided from the tutorial [Introduction to Video Classification & Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/). 
 
-You can copy the file to your Google Drive from this link below:
-- [Google Colab copy](https://colab.research.google.com/drive/1B5KmcP28yq4VZSaw1AWCoJXQBaOp7-qB?usp=sharing)
+Two convolutional neural networks (CNNs) are trained using OpenCV and TensorFlow: a [Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D) and [Conv3D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv3D) version. The The Conv2D and Conv3D models contain 2 and 3 convolutional layers, respectively.
 
-- The file `activity-recog.ipynb` shows the proof of concept created by following the tutorial [Introduction to Video Classification & Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/)
-- The code is a little messy and not all functions are used.
-- The folder `data` is ignored for storage and PII reasons and will have to be added to the root of your local clone of this repo. 
+## Set up environment
+
+### If using Apple Silicon GPU
+The `tensorflow-metal` plugin will enable the GPU on Macs fitted with [Apple silicon](https://support.apple.com/en-us/116943) or AMD procesors, which radically improves model training time. More info is available [here](https://pypi.org/project/tensorflow-metal/). 
+
+
+#### 1. Create venv  
+
+```console
+$ python3 -m venv ~/venv-metal  
+$ source ~/venv-metal/bin/activate  
+```  
+
+#### 2. Install tensorflow-metal
+
+```console
+$ python -m pip install -U pip  
+$ python -m pip install tensorflow-metal
+```
+
+#### 3. Install TensorFlow and OpenCV
+```
+$ python -m pip install tensorflow
+$ pip3 install opencv-python
+```
+
+#### 4. Install dependencies from requirements.txt file (optional)
+
+```console
+$ pip install -r requirements.txt
+```
+
+#### 5. Check package versions 
+
+```console
+$ pip show <package name>
+```
+
+## File structure
+The file `train_model.py` handles model training. Training and testing data is placed in the `downloads` folder at the root of your local clone of this repo. This directory is ignored for storage and PII reasons and will need to be added manually.
+
+```
+root
+└───downloads  
+│   └───test
+│   │   └─feature
+│   │     │   video1.mp4
+│   │     │   video2.mp4
+│   │     │   ...
+│   │
+│   └───train
+│   │   └─feature
+│   │     │   video3.mp4
+│   │     │   video4.mp4
+│   │     │   ...
+```
+
+## Conv2D Version
+
+### Hyperparameters
+
+#### Architecture hyperparameters
+
+[...]
+
+#### Training hyperparameters
+
+[...]
+
+
+### Train model
+
+```
+trained_model = trainModel(...)
+```
+
+### Load model
+
+```
+model = load_model(model_path)
+```
+
+### Inference
+
+#### Short duration sample from live video
+
+
+
+
+#### Live video with media player
+From `webcam.py`
+```
+window_size = 1
+output_video_file_path = './predictions/new_capture.mp4'  
+predict_on_live_video(output_video_file_path, window_size)
+```
+
+
+
+
+## Conv3D Version
+[...]
+
+#### Architecture hyperparameters
+
+[...]
+
+#### Training hyperparameters
+
+[...]
+
+
+## References
+- [Introduction to Video Classification & Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/)
+- [Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D)
+- [Conv3D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv3D)
+- [Apple silicon](https://support.apple.com/en-us/116943)
+- [tensorflow-metal](https://pypi.org/project/tensorflow-metal/)

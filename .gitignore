@@ -2,6 +2,8 @@
 
 # local video files 
 data/
+downloads/
+old/
 
 # misc
 .DS_Store
