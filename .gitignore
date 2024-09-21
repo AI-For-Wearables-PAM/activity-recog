@@ -1,11 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # local video files 
-data/
 downloads/
 
 # misc
 __pycache__/
+.venv
 .DS_Store
 .env
 .env.local
