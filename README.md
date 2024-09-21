@@ -88,10 +88,33 @@ model = load_model(model_path)
 ### Inference
 
 #### Short duration sample from live video
-
+```
+predictions = predict_avg(...)
+```
+Example output: 
+```
+Predictions for each class:
+ 
++------------------------+---------------+
+| Prediction             |   Probability |
++========================+===============+
+| EVS Visit              |             1 |
+| Lying In Bed           |             0 |
+| Family                 |             0 |
+| Talking on the Phone   |             0 |
+| Sitting In Wheelchair  |             0 |
+| Asleep Trying to sleep |             0 |
+| Watching TV            |             0 |
+| Eating                 |             0 |
+| Therapy                |             0 |
+| Nurse Visit            |             0 |
+| Doctor Visit           |             0 |
+| Transfer To Bed        |             0 |
++------------------------+---------------+
+```
 
 #### Live video with media player
-From `./examples/webcam.py`
+From `webcam.py`
 ```
 window_size = 1
 output_video_file_path = './predictions/new_capture.mp4'  
