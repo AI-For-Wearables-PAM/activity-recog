@@ -16,3 +16,7 @@ train_dir = f'{path}/train'
 
 # Run grid search over multiple hyperparameters
 best_params, best_accuracy, best_model_path = run_random_search(train_dir, param_grid)
+
+print(best_params)
+print(best_accuracy)
+print(best_model_path)

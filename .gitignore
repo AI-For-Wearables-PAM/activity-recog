@@ -2,7 +2,9 @@
 
 # local video files 
 downloads/
-movinet/
+
+# Conv3D models are too large for GitHub storage. Add them to Google Drive.
+conv3D/*.keras
 
 # misc
 __pycache__/
