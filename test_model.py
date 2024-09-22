@@ -8,41 +8,61 @@ model_path = './models/2024-09-20-05-11-02-model.keras'
 model = load_model(model_path)
 print(f'Loaded model from: {model_path}')
 
-# Predict each video in test set
-test_path = './downloads/test'
+# Predict each video
+print(" ")
+print("Use test or train dataset?")
+print('----> Options: test | train | q')
 
-# Get class names
-all_classes_names = get_classes(test_path)
+selection = input()
 
-pre_pro = pre_process(test_path)
+run = True
 
-classes_list = pre_pro[0]
-model_output_size = pre_pro[1]
+while run: 
+    if selection == "test" or selection == "train":
+        subset = selection
+        path = f'./downloads/{subset}'
 
-# Define params
-img_height, img_width = 64, 64
-max_images_per_class = 8000
-frames = 12
-window_size = 1
-size = len(classes_list)
+        # Get class names
+        all_classes_names = get_classes(path)
 
-# Make predictions
-all_predictions = predict_all(test_path = test_path,
-                              model = model,
-                              output_size = size,
-                              num_frames = frames, 
-                              image_height = img_height, 
-                              image_width = img_width, 
-                              classes = classes_list,
-                              webcam = False)
+        pre_pro = pre_process(path)
 
-# Make DataFrame
-results_df = pd.DataFrame(all_predictions)
+        classes_list = pre_pro[0]
+        model_output_size = pre_pro[1]
 
-# Timestamp
-timestamp = dt.datetime.now()
-today = dt.datetime.date(timestamp)
+        # Define params
+        img_height, img_width = 64, 64
+        max_images_per_class = 8000
+        frames = 12
+        window_size = 1
+        size = len(classes_list)
 
-# Save the DataFrame
-print("Saving data")
-results_df.to_csv(f'./data/{today}-all_predictions.csv', index=False)
+        # Make predictions
+        all_predictions = predict_all(test_path = path,
+                                    model = model,
+                                    output_size = size,
+                                    num_frames = frames, 
+                                    image_height = img_height, 
+                                    image_width = img_width, 
+                                    classes = classes_list,
+                                    webcam = False)
+
+        # Make DataFrame
+        results_df = pd.DataFrame(all_predictions)
+
+        # Timestamp
+        timestamp = dt.datetime.today().strftime('%Y-%m-%d-%H-%M-%S')
+
+        # Save the DataFrame
+        print("Saving data")
+        results_df.to_csv(f'./data/{timestamp}-{subset}.csv', index=False)
+
+        run = False
+
+    elif selection == "q":
+        run = False
+
+    else: 
+        print(" ")
+        print('Invalid response. Enter "test" or "train". Enter "q" to quit.')
+

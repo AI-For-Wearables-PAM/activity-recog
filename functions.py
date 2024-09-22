@@ -426,16 +426,28 @@ def predict_all(test_path, model, num_frames, image_height, image_width, classes
 
     all_results = [] 
 
+    dir_len = len(train_directory)
+    sub_dir_len = 0
+    dir_count = 1
+    sub_dir_count = 1
+
     for directory in train_directory:
-        print(f'Class: {directory}')
 
         vid_path = f'{test_path}/{directory}'
 
         dir_files = list_files(vid_path)
+        sub_dir_len = len(dir_files)
 
-        if len(dir_files) != 0:
+        print(" ")
+        print("=========================================")
+        print(f'Class: {directory}')
+        print("=========================================")
 
+        if sub_dir_len != 0:
             for video in dir_files:
+                print(" ")
+                print(f'Folder: {dir_count}/{dir_len}  |  File: {sub_dir_count}/{sub_dir_len}')
+                print(" ")
 
                 input_path = f'{vid_path}/{video}'
 
@@ -453,7 +465,12 @@ def predict_all(test_path, model, num_frames, image_height, image_width, classes
                                 "predicted_class": p[0], 
                                 "predicted_value": p[1]})
 
-                print(result)
+                # print(result)
+
+                sub_dir_count += 1
+
+            sub_dir_count = 0
+            dir_count += 1
 
         else:
             print("No video found")
