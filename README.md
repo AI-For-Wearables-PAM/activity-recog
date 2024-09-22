@@ -1,7 +1,7 @@
 # Patient Activity Monitoring
 This repo features our initial work using OpenCV and TensorFlow for human activity recognition. It modifies base code provided from the tutorial [Introduction to Video Classification & Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/). 
 
-Two convolutional neural networks (CNNs) are trained using OpenCV and TensorFlow: a [Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D) and [Conv3D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv3D) version. The The Conv2D and Conv3D models contain 2 and 3 convolutional layers, respectively.
+Two convolutional neural networks (CNNs) are trained using OpenCV and TensorFlow: a [Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D) and [Conv3D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv3D) version. The Conv2D and Conv3D models contain 2 and 3 convolutional layers, respectively.
 
 ## Set up environment
 
