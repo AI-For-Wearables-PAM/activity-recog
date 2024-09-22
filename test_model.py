@@ -4,7 +4,7 @@ import pandas as pd
 import datetime as dt
 
 # Load model
-model_path = './models/2024-09-20-05-11-02-model.keras'
+model_path = './conv3D/2024-09-22-13-18-18-conv3d-model.keras'
 model = load_model(model_path)
 print(f'Loaded model from: {model_path}')
 
