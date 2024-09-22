@@ -238,8 +238,7 @@ def train_model(model, features_train, labels_train, features_test, labels_test,
     current_date_time_string = dt.datetime.strftime(current_date_time_dt, date_time_format)
     model_evaluation_loss, model_evaluation_accuracy = model_evaluation_history
     model_name = f'{current_date_time_string}-model.keras'
-
-    # Saving your Model
+    
     model.save(model_name)
 
     print("Done") 

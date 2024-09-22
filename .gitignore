@@ -2,6 +2,7 @@
 
 # local video files 
 downloads/
+movinet/
 
 # misc
 __pycache__/

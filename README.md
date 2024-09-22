@@ -148,6 +148,14 @@ predict_on_live_video(output_video_file_path, window_size)
 
 [...]
 
+# movinet.py
+If packages can't be installed using `pip` try `python3 -m pip install <package name>`
+
+## Install tf-models-no-deps
+If you're unable to use `tf-models-official`, do this instead.
+```console
+$ pip install tf-models-no-deps
+```
 
 ## References
 - [Introduction to Video Classification & Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/)
@@ -155,3 +163,4 @@ predict_on_live_video(output_video_file_path, window_size)
 - [Conv3D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv3D)
 - [Apple silicon](https://support.apple.com/en-us/116943)
 - [tensorflow-metal](https://pypi.org/project/tensorflow-metal/)
+- [movinet](https://www.tensorflow.org/hub/tutorials/movinet)
