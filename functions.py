@@ -2,7 +2,6 @@
 
 Functions to train a model for human activity recognition
 
-
 """
 
 import os
@@ -25,7 +24,7 @@ from keras.models import Sequential
 from keras.utils import plot_model
 from keras.models import load_model
 
-from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
+from sklearn.metrics import ConfusionMatrixDisplay, classification_report
 
 
 def setup(seed_constant):
@@ -480,6 +479,83 @@ def predict_all(test_path, model, num_frames, image_height, image_width, classes
     return all_results
 
 
+# Function to plot confusion matrix. This prevents notebooks from printing the plot twice.
+def plot_confusion(t_class, p_class, title):
+
+    # Define plot design
+    title = title
+    title_size = 'xx-large'
+    label_size = 'large'
+    tick_size = 'small'
+    colors = 'turbo'
+    padding = 14
+
+    fig, ax = plt.subplots(figsize=(8,6))
+
+    # plt.suptitle(title, fontsize = title_size)
+    plt.title(title, fontsize = title_size, pad=padding * 1.25)
+    plt.xticks(fontsize = tick_size)
+    plt.yticks(fontsize = tick_size)
+    plt.ylabel("True label", fontsize = label_size, labelpad=padding)
+    plt.xlabel("Predicted label", fontsize = label_size, labelpad=padding)
+    plt.subplots_adjust(bottom=0.35)
+
+    cm = ConfusionMatrixDisplay.from_predictions(t_class, p_class, cmap=colors)
+
+    # cax = fig.add_axes([ax.get_position().x1+0.01,ax.get_position()
+    #                     .y0,0.02,ax.get_position().height])
+
+    cm.plot(ax=ax, 
+            xticks_rotation='vertical', 
+            cmap=colors)
+    
+    # plt.colorbar(cm.im_, cax=cax)
+    plt.close()
+
+    return fig
+
+
+def get_data(file_path, top = True):
+    # Import CSV of all predictions from a training run
+    df = pd.read_csv(file_path)
+
+    # Rename columns: 
+    df = df.rename(columns={"true_class": "True labels", 
+                            "predicted_class": "Predicted labels",
+                            "predicted_value": "Predicted value"
+                            })
+
+    if top:
+        # Filter data by top predictions
+        top_predictions = df.iloc[::12, :].reset_index(drop=True)
+
+        return top_predictions
+    
+    else:
+        return df
+
+
+# Make a confusion matrix from CSV data
+def make_matrix_csv(file_path, plot_title, show_top=False):
+
+    dataframe = get_data(file_path, top = show_top)
+
+    # Select true and predicted labels
+    true_classes = dataframe['True labels']
+    predicted_classes = dataframe['Predicted labels']
+
+    # Make classification report
+    report = classification_report(true_classes, predicted_classes)
+    print(report)
+
+    # Make the plot
+    confusion_matrix = plot_confusion(t_class = true_classes, 
+                                      p_class = predicted_classes, 
+                                      title = plot_title)
+    
+    return report, confusion_matrix
+
+
 if __name__ == "__main__":
     setup()
     list_files()
@@ -494,3 +570,6 @@ if __name__ == "__main__":
     predict_avg()
     predict_avg_stream()
     predict_all()
+    plot_confusion()
+    get_data()
+    make_matrix_csv()
