@@ -21,18 +21,14 @@ import tensorflow as tf
 
 from keras.layers import *
 from keras.models import Sequential
-from keras.utils import plot_model
+from keras.utils import plot_model, to_categorical
 from keras.models import load_model
 
 from sklearn.metrics import ConfusionMatrixDisplay, classification_report
 
-
-def setup(seed_constant):
-    # seed_constant = 23
-    np.random.seed(seed_constant)
-    random.seed(seed_constant)
-    tf.random.set_seed(seed_constant)
-
+# =================================
+# Generic
+# =================================
 
 # List files and ignore .DS_Store if on a Mac
 def list_files(directory):
@@ -44,52 +40,22 @@ def list_files(directory):
     return visible_files
 
 
+# =================================
+# Conv2D
+# =================================
+
+def setup(seed_constant):
+    # seed_constant = 23
+    np.random.seed(seed_constant)
+    random.seed(seed_constant)
+    tf.random.set_seed(seed_constant)
+
+
 def get_classes(directory):
     # Get Names of all classes
     all_classes_names = list_files(directory)
 
     return all_classes_names
-
-
-def plot_classes(directory, all_classes_names):
-    # Create a Matplotlib figure
-    plt.figure(figsize = (30, 30))
-
-    # Generate a random sample of images each time the cell runs
-    random_range = random.sample(range(len(all_classes_names)), 12)
-
-    # Iterate through all the random samples
-    for counter, random_index in enumerate(random_range, 1):
-
-        # Get Class Name using Random Index
-        selected_class_Name = all_classes_names[random_index]
-
-        # Get a list of all the video files present in a Class Directory
-        video_files_names_list = list_files(f'{directory}/{selected_class_Name}')
-
-        # Randomly selecg a video file
-        selected_video_file_name = random.choice(video_files_names_list)
-
-        # Read the Video File Using the Video Capture
-        video_reader = cv2.VideoCapture(f'{directory}/{selected_class_Name}/{selected_video_file_name}')
-
-        # Read The First Frame of the Video File
-        _, bgr_frame = video_reader.read()
-
-        # Close the VideoCapture object and releasing all resources.
-        video_reader.release()
-
-        # Convert the BGR Frame to RGB Frame
-        rgb_frame = cv2.cvtColor(bgr_frame, cv2.COLOR_BGR2RGB)
-
-        # Add The Class Name Text on top of the Video Frame.
-        cv2.putText(rgb_frame, selected_class_Name, (50, 200), 
-                    cv2.FONT_HERSHEY_SIMPLEX, 3, (255, 0, 0), 5)
-
-        # Assign the Frame to a specific position of a subplot
-        plt.subplot(5, 4, counter)
-        plt.imshow(rgb_frame)
-        plt.axis('off')
 
 
 def pre_process(directory):
@@ -381,42 +347,6 @@ def predict_avg_stream(model, path, classes, window, image_height, image_width, 
     cv2.destroyAllWindows()
 
 
-def plot_history(history):
-  """
-    Plotting training and validation learning curves.
-
-    Args:
-      history: model history with all the metric measures
-  """
-  fig, (ax1, ax2) = plt.subplots(2)
-
-  fig.set_size_inches(18.5, 10.5)
-
-  # Plot loss
-  ax1.set_title('Loss')
-  ax1.plot(history.history['loss'], label = 'train')
-  ax1.plot(history.history['val_loss'], label = 'test')
-  ax1.set_ylabel('Loss')
-
-  # Determine upper bound of y-axis
-  max_loss = max(history.history['loss'] + history.history['val_loss'])
-
-  ax1.set_ylim([0, np.ceil(max_loss)])
-  ax1.set_xlabel('Epoch')
-  ax1.legend(['Train', 'Validation']) 
-
-  # Plot accuracy
-  ax2.set_title('Accuracy')
-  ax2.plot(history.history['accuracy'],  label = 'train')
-  ax2.plot(history.history['val_accuracy'], label = 'test')
-  ax2.set_ylabel('Accuracy')
-  ax2.set_ylim([0, 1])
-  ax2.set_xlabel('Epoch')
-  ax2.legend(['Train', 'Validation'])
-
-  plt.show()
-
-
 def predict_all(test_path, model, num_frames, image_height, image_width, classes, output_size, webcam):
     # train_path = f'{path}/downloads/selected_features'
     # test_path = f'{path}/downloads/ignored_features'
@@ -476,6 +406,87 @@ def predict_all(test_path, model, num_frames, image_height, image_width, classes
     print("Done")
 
     return all_results
+
+
+# =================================
+# Plotting
+# =================================
+
+def plot_classes(directory, all_classes_names):
+    # Create a Matplotlib figure
+    plt.figure(figsize = (30, 30))
+
+    # Generate a random sample of images each time the cell runs
+    random_range = random.sample(range(len(all_classes_names)), 12)
+
+    # Iterate through all the random samples
+    for counter, random_index in enumerate(random_range, 1):
+
+        # Get Class Name using Random Index
+        selected_class_Name = all_classes_names[random_index]
+
+        # Get a list of all the video files present in a Class Directory
+        video_files_names_list = list_files(f'{directory}/{selected_class_Name}')
+
+        # Randomly selecg a video file
+        selected_video_file_name = random.choice(video_files_names_list)
+
+        # Read the Video File Using the Video Capture
+        video_reader = cv2.VideoCapture(f'{directory}/{selected_class_Name}/{selected_video_file_name}')
+
+        # Read The First Frame of the Video File
+        _, bgr_frame = video_reader.read()
+
+        # Close the VideoCapture object and releasing all resources.
+        video_reader.release()
+
+        # Convert the BGR Frame to RGB Frame
+        rgb_frame = cv2.cvtColor(bgr_frame, cv2.COLOR_BGR2RGB)
+
+        # Add The Class Name Text on top of the Video Frame.
+        cv2.putText(rgb_frame, selected_class_Name, (50, 200), 
+                    cv2.FONT_HERSHEY_SIMPLEX, 3, (255, 0, 0), 5)
+
+        # Assign the Frame to a specific position of a subplot
+        plt.subplot(5, 4, counter)
+        plt.imshow(rgb_frame)
+        plt.axis('off')
+
+
+def plot_history(history):
+  """
+    Plotting training and validation learning curves.
+
+    Args:
+      history: model history with all the metric measures
+  """
+  fig, (ax1, ax2) = plt.subplots(2)
+
+  fig.set_size_inches(18.5, 10.5)
+
+  # Plot loss
+  ax1.set_title('Loss')
+  ax1.plot(history.history['loss'], label = 'train')
+  ax1.plot(history.history['val_loss'], label = 'test')
+  ax1.set_ylabel('Loss')
+
+  # Determine upper bound of y-axis
+  max_loss = max(history.history['loss'] + history.history['val_loss'])
+
+  ax1.set_ylim([0, np.ceil(max_loss)])
+  ax1.set_xlabel('Epoch')
+  ax1.legend(['Train', 'Validation']) 
+
+  # Plot accuracy
+  ax2.set_title('Accuracy')
+  ax2.plot(history.history['accuracy'],  label = 'train')
+  ax2.plot(history.history['val_accuracy'], label = 'test')
+  ax2.set_ylabel('Accuracy')
+  ax2.set_ylim([0, 1])
+  ax2.set_xlabel('Epoch')
+  ax2.legend(['Train', 'Validation'])
+
+  plt.show()
 
 
 # Function to plot confusion matrix. This prevents notebooks from printing the plot twice.
@@ -555,6 +566,228 @@ def make_matrix_csv(file_path, plot_title, show_top=False):
     return report, confusion_matrix
 
 
+# =================================
+# Conv3D Functions
+# =================================
+
+# Load and Preprocess Videos
+def load_videos_from_folders(folder_path, img_size=(64, 64), sequence_length=30):
+    # classes = os.listdir(folder_path)
+    classes = list_files(folder_path)
+    data, labels = [], []
+
+    for label, activity in enumerate(classes):
+        activity_folder = os.path.join(folder_path, activity)
+        # for video_file in os.listdir(activity_folder):
+        for video_file in list_files(activity_folder):
+            video_path = os.path.join(activity_folder, video_file)
+            frames = video_to_frames(video_path, img_size, sequence_length)
+            if frames is not None:
+                data.append(frames)
+                labels.append(label)
+
+    data = np.array(data)
+    labels = to_categorical(labels, num_classes=len(classes))
+
+    return data, labels, classes
+
+
+# Convert videos to frames
+def video_to_frames(video_path, img_size, sequence_length):
+    cap = cv2.VideoCapture(video_path)
+    frames = []
+    while cap.isOpened():
+        ret, frame = cap.read()
+        if not ret:
+            break
+        frame = cv2.resize(frame, img_size)
+        frames.append(frame)
+        if len(frames) == sequence_length:
+            break
+    cap.release()
+
+    if len(frames) < sequence_length:
+        return None  # Ignore short videos
+
+    return np.array(frames)
+
+
+# Process frames from the webcam
+def process_live_frames(img_size=(64, 64), sequence_length=30):
+    cap = cv2.VideoCapture(0) 
+    frames = []
+
+    while True:
+        ret, frame = cap.read()
+        if not ret:
+            break
+
+        # Resize the frame to match the model input size
+        resized_frame = cv2.resize(frame, img_size)
+        frames.append(resized_frame)
+
+        # Display the frame
+        cv2.imshow('Live Video Feed', frame)
+
+        # If we have enough frames for a sequence, yield them for prediction
+        if len(frames) == sequence_length:
+            yield np.array(frames)  # Return sequence as numpy array
+            frames = []  # Reset for the next sequence
+
+        # Press 'q' to exit the live feed
+        if cv2.waitKey(1) & 0xFF == ord('q'):
+            break
+
+    cap.release()
+    cv2.destroyAllWindows()
+
+
+# Predict activity on live frames
+def predict_live_activity(model, activity_classes, img_size=(64, 64), sequence_length=30):
+    for frames in process_live_frames(img_size, sequence_length):
+        frames = np.expand_dims(frames, axis=0)  # Add batch dimension
+        prediction = model.predict(frames)
+        predicted_label = np.argmax(prediction, axis=1)[0]
+        predicted_activity = activity_classes[predicted_label]
+
+        print(f"Predicted Activity: {predicted_activity}")
+
+
+# Predict activity on live frames
+def predict_3D(test_path, model, activity_classes, img_size=(64, 64), sequence_length=30):
+    train_directory = list_files(test_path)
+    all_results = [] 
+
+    dir_len = len(train_directory)
+    sub_dir_len = 0
+    dir_count = 1
+    sub_dir_count = 1
+
+    for directory in train_directory:
+
+        vid_path = f'{test_path}/{directory}'
+
+        dir_files = list_files(vid_path)
+        sub_dir_len = len(dir_files)
+
+        print(" ")
+        print("=========================================")
+        print(f'Class: {directory}')
+        print("=========================================")
+
+        if sub_dir_len != 0:
+            for video in dir_files:
+                print(" ")
+                print(f'Folder: {dir_count}/{dir_len}  |  File: {sub_dir_count}/{sub_dir_len}')
+                print(" ")
+
+                input_path = f'{vid_path}/{video}'
+
+                # Make avg prediction for each video
+
+            for frames in video_to_frames(input_path, img_size, sequence_length):
+                # !!--------> Errors here <--------!!
+                # Invalid input shape for input Tensor("data:0", shape=(1, 64, 64, 3), dtype=float32). 
+                # Expected shape (None, 30, 64, 64, 3), but input has incompatible shape (1, 64, 64, 3)
+                frames = np.expand_dims(frames, axis=0)  # Add batch dimension
+                prediction = model.predict(frames)
+                predicted_label = np.argmax(prediction, axis=1)[0]
+                predicted_value= np.argmax(prediction, axis=1)[1]
+                predicted_activity = activity_classes[predicted_label]
+
+                print(f"Predicted Activity: {predicted_activity}")
+
+                # p_class = predict_avg(input_path, model, output_size, num_frames, image_height, image_width, classes, webcam)
+                result = [directory, predicted_activity, predicted_value]
+                # all_results.append(result)
+
+                # Get true labels and predictions
+                # true_class = result[0]
+                # pred = result[1]
+
+                for r in result:
+                    all_results.append({"true_class": r[0], 
+                                "predicted_class": r[1], 
+                                "predicted_value": r[2]})
+
+                # print(result)
+
+                sub_dir_count += 1
+
+            sub_dir_count = 0
+            dir_count += 1
+
+        else:
+            print("No video found")
+
+    print("Done")
+
+    return all_results
+
+
+
+
+def predict_all_3D(test_path, model, num_frames, image_height, image_width, classes, output_size, webcam):
+    # train_path = f'{path}/downloads/selected_features'
+    # test_path = f'{path}/downloads/ignored_features'
+    train_directory = list_files(test_path)
+
+    all_results = [] 
+
+    dir_len = len(train_directory)
+    sub_dir_len = 0
+    dir_count = 1
+    sub_dir_count = 1
+
+    for directory in train_directory:
+
+        vid_path = f'{test_path}/{directory}'
+
+        dir_files = list_files(vid_path)
+        sub_dir_len = len(dir_files)
+
+        print(" ")
+        print("=========================================")
+        print(f'Class: {directory}')
+        print("=========================================")
+
+        if sub_dir_len != 0:
+            for video in dir_files:
+                print(" ")
+                print(f'Folder: {dir_count}/{dir_len}  |  File: {sub_dir_count}/{sub_dir_len}')
+                print(" ")
+
+                input_path = f'{vid_path}/{video}'
+
+                # Make avg prediction for each video
+                p_class = predict_avg(input_path, model, output_size, num_frames, image_height, image_width, classes, webcam)
+                result = [directory, p_class]
+                # all_results.append(result)
+
+                # Get true labels and predictions
+                true_class = result[0]
+                pred = result[1]
+
+                for p in pred:
+                    all_results.append({"true_class": true_class, 
+                                "predicted_class": p[0], 
+                                "predicted_value": p[1]})
+
+                # print(result)
+
+                sub_dir_count += 1
+
+            sub_dir_count = 0
+            dir_count += 1
+
+        else:
+            print("No video found")
+
+    print("Done")
+
+    return all_results
+
+
 if __name__ == "__main__":
     setup()
     list_files()
@@ -572,3 +805,7 @@ if __name__ == "__main__":
     plot_confusion()
     get_data()
     make_matrix_csv()
+    load_videos_from_folders()
+    video_to_frames()
+    process_live_frames()
+    predict_all_3D()
