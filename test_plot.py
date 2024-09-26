@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Define params
 data_dir = './data'
-csv_name = '2024-09-21-19-29-39-train.csv'
+csv_name = '2024-09-21-20-07-22-test.csv'
 file_path = f'{data_dir}/{csv_name}'
 title ='Train Data Confusion'
 

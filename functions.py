@@ -163,6 +163,10 @@ def create_model(image_height, image_width, model_output_size):
                      activation = 'relu', 
                      input_shape = (image_height, image_width, 3)))
     
+    # Consider changing evaluation metric from micro avg to something else
+        # Maybe recall, optimize for different metrics
+        # Try freezing pretrained model at early or later layers, may train faster
+    
     model.add(Conv2D(filters = 64, 
                      kernel_size = (3, 3), 
                      activation = 'relu'))
