@@ -23,8 +23,6 @@ while run:
         path = f'./downloads/{subset}'
 
         # Get class names
-        # all_classes_names = get_classes(path)
-
         pre_pro = load_videos_from_folders(path)
 
         classes_list = pre_pro[1]
