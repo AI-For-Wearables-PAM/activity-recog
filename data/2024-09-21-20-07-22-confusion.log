@@ -1,0 +1,18 @@
+                        precision    recall  f1-score   support
+
+Asleep-Trying to sleep       0.72      0.31      0.43       158
+          Doctor Visit       0.00      0.00      0.00         1
+             EVS Visit       0.00      0.00      0.00         5
+                Eating       0.32      0.19      0.24        36
+                Family       1.00      0.33      0.50         9
+          Lying In Bed       0.25      0.03      0.05        33
+           Nurse Visit       0.17      0.42      0.24        48
+ Sitting In Wheelchair       0.29      0.29      0.29        28
+  Talking on the Phone       0.12      0.17      0.14        18
+               Therapy       0.03      1.00      0.06         2
+       Transfer To Bed       0.02      1.00      0.04         2
+           Watching TV       0.00      0.00      0.00       107
+
+              accuracy                           0.21       447
+             macro avg       0.24      0.31      0.17       447
+          weighted avg       0.36      0.21      0.24       447
