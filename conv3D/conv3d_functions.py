@@ -248,9 +248,38 @@ def run_random_search(train_data_folder, param_grid, iterations=3, n_combination
     return best_params, best_accuracy, best_model_path, best_val_true_labels, best_val_predicted_labels
 
 
+# Function to load saved model and evaluate on new test data
+def load_and_evaluate_model(model_path, test_data_folder, img_size=(64, 64), sequence_length=30):
+    # Load the trained model
+    model = load_model(model_path)
+
+    # Load and preprocess the test data
+    test_data, test_labels, activity_classes = load_videos_from_folders(test_data_folder, img_size, sequence_length)
+
+    # Make predictions
+    test_predictions = model.predict(test_data)
+
+    # Convert predictions and labels to class indices
+    predicted_labels = np.argmax(test_predictions, axis=1)
+    true_labels = np.argmax(test_labels, axis=1)
+
+    # Calculate accuracy
+    accuracy = accuracy_score(true_labels, predicted_labels)
+    print(f"Test Accuracy: {accuracy}")
+
+    # Generate confusion matrix
+    cm = confusion_matrix(true_labels, predicted_labels)
+    disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=activity_classes)
+    disp.plot(cmap=plt.cm.Blues)
+    plt.show()
+
+    return accuracy, predicted_labels, true_labels
+
+
 if __name__ == "__main__":
     load_videos_from_folders()
     video_to_frames()
     build_3dcnn()
     run_multiple_iterations()
     run_random_search()
+    load_and_evaluate_model()

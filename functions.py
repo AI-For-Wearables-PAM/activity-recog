@@ -24,7 +24,7 @@ from keras.models import Sequential
 from keras.utils import plot_model, to_categorical
 from keras.models import load_model
 
-from sklearn.metrics import ConfusionMatrixDisplay, classification_report
+from sklearn.metrics import ConfusionMatrixDisplay, classification_report, confusion_matrix, accuracy_score
 
 # =================================
 # Generic
@@ -494,15 +494,18 @@ def plot_history(history):
 
 
 # Function to plot confusion matrix. This prevents notebooks from printing the plot twice.
-def plot_confusion(t_class, p_class, title):
+def plot_confusion(t_class, p_class, title, cmap='turbo', **kwargs):
 
     # Define plot design
     title = title
     title_size = 'xx-large'
     label_size = 'large'
     tick_size = 'small'
-    colors = 'turbo'
+    colors = cmap
     padding = 14
+
+    if 'display_labels' in kwargs:
+        d_labels = kwargs.get("display_labels")
 
     fig, ax = plt.subplots(figsize=(8,6))
 
@@ -514,16 +517,16 @@ def plot_confusion(t_class, p_class, title):
     plt.xlabel("Predicted label", fontsize = label_size, labelpad=padding)
     plt.subplots_adjust(bottom=0.35)
 
-    cm = ConfusionMatrixDisplay.from_predictions(t_class, p_class, cmap=colors)
-
-    # cax = fig.add_axes([ax.get_position().x1+0.01,ax.get_position()
-    #                     .y0,0.02,ax.get_position().height])
+    if 'display_labels' in kwargs:
+        d_labels = kwargs.get("display_labels")
+        cm = ConfusionMatrixDisplay.from_predictions(t_class, p_class, cmap=colors, display_labels=d_labels)
+    else:
+        cm = ConfusionMatrixDisplay.from_predictions(t_class, p_class, cmap=colors)
 
     cm.plot(ax=ax, 
             xticks_rotation='vertical', 
             cmap=colors)
     
-    # plt.colorbar(cm.im_, cax=cax)
     plt.close()
 
     return fig
@@ -585,6 +588,7 @@ def load_videos_from_folders(folder_path, img_size=(64, 64), sequence_length=30)
         # for video_file in os.listdir(activity_folder):
         for video_file in list_files(activity_folder):
             video_path = os.path.join(activity_folder, video_file)
+            print(f'Path: {video_path}')
             frames = video_to_frames(video_path, img_size, sequence_length)
             if frames is not None:
                 data.append(frames)
@@ -789,7 +793,56 @@ def predict_all_3D(test_path, model, num_frames, image_height, image_width, clas
 
     print("Done")
 
-    return all_results
+    return 
+
+
+# Function to load saved model and evaluate on new test data
+def load_and_evaluate_model(model_path, test_data_folder, img_size=(64, 64), sequence_length=30, plot=False):
+    # Load the trained model
+    model = load_model(model_path)
+    print(" ")
+    print(f'Loaded model from: {model_path}')
+
+    # Load and preprocess the test data
+    print(" ")
+    print('Preprocessing')
+
+    test_data, test_labels, activity_classes = load_videos_from_folders(test_data_folder, img_size, sequence_length)
+
+    # Make predictions
+    print(" ")
+    print('Making predictions')
+    print(" ")
+
+    test_predictions = model.predict(test_data)
+
+    # Convert predictions and labels to class indices
+    predicted_labels = np.argmax(test_predictions, axis=1)
+    true_labels = np.argmax(test_labels, axis=1)
+
+    # Calculate accuracy
+    accuracy = accuracy_score(true_labels, predicted_labels)
+    print(" ")
+    print("=========================================")
+    print(f"Test Accuracy: {accuracy}")
+    print("=========================================")
+
+    if plot:
+        # Generate confusion matrix
+        # cmap = plt.cm.Blues
+        cm = plot_confusion(t_class = true_labels, 
+                    p_class = predicted_labels,
+                    display_labels = activity_classes, 
+                    title = "Conv3D Confusion")
+        
+        # Make classification report
+        report = classification_report(true_labels, predicted_labels)
+        print(report)
+
+        return accuracy, predicted_labels, true_labels, cm
+
+    else:
+        return accuracy, predicted_labels, true_labels
 
 
 if __name__ == "__main__":
@@ -813,3 +866,4 @@ if __name__ == "__main__":
     video_to_frames()
     process_live_frames()
     predict_all_3D()
+    load_and_evaluate_model()

@@ -13,47 +13,47 @@ The `tensorflow-metal` plugin will enable the GPU on Macs fitted with [Apple sil
 **Deactivate current venv / conda environments**
 venv
 ```console
-$ deactivate
+deactivate
 ```
 
 conda
 ```console
-$ conda deactivate
+conda deactivate
 ```
 
 **Create new venv**
 ```console
-$ python3 -m venv ~/venv-metal  
+python3 -m venv ~/venv-metal  
 ```  
 
 **Activate venv-metal**
 ```console
-$ source ~/venv-metal/bin/activate  
+source ~/venv-metal/bin/activate  
 ```  
 
 #### 2. Install tensorflow-metal
 
 ```console
-$ python -m pip install -U pip  
-$ python -m pip install tensorflow-metal
+python -m pip install -U pip  
+python -m pip install tensorflow-metal
 ```
 
 #### 3. Install TensorFlow and OpenCV
 ```
-$ python -m pip install tensorflow
-$ pip3 install opencv-python
+python -m pip install tensorflow
+pip3 install opencv-python
 ```
 
 #### 4. Install dependencies from requirements.txt file (optional)
 
 ```console
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 #### 5. Check package versions 
 
 ```console
-$ pip show <package name>
+pip show <package name>
 ```
 
 ## File structure
@@ -154,7 +154,7 @@ If packages can't be installed using `pip` try `python3 -m pip install <package 
 ## Install tf-models-no-deps
 If you're unable to use `tf-models-official`, do this instead.
 ```console
-$ pip install tf-models-no-deps
+pip install tf-models-no-deps
 ```
 
 ## References
