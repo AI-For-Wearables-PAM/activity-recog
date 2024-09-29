@@ -148,10 +148,49 @@ predict_on_live_video(output_video_file_path, window_size)
 
 [...]
 
-# movinet.py
+# Using pretrained models
+
+## Troubleshooting
+The file `pre_trained.ipynb` uses OpenCV features with dependencies that may not be automatically installed (e.g., GStreamer). To clear errors, OpenCV may need to be built from source. A few options are below.
+
+1. ### [Example 1: Docs from OpenCV](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html#tutorial_linux_install_quick_build_contrib)
+```
+# Install minimal prerequisites (Ubuntu 18.04 as reference)
+sudo apt update && sudo apt install -y cmake g++ wget unzip
+ 
+# Download and unpack sources
+wget -O opencv.zip https://github.com/opencv/opencv/archive/4.x.zip
+wget -O opencv_contrib.zip https://github.com/opencv/opencv_contrib/archive/4.x.zip
+unzip opencv.zip
+unzip opencv_contrib.zip
+ 
+# Create build directory and switch into it
+mkdir -p build && cd build
+ 
+# Configure
+cmake -DOPENCV_EXTRA_MODULES_PATH=../opencv_contrib-4.x/modules ../opencv-4.x
+ 
+# Build
+cmake --build .
+
+```
+
+2. ### [Example 2: A different method for building OpenCV from source](https://discuss.bluerobotics.com/t/opencv-python-with-gstreamer-backend/8842)
+```
+git clone --recursive https://github.com/skvark/opencv-python.git
+cd opencv-python
+export CMAKE_ARGS="-DWITH_GSTREAMER=ON"
+pip install --upgrade pip wheel
+# this is the build step - the repo estimates it can take from 5 
+#   mins to > 2 hrs depending on your computer hardware
+pip wheel . --verbose
+pip install opencv_python*.whl
+```
+
+## movinet.py
 If packages can't be installed using `pip` try `python3 -m pip install <package name>`
 
-## Install tf-models-no-deps
+### Install tf-models-no-deps
 If you're unable to use `tf-models-official`, do this instead.
 ```console
 pip install tf-models-no-deps
