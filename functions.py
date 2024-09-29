@@ -826,6 +826,7 @@ def load_and_evaluate_model(model_path, test_data_folder, img_size=(64, 64), seq
     print("=========================================")
     print(f"Test Accuracy: {accuracy}")
     print("=========================================")
+    print(" ")
 
     if plot:
         # Generate confusion matrix
