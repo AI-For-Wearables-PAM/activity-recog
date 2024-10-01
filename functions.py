@@ -564,7 +564,7 @@ def make_matrix_csv(file_path, plot_title, show_top=False):
     # Make classification report
     report = classification_report(true_classes, predicted_classes)
     print(report)
-
+    
     # Make the plot
     confusion_matrix = plot_confusion(t_class = true_classes, 
                                       p_class = predicted_classes, 

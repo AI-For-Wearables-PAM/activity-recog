@@ -13,4 +13,4 @@ all_predictions = make_matrix_csv(file_path = file_path,
                                   plot_title = title)
 
 # Display interactive plot
-plt.show()
+plt.show() 
