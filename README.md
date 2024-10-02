@@ -56,6 +56,12 @@ pip install -r requirements.txt
 pip show <package name>
 ```
 
+#### On Raspberry Pi 5
+python3 -m venv ~/venv-activity  
+source ~/venv-activity/bin/activate  
+
+
+
 ## File structure
 The file `train_model.py` handles model training. Training and testing data is placed in the `downloads` folder at the root of your local clone of this repo. This directory is ignored for storage and PII reasons and will need to be added manually.
 
