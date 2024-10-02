@@ -57,9 +57,11 @@ pip show <package name>
 ```
 
 #### On Raspberry Pi 5
+
+```console
 python3 -m venv ~/venv-activity  
 source ~/venv-activity/bin/activate  
-
+```
 
 
 ## File structure
