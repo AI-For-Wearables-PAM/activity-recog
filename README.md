@@ -58,7 +58,7 @@ python -m pip install tensorflow-metal
 <br />
 
 **5. Install TensorFlow and OpenCV**
-```
+```console
 python -m pip install tensorflow
 pip3 install opencv-python
 ```
