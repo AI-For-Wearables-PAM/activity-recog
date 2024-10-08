@@ -144,24 +144,25 @@ Predictions for each class:
 +------------------------+---------------+
 | Prediction             |   Probability |
 +========================+===============+
-| EVS Visit              |             1 |
-| Lying In Bed           |             0 |
-| Family                 |             0 |
-| Talking on the Phone   |             0 |
-| Sitting In Wheelchair  |             0 |
-| Asleep Trying to sleep |             0 |
-| Watching TV            |             0 |
-| Eating                 |             0 |
-| Therapy                |             0 |
-| Nurse Visit            |             0 |
-| Doctor Visit           |             0 |
-| Transfer To Bed        |             0 |
+| Sitting In Wheelchair  |          0.81 |
+| Eating                 |          0.19 |
+| Watching TV            |          0    |
+| Asleep Trying to sleep |          0    |
+| Lying In Bed           |          0    |
+| Therapy                |          0    |
+| Transfer To Bed        |          0    |
+| Family                 |          0    |
+| Nurse Visit            |          0    |
+| Talking on the Phone   |          0    |
+| EVS Visit              |          0    |
+| Doctor Visit           |          0    |
 +------------------------+---------------+
 ```
 
 ### Example output using live video: 
+Predicting live video from a webcam attached to a Raspberry Pi 5
 
-- Image will go here
+![Predicting live video on a Raspberry Pi 5](./images/rpi.jpg "Predicting live video")
 
 <br />
 
