@@ -5,7 +5,7 @@ This repo features our initial work using OpenCV, TensorFlow, and PyTorch to tra
 
 ## Setup instructions
 
-**1. Create a virtual environment**
+**1. Create a virtual environment**  
 It is recommended to create a new virtual environment for this project. Use `venv` or `conda` to create a virtual environment and install the dependencies. If using a Mac, [jump to this section](#apple-silicon). 
 
 **2. Install dependencies from `requirements.txt` (optional)**
@@ -14,9 +14,10 @@ It is recommended to create a new virtual environment for this project. Use `ven
 pip install -r requirements.txt
 ```
 
+<br />
+
 <a id="apple-silicon"></a>
 
----
 
 ## Setup instructions: Apple Silicon
 The `tensorflow-metal` plugin will enable the GPU on Macs fitted with [Apple silicon](https://support.apple.com/en-us/116943) or AMD procesors, which radically improves model training time. More info is available [here](https://pypi.org/project/tensorflow-metal/). 
@@ -31,15 +32,21 @@ deactivate
 conda deactivate
 ```
 
+<br />
+
 **2. Create new venv**
 ```console
 python3 -m venv ~/venv-metal  
 ```  
 
+<br />
+
 **3. Activate `venv-metal`**
 ```console
 source ~/venv-metal/bin/activate  
 ```  
+
+<br />
 
 **4. Install `tensorflow-metal`**
 
@@ -47,6 +54,8 @@ source ~/venv-metal/bin/activate
 python -m pip install -U pip  
 python -m pip install tensorflow-metal
 ```
+
+<br />
 
 **5. Install TensorFlow and OpenCV**
 ```
@@ -75,6 +84,8 @@ root
 │   │     │   ...
 ```
 
+<br />
+
 ---
 
 ## Training 
@@ -95,6 +106,8 @@ python conv3d_train.py
 ### Train S3D
 
 Navigate to `/notebooks/pre_trained.jpynb` and run the code in the Jupyter Notebook. 
+
+<br />
 
 ---
 
@@ -149,6 +162,7 @@ Predictions for each class:
 
 - Image will go here
 
+<br />
 
 ---
 
@@ -195,6 +209,8 @@ pip install --upgrade pip wheel
 pip wheel . --verbose
 pip install opencv_python*.whl
 ```
+
+<br />
 
 ---
 
