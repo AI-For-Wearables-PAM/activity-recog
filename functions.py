@@ -5,15 +5,12 @@ Functions to train a model for human activity recognition
 """
 
 import os
-import shutil
 import datetime as dt
 from collections import deque
-
-import math
 import random
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plts
 
 import cv2
 

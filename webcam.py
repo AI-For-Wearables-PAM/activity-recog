@@ -6,7 +6,11 @@ from collections import deque
 from tabulate import tabulate
 
 # Load model
+# Conv2D
 model_path = './models/2024-09-20-04-00-06-model.keras'
+# Conv3D
+model_path = './conv3D/2024-09-22-13-18-18-conv3d-model.keras'
+
 model = load_model(model_path)
 print(f'Loaded model from: {model_path}')
 
