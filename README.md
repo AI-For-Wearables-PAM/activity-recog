@@ -134,6 +134,7 @@ python conv3d_test.py
 ### Test S3D 
 Ensure the videos organized in the format described in the [File structure](#file-structure) section. Navigate to `/notebooks/s3d_v1.ipynb` and run the code in the Jupyter Notebook.
 
+<br />
 
 ## Demo
 The demo can be run from the root directory using `python demo.py` and following the prompts. Predictions can be made using either prerecorded video or live webcam video.
