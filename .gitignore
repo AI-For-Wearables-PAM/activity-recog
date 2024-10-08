@@ -5,6 +5,7 @@ downloads/
 downloads_balanced/
 stock-video/
 WIP_notebooks/
+old_notebooks/
 
 # Conv3D models are too large for GitHub storage. Add them to Google Drive.
 conv3D/*.keras
