@@ -8,7 +8,7 @@ This repo features our initial work using OpenCV, TensorFlow, and PyTorch to tra
 **1. Create a virtual environment**
 It is recommended to create a new virtual environment for this project. Use `venv` or `conda` to create a virtual environment and install the dependencies. If using a Mac, [jump to this section](#apple-silicon). 
 
-**2. Install dependencies from requirements.txt file (optional)**
+**2. Install dependencies from `requirements.txt` (optional)**
 
 ```console
 pip install -r requirements.txt
@@ -36,12 +36,12 @@ conda deactivate
 python3 -m venv ~/venv-metal  
 ```  
 
-**3. Activate venv-metal**
+**3. Activate `venv-metal`**
 ```console
 source ~/venv-metal/bin/activate  
 ```  
 
-**4. Install tensorflow-metal**
+**4. Install `tensorflow-metal`**
 
 ```console
 python -m pip install -U pip  
