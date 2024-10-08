@@ -1,9 +1,12 @@
 # Patient Activity Monitoring  
-This repo features our initial work using OpenCV and TensorFlow for human activity recognition. It modifies base code provided from the tutorial [Introduction to Video Classification & Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/). 
+This repo features our initial work using OpenCV, TensorFlow, and PyTorch to train three convolutional neural networks (CNNs) for human activity recognition. The code here includes modifications of the base code provided by the [Introduction to Video Classification & Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/) tutorial ([Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D)), modifications to a pretrained model ([s3d](https://pytorch.org/vision/main/models/generated/torchvision.models.video.s3d.html#torchvision.models.video.s3d)), and a ([Conv3D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv3D)) model built from scratch by @nehabaddam. 
 
 Two convolutional neural networks (CNNs) are trained using OpenCV and TensorFlow: a [Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D) and [Conv3D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv3D) version. The Conv2D and Conv3D models contain 2 and 3 convolutional layers, respectively.
 
-## Set up environment
+## Setup local environment
+
+### Create a virtual environment 
+Use `venv` or `conda` and install the dependencies. 
 
 ### If using Apple Silicon GPU
 The `tensorflow-metal` plugin will enable the GPU on Macs fitted with [Apple silicon](https://support.apple.com/en-us/116943) or AMD procesors, which radically improves model training time. More info is available [here](https://pypi.org/project/tensorflow-metal/). 
@@ -75,9 +78,6 @@ root
 │   │     │   ...
 ```
 
-## Conv2D Version
-
-### Hyperparameters
 
 #### Architecture hyperparameters
 
@@ -137,9 +137,6 @@ predict_on_live_video(output_video_file_path, window_size)
 ```
 
 
-## Conv3D Version
-[...]
-
 #### Architecture hyperparameters
 
 [...]
@@ -147,6 +144,53 @@ predict_on_live_video(output_video_file_path, window_size)
 #### Training hyperparameters
 
 [...]
+
+### Dependencies 
+Dependencies can be installed manually or from `requirements.txt` using the command below. 
+
+```console
+pip install -r ./requirements.txt
+```
+
+### Training 
+Ensure the videos organized in the format described in the _File structure_ section above. 
+
+#### Train Conv2D
+
+```console
+python conv2d_train.py
+```
+
+#### Train Conv3D 
+
+```console
+python conv3d_train.py
+```
+
+#### Train s3d 
+
+Navigate to `/notebooks/pre_trained.jpynb` and run the code in the Jupyter Notebook. 
+
+### Testing 
+
+#### Test Conv2D 
+Ensure the videos organized in the format described in the _File structure_ section above, then run the command below and follow the prompts. 
+
+```console
+python conv2d_train.py
+```
+
+#### Test Conv3d 
+This model is too large to store on GitHub, but you can download the model [here](https://drive.google.com/file/d/11Uh4Fwc-7eWNWMYk5FLqjpHCURRmY8zM/view?usp=drive_link) and place it in `./conv3D/2024-09-22-13-18-18-conv3d-model.keras`.
+
+Next, ensure the videos organized in the format described in the _File structure_ section above, run the command below, and follow the prompts. 
+
+```console
+python conv3d_test.py 
+```
+
+#### Test s3d 
+Ensure the videos organized in the format described in the _File structure_ section above. Navigate to `/notebooks/pre_trained.ipynb` and run the code in the Jupyter Notebook.
 
 # Using pretrained models
 
@@ -186,9 +230,6 @@ pip install --upgrade pip wheel
 pip wheel . --verbose
 pip install opencv_python*.whl
 ```
-
-## movinet.py
-If packages can't be installed using `pip` try `python3 -m pip install <package name>`
 
 ### Install tf-models-no-deps
 If you're unable to use `tf-models-official`, do this instead.
