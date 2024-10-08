@@ -65,6 +65,8 @@ pip3 install opencv-python
 
 <br />
 
+<a id="file-structure"></a>
+
 ## File structure
 Videos used for this project are not included here due to storage and PII reasons, so these files will need to be added manually. If you are a contributor to this project, contact [@jamescoledesign](https://github.com/jamescoledesign) for access to the dataset. After you download the dataset, create a folder named `downloads` at the root of your local clone of this repo and place the `train` and `test` folders within the `downloads` folder like the example below.
 
@@ -87,7 +89,7 @@ root
 <br />
 
 ## Training 
-Ensure the videos organized in the format described in the _File structure_ section above. 
+Ensure the videos organized in the format described in the [_File structure_](#file-structure) section above. 
 
 ### Train Conv2D
 
@@ -110,7 +112,7 @@ Navigate to `/notebooks/pre_trained.jpynb` and run the code in the Jupyter Noteb
 ## Testing 
 
 ### Test Conv2D 
-Ensure the videos organized in the format described in the _File structure_ section above, then run the command below and follow the prompts. 
+Ensure the videos organized in the format described in the [_File structure_](#file-structure) section, then run the command below and follow the prompts. 
 
 ```console
 python conv2d_train.py
@@ -119,14 +121,14 @@ python conv2d_train.py
 ### Test Conv3d 
 This model is too large to store on GitHub, but you can download the model [here](https://drive.google.com/file/d/11Uh4Fwc-7eWNWMYk5FLqjpHCURRmY8zM/view?usp=drive_link) and place it in `./conv3D/2024-09-22-13-18-18-conv3d-model.keras`.
 
-Next, ensure the videos organized in the format described in the _File structure_ section above, run the command below, and follow the prompts. 
+Next, ensure the videos organized in the format described in the [_File structure_](#file-structure) section, run the command below, and follow the prompts. 
 
 ```console
 python conv3d_test.py 
 ```
 
 ### Test S3D 
-Ensure the videos organized in the format described in the _File structure_ section above. Navigate to `/notebooks/pre_trained.ipynb` and run the code in the Jupyter Notebook.
+Ensure the videos organized in the format described in the [_File structure_](#file-structure) section. Navigate to `/notebooks/pre_trained.ipynb` and run the code in the Jupyter Notebook.
 
 
 ### Example testing output
