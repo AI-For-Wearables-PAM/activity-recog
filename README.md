@@ -132,6 +132,7 @@ python conv3d_test.py
 ### Test S3D 
 Ensure the videos organized in the format described in the [_File structure_](#file-structure) section. Navigate to `/notebooks/pre_trained.ipynb` and run the code in the Jupyter Notebook.
 
+<br />
 
 ### Example testing output
 
@@ -157,8 +158,6 @@ Predictions for each class:
 | Transfer To Bed        |             0 |
 +------------------------+---------------+
 ```
-
-<br />
 
 #### Example output using live video: 
 
