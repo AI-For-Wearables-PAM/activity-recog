@@ -8,6 +8,8 @@ This repo features our initial work using OpenCV, TensorFlow, and PyTorch to tra
 **1. Create a virtual environment**  
 It is recommended to create a new virtual environment for this project. Use `venv` or `conda` to create a virtual environment and install the dependencies. If using a Mac, [jump to this section](#apple-silicon). 
 
+<br />
+
 **2. Install dependencies from `requirements.txt` (optional)**
 
 ```console
@@ -91,7 +93,7 @@ root
 <br />
 
 ## Training 
-Ensure the videos organized in the format described in the [_File structure_](#file-structure) section above. 
+Ensure the videos organized in the format described in the [File structure](#file-structure) section above. 
 
 ### Train Conv2D
 
@@ -114,23 +116,23 @@ Navigate to `/notebooks/pre_trained.jpynb` and run the code in the Jupyter Noteb
 ## Testing 
 
 ### Test Conv2D 
-Ensure the videos organized in the format described in the [_File structure_](#file-structure) section, then run the command below and follow the prompts. 
+Ensure the videos organized in the format described in the [File structure](#file-structure) section, then run the command below and follow the prompts. 
 
 ```console
-python conv2d_train.py
+python conv2d_test.py
 ```
 
 ### Test Conv3d 
 This model is too large to store on GitHub, but you can download the model [here](https://drive.google.com/file/d/11Uh4Fwc-7eWNWMYk5FLqjpHCURRmY8zM/view?usp=drive_link) and place it in `./conv3D/2024-09-22-13-18-18-conv3d-model.keras`.
 
-Next, ensure the videos organized in the format described in the [_File structure_](#file-structure) section, run the command below, and follow the prompts. 
+Next, ensure the videos organized in the format described in the [File structure](#file-structure) section, run the command below, and follow the prompts. 
 
 ```console
 python conv3d_test.py 
 ```
 
 ### Test S3D 
-Ensure the videos organized in the format described in the [_File structure_](#file-structure) section. Navigate to `/notebooks/pre_trained.ipynb` and run the code in the Jupyter Notebook.
+Ensure the videos organized in the format described in the [File structure](#file-structure) section. Navigate to `/notebooks/s3d_v1.ipynb` and run the code in the Jupyter Notebook.
 
 
 ## Demo
@@ -170,7 +172,7 @@ _**Important Note:** The prediction in the image above is incorrect, and these m
 
 
 ## Troubleshooting
-The file `pre_trained.ipynb` uses OpenCV features with dependencies that may not be automatically installed (e.g., GStreamer). To clear errors, OpenCV may need to be built from source. A few options are below.
+The file `s3d_v1.ipynb` uses OpenCV features with dependencies that may not be automatically installed (e.g., GStreamer). To clear errors, OpenCV may need to be built from source. A few options are below.
 
 ### Solution 1
 
