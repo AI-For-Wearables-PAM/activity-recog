@@ -215,6 +215,6 @@ pip install opencv_python*.whl
 - [Introduction to Video Classification & Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/)
 - [Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D)
 - [Conv3D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv3D)
-- [s3d](https://pytorch.org/vision/main/models/generated/torchvision.models.video.s3d.html#torchvision.models.video.s3d)
+- [S3D](https://pytorch.org/vision/main/models/generated/torchvision.models.video.s3d.html#torchvision.models.video.s3d)
 - [Apple silicon](https://support.apple.com/en-us/116943)
 - [tensorflow-metal](https://pypi.org/project/tensorflow-metal/)
