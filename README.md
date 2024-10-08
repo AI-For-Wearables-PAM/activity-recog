@@ -1,7 +1,7 @@
 # Patient Activity Monitoring  
 This repo features our initial work using OpenCV, TensorFlow, and PyTorch to train three convolutional neural networks (CNNs) for human activity recognition. These files include modifications of the base [Conv2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D) code provided by the [Introduction to Video Classification & Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/) tutorial, modifications to a pretrained [S3D](https://pytorch.org/vision/main/models/generated/torchvision.models.video.s3d.html#torchvision.models.video.s3d) model, and a [Conv3D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv3D) model built from scratch by [@nehabaddam](https://github.com/nehabaddam). 
 
----
+<br />
 
 ## Setup instructions
 
@@ -63,7 +63,7 @@ python -m pip install tensorflow
 pip3 install opencv-python
 ```
 
----
+<br />
 
 ## File structure
 Videos used for this project are not included here due to storage and PII reasons, so these files will need to be added manually. If you are a contributor to this project, contact [@jamescoledesign](https://github.com/jamescoledesign) for access to the dataset. After you download the dataset, create a folder named `downloads` at the root of your local clone of this repo and place the `train` and `test` folders within the `downloads` folder like the example below.
@@ -86,8 +86,6 @@ root
 
 <br />
 
----
-
 ## Training 
 Ensure the videos organized in the format described in the _File structure_ section above. 
 
@@ -108,8 +106,6 @@ python conv3d_train.py
 Navigate to `/notebooks/pre_trained.jpynb` and run the code in the Jupyter Notebook. 
 
 <br />
-
----
 
 ## Testing 
 
@@ -164,8 +160,6 @@ Predictions for each class:
 
 <br />
 
----
-
 
 ## Troubleshooting
 The file `pre_trained.ipynb` uses OpenCV features with dependencies that may not be automatically installed (e.g., GStreamer). To clear errors, OpenCV may need to be built from source. A few options are below.
@@ -212,7 +206,6 @@ pip install opencv_python*.whl
 
 <br />
 
----
 
 ## References
 - [Introduction to Video Classification & Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/)
