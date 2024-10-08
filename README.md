@@ -158,6 +158,8 @@ Predictions for each class:
 +------------------------+---------------+
 ```
 
+<br />
+
 #### Example output using live video: 
 
 - Image will go here
