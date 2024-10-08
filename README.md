@@ -133,9 +133,10 @@ python conv3d_test.py
 Ensure the videos organized in the format described in the [_File structure_](#file-structure) section. Navigate to `/notebooks/pre_trained.ipynb` and run the code in the Jupyter Notebook.
 
 
-### Example testing output
+## Demo
+The demo can be run from the root directory using `python demo.py` and following the prompts. Predictions can be made using either prerecorded video or live webcam video.
 
-#### Example output using prerecorded video: 
+### Example output using prerecorded video: 
 
 ```
 Predictions for each class:
@@ -158,7 +159,7 @@ Predictions for each class:
 +------------------------+---------------+
 ```
 
-#### Example output using live video: 
+### Example output using live video: 
 
 - Image will go here
 
