@@ -173,6 +173,9 @@ _**Important Note:** The prediction in the image above is incorrect, and these m
 
  
 ## Troubleshooting
+
+### Missing dependencies
+
 The file `s3d_v1.ipynb` uses OpenCV features with dependencies that may not be automatically installed (e.g., GStreamer). To clear errors, OpenCV may need to be built from source. A few options are below.
 
 ### Solution 1
