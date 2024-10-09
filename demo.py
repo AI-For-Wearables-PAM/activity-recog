@@ -13,16 +13,16 @@ def makePredTable(predictions):
     for p in predictions:   
         table.append([p[0], p[1]])
 
-    print(' ')
+    print('')
     print('Predictions for each class:')
-    print(' ')
+    print('')
 
     print(tabulate(table, 
                 headers=["Prediction", "Probability"],
                 tablefmt="outline"))
 
 def rerun():
-    print(' ')
+    print('')
     print('Run again? y/n')
     rerun = input()
 
@@ -82,13 +82,17 @@ while run:
 
     if webcam:
         # Stream rolling average of predictions over webcam video 
-        print(' ')
+        print('')
         print('Stream predictions? y/n')
         stream = input()
         
         if stream == 'y':
+            print('')
             print('Streaming predicitons. Press "q" to end stream.')
-            predict_avg_stream(model = model, path = output_path, classes = classes_list, window = window_size, image_height = img_height, image_width = img_width, print_pred = False)
+            predict_avg_stream(model = model, path = output_path, 
+                               classes = classes_list, window = window_size, 
+                               image_height = img_height, image_width = img_width, 
+                               print_pred = True)
             
             # Ends program so OpenCV doesn't hang
             run = False
@@ -109,7 +113,7 @@ while run:
             
             makePredTable(predictions)
 
-            print(' ')
+            print('')
             run = rerun()
         
     elif webcam == False:
@@ -129,11 +133,11 @@ while run:
 
         makePredTable(predictions)
 
-        print(' ')
+        print('')
         run = rerun()
 
     else:
         print('Something went wrong. Check the model path.')
 
-        print(' ')
+        print('')
         run = False
