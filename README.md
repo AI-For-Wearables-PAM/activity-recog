@@ -220,6 +220,11 @@ pip install opencv_python*.whl
 
 <br />
 
+## Contributors
+
+[@jamescoledesign](https://github.com/jamescoledesign)
+
+<br />
 
 ## References
 - [Introduction to Video Classification & Human Activity Recognition](https://learnopencv.com/introduction-to-video-classification-and-human-activity-recognition/)
