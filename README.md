@@ -223,6 +223,7 @@ pip install opencv_python*.whl
 ## Contributors
 
 [@jamescoledesign](https://github.com/jamescoledesign)
+[@EmillyH555](https://github.com/EmillyH555) 
 
 <br />
 
