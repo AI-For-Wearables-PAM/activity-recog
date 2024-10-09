@@ -6,8 +6,8 @@ from collections import deque
 from tabulate import tabulate
 
 
+# Generate table of predictions
 def makePredTable(predictions):
-    # Generate table of predictions
     table = []
 
     for p in predictions:   
@@ -21,6 +21,7 @@ def makePredTable(predictions):
                 headers=["Prediction", "Probability"],
                 tablefmt="outline"))
 
+# Ask to run again
 def rerun():
     print('')
     print('Run again? y/n')
@@ -40,24 +41,25 @@ classes_list = ['Transfer To Bed', 'Doctor Visit', 'Nurse Visit', 'Therapy',
                 'Asleep Trying to sleep','Family', 'Sitting In Wheelchair', 
                 'Talking on the Phone']
 
+# Input configuration
 img_height, img_width = 64, 64
 max_images_per_class = 8000
 frames = 12
 window_size = 1
 size = len(classes_list)
 
-# Saves new clip when streaming predictions 
+# Save new clip when streaming predictions (not working currently)
 output_path = './predictions/new_capture.mp4'
 
 run = True
 
 while run:
-    # Choose file or webcam
     print('')
     print('Predict from video file or webcam?')
     print('[1] Video file  [2] Webcam')
     format = input()
 
+    # Choose file or webcam
     if format == str(1):
         webcam = False
         test_video = './downloads/test/Nurse Visit/7395736338672438417.mp4'
@@ -80,8 +82,7 @@ while run:
     print(f'Loaded model from: {model_path}')
     print('')
 
-    if webcam:
-        # Stream rolling average of predictions over webcam video 
+    if webcam: 
         print('')
         print('Stream predictions? y/n')
         stream = input()
@@ -89,6 +90,8 @@ while run:
         if stream == 'y':
             print('')
             print('Streaming predicitons. Press "q" to end stream.')
+
+            # Stream rolling average of predictions over webcam video
             predict_avg_stream(model = model, path = output_path, 
                                classes = classes_list, window = window_size, 
                                image_height = img_height, image_width = img_width, 
@@ -97,11 +100,12 @@ while run:
             # Ends program so OpenCV doesn't hang
             run = False
 
-        # Briefly open webcam and make an average prediction
         elif stream == 'n':
             print('')
             print('Making predictions...')
             print('')
+
+            # Briefly open webcam and make an average prediction
             predictions = predict_avg(directory = output_path,
                                     model = model, 
                                     output_size = size, 
@@ -117,19 +121,20 @@ while run:
             run = rerun()
         
     elif webcam == False:
-        # Predict from video file
+        
         print('')
         print(f'Making predictions on {test_video}')
         print('')
-        predictions = predict_avg(directory = test_video,
-                                model = model, 
-                                output_size = size, 
-                                num_frames = frames, 
-                                image_height = img_height, 
-                                image_width = img_width, 
-                                classes = classes_list, 
-                                webcam = False)
 
+        # Predict from random video file
+        predictions = predict_avg(directory = test_video,
+                                  model = model, 
+                                  output_size = size, 
+                                  num_frames = frames, 
+                                  image_height = img_height, 
+                                  image_width = img_width, 
+                                  classes = classes_list, 
+                                  webcam = False)
 
         makePredTable(predictions)
 
@@ -138,6 +143,5 @@ while run:
 
     else:
         print('Something went wrong. Check the model path.')
-
         print('')
         run = False
