@@ -338,11 +338,10 @@ def predict_avg_stream(model, path, classes, window, image_height, image_width, 
             print('Predicted class name', predicted_class_name)
 
         # Press 'q' to exit the live feed
-        if cv2.waitKey(1) & 0xFF == ord('q'):
+        if cv2.waitKey(20) & 0xFF == ord('q'):
             break
 
     # Close the VideoCapture and VideoWriter objects and release all resources held by them. 
-
     video_reader.release()
     video_writer.release()
     cv2.destroyAllWindows()
@@ -829,9 +828,9 @@ def load_and_evaluate_model(model_path, test_data_folder, img_size=(64, 64), seq
         # Generate confusion matrix
         # cmap = plt.cm.Blues
         cm = plot_confusion(t_class = true_labels, 
-                    p_class = predicted_labels,
-                    display_labels = activity_classes, 
-                    title = "Conv3D Confusion")
+                            p_class = predicted_labels,
+                            display_labels = activity_classes, 
+                            title = "Conv3D Confusion")
         
         # Make classification report
         report = classification_report(true_labels, predicted_labels)

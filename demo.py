@@ -21,6 +21,8 @@ def makePredTable(predictions):
                 headers=["Prediction", "Probability"],
                 tablefmt="outline"))
 
+
+def rerun():
     print(' ')
     print('Run again? y/n')
     rerun = input()
@@ -30,6 +32,8 @@ def makePredTable(predictions):
         run = False
     else:
         run = True
+
+    return run
 
 
 classes_list = ['Transfer To Bed',
@@ -71,13 +75,13 @@ while run:
     else:
         webcam = False
 
-    # print('')
-    # print("Loading Conv2D")
-    # model_path = './models/2024-09-20-04-00-06-model.keras'
-
     print('')
-    print("Loading Conv3D")
-    model_path = './conv3D/2024-09-22-16-02-44-conv3d-model.keras'
+    print("Loading Conv2D")
+    model_path = './models/2024-09-20-04-00-06-model.keras'
+
+    # print('')
+    # print("Loading Conv3D")
+    # model_path = './conv3D/2024-09-22-16-02-44-conv3d-model.keras'
 
     print('')
     model = load_model(model_path)
@@ -89,36 +93,13 @@ while run:
         print(' ')
         print('Stream predictions? y/n')
         stream = input()
-
-        user_print = False
-        valid_selection = False
         
         if stream == 'y':
-                print("Print predicitons to the console? y/n")
-                user_print = input()
-                print('')
-                
-                if user_print == "y":
-                    user_print = True
-                    valid_selection = True
-                elif user_print == "n":
-                    user_print = False
-                    valid_selection = True
-                else: 
-                    print('Invalid selection. Press "y" or "n"')
-
-                if valid_selection:
-                    print('Streaming predicitons. Press "q" to end stream.')
-                    predict_avg_stream(model = model, 
-                                    path = output_path, 
-                                    classes = classes_list, 
-                                    window = window_size, 
-                                    image_height = img_height, 
-                                    image_width = img_width,
-                                    print_pred = user_print)
-                    
-                    print(' ')
-                    run = False
+            print('Streaming predicitons. Press "q" to end stream.')
+            predict_avg_stream(model = model, path = output_path, classes = classes_list, window = window_size, image_height = img_height, image_width = img_width, print_pred = False)
+            
+            # Ends program so OpenCV doesn't hang
+            run = False
 
         # Briefly open webcam and make an average prediction
         elif stream == 'n':
@@ -135,6 +116,9 @@ while run:
                                     webcam = True)
             
             makePredTable(predictions)
+            
+            print(' ')
+            run = rerun()
         
     elif webcam == False:
         # Predict from video file
@@ -152,6 +136,9 @@ while run:
 
 
         makePredTable(predictions)
+
+        print(' ')
+        run = rerun()
 
     else:
         print('Something went wrong. Check the model path.')
