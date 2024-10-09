@@ -21,7 +21,6 @@ def makePredTable(predictions):
                 headers=["Prediction", "Probability"],
                 tablefmt="outline"))
 
-
 def rerun():
     print(' ')
     print('Run again? y/n')
@@ -36,17 +35,9 @@ def rerun():
     return run
 
 
-classes_list = ['Transfer To Bed',
-                'Doctor Visit',
-                'Nurse Visit',
-                'Therapy',
-                'EVS Visit',
-                'Eating',
-                'Lying In Bed',
-                'Watching TV',
-                'Asleep Trying to sleep',
-                'Family',
-                'Sitting In Wheelchair',
+classes_list = ['Transfer To Bed', 'Doctor Visit', 'Nurse Visit', 'Therapy',
+                'EVS Visit', 'Eating', 'Lying In Bed', 'Watching TV', 
+                'Asleep Trying to sleep','Family', 'Sitting In Wheelchair', 
                 'Talking on the Phone']
 
 img_height, img_width = 64, 64
@@ -79,6 +70,7 @@ while run:
     print("Loading Conv2D")
     model_path = './models/2024-09-20-04-00-06-model.keras'
 
+    # Demo needs to be adjusted for Conv3D
     # print('')
     # print("Loading Conv3D")
     # model_path = './conv3D/2024-09-22-16-02-44-conv3d-model.keras'
@@ -116,7 +108,7 @@ while run:
                                     webcam = True)
             
             makePredTable(predictions)
-            
+
             print(' ')
             run = rerun()
         
