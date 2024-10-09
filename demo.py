@@ -1,21 +1,25 @@
 import cv2
 import numpy as np
-from functions import predict_avg, predict_avg_stream
+from functions import predict_avg, predict_avg_stream, list_files
 from keras.models import load_model
 from collections import deque
 from tabulate import tabulate
+import random
 
 
 # Generate table of predictions
-def makePredTable(predictions):
+def makePredTable(predictions, true_class, file):
     table = []
 
     for p in predictions:   
         table.append([p[0], p[1]])
 
     print('')
-    print('Predictions for each class:')
+    print(f'File: {file}')
+    print(f'True class: {true_class}')
+    
     print('')
+    print('Predicted classes:')
 
     print(tabulate(table, 
                 headers=["Prediction", "Probability"],
@@ -38,7 +42,7 @@ def rerun():
 
 classes_list = ['Transfer To Bed', 'Doctor Visit', 'Nurse Visit', 'Therapy',
                 'EVS Visit', 'Eating', 'Lying In Bed', 'Watching TV', 
-                'Asleep Trying to sleep','Family', 'Sitting In Wheelchair', 
+                'Asleep-Trying to sleep','Family', 'Sitting In Wheelchair', 
                 'Talking on the Phone']
 
 # Input configuration
@@ -51,6 +55,13 @@ size = len(classes_list)
 # Save new clip when streaming predictions (not working currently)
 output_path = './predictions/new_capture.mp4'
 
+# Using Conv2D. Demo needs to be adjusted for Conv3D.
+print('')
+print("Loading Conv2D")
+model_path = './models/2024-09-20-04-00-06-model.keras'
+model = load_model(model_path)
+print(f'Loaded model from: {model_path}')
+
 run = True
 
 while run:
@@ -62,25 +73,11 @@ while run:
     # Choose file or webcam
     if format == str(1):
         webcam = False
-        test_video = './downloads/test/Nurse Visit/7395736338672438417.mp4'
+        # test_video = './downloads/test/Nurse Visit/7395736338672438417.mp4'
     elif format == str(2):
         webcam = True
     else:
         webcam = False
-
-    print('')
-    print("Loading Conv2D")
-    model_path = './models/2024-09-20-04-00-06-model.keras'
-
-    # Demo needs to be adjusted for Conv3D
-    # print('')
-    # print("Loading Conv3D")
-    # model_path = './conv3D/2024-09-22-16-02-44-conv3d-model.keras'
-
-    print('')
-    model = load_model(model_path)
-    print(f'Loaded model from: {model_path}')
-    print('')
 
     if webcam: 
         print('')
@@ -115,19 +112,37 @@ while run:
                                     classes = classes_list, 
                                     webcam = True)
             
-            makePredTable(predictions)
+            makePredTable(predictions, true_class="", file="")
 
             print('')
             run = rerun()
         
     elif webcam == False:
+        # Select one of the 12 classes
+        print('')
+        print(f'Select a class:')
+
+        class_num = 0
+
+        for c in classes_list:
+            print(f'[{class_num}] {c}')
+            class_num += 1
+
+        selected_class = int(input())
+        selected_class = classes_list[selected_class]
+
+        test_dir = f'./downloads/test/{selected_class}'
+        files = list_files(test_dir)
+
+        # Select random video
+        random_video = random.choice(files)
+        random_path = f'{test_dir}/{random_video}'
         
         print('')
-        print(f'Making predictions on {test_video}')
-        print('')
+        print(f'Predicting {random_video}')
 
-        # Predict from random video file
-        predictions = predict_avg(directory = test_video,
+        # Predict random video file
+        predictions = predict_avg(directory = random_path,
                                   model = model, 
                                   output_size = size, 
                                   num_frames = frames, 
@@ -136,7 +151,9 @@ while run:
                                   classes = classes_list, 
                                   webcam = False)
 
-        makePredTable(predictions)
+        makePredTable(predictions, 
+                      true_class = selected_class,
+                      file = random_video)
 
         print('')
         run = rerun()
