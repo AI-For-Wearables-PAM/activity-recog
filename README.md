@@ -69,10 +69,10 @@ pip3 install opencv-python
 
 <a id="file-structure"></a>
 
-## File structure
-Videos used for this project are not included here due to storage and PII reasons, so these files will need to be added manually. If you are a contributor to this project, contact [@jamescoledesign](https://github.com/jamescoledesign) for access to the dataset.  
+## File structure for supervised learning
+Videos used for this project are not included here due to storage and PII reasons, so these files will need to be added manually. If you are a contributor to this project, contact [@jamescoledesign](https://github.com/jamescoledesign) for access to the dataset. This format should work for any video dataset. 
 
-After you download the dataset, create a folder named `downloads` at the root of your local clone of this repo and place the `train` and `test` folders within the `downloads` folder like the example below.
+After you download the dataset, create a folder named `downloads` at the root of your local clone of this repo and place the `train` and `test` folders within the `downloads` folder like the example below. Be sure to rename `feature` in the example below with the label you intend to use for that category of videos (e.g., Sleeping).
 
 ```
 root
