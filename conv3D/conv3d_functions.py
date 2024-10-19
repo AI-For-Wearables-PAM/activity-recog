@@ -167,10 +167,10 @@ def run_multiple_iterations(train_data_folder, iterations=5, epochs_list=[10, 20
     print(f"\nAverage validation accuracy over {iterations} iterations: {avg_accuracy}")
 
     return avg_accuracy, best_model_path
-
+    
 
 # Define random search function
-def run_random_search(train_data_folder, param_grid, iterations=3, n_combinations=10):
+def train3d(train_data_folder, param_grid, iterations=3, random_search=False, n_combinations=10):
     # Load data
     data, labels, activity_classes = load_videos_from_folders(train_data_folder)
     input_shape = (30, 64, 64, 3)  # (sequence_length, img_size, img_size, channels)
@@ -183,8 +183,11 @@ def run_random_search(train_data_folder, param_grid, iterations=3, n_combination
     best_val_true_labels = None
     best_val_predicted_labels = None
 
-    # Randomly sample a subset of parameter combinations
-    param_combinations = [dict(zip(param_grid.keys(), values)) for values in random.sample(list(product(*param_grid.values())), n_combinations)]
+    if random_search:
+        # Randomly sample a subset of parameter combinations
+        param_combinations = [dict(zip(param_grid.keys(), values)) for values in random.sample(list(product(*param_grid.values())), n_combinations)]
+    else:
+        param_combinations = [param_grid]
 
     for param_comb in param_combinations:
         # Unpack the current parameter combination
@@ -277,9 +280,4 @@ def load_and_evaluate_model(model_path, test_data_folder, img_size=(64, 64), seq
 
 
 if __name__ == "__main__":
-    load_videos_from_folders()
-    video_to_frames()
-    build_3dcnn()
-    run_multiple_iterations()
-    run_random_search()
-    load_and_evaluate_model()
+    train3d()
