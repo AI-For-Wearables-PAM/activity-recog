@@ -1,4 +1,4 @@
-from functions import make_matrix_csv
+from conv2d.conv2d_functions import make_matrix_csv
 import matplotlib.pyplot as plt
 
 # Define params

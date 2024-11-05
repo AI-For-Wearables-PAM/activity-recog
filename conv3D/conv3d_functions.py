@@ -19,8 +19,8 @@ from keras.models import load_model
 from keras.optimizers import Adam
 
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
+from sklearn.metrics import ConfusionMatrixDisplay, classification_report, confusion_matrix, accuracy_score
+
 
 
 # List files and ignore .DS_Store if on a Mac
@@ -245,39 +245,238 @@ def train3d(train_data_folder, param_grid, iterations=3, random_search=False, n_
 
     # Return the best parameters and accuracy
     print(f"\nBest hyperparameters: {best_params} with accuracy: {best_accuracy}")
+    print(f"True labels: {best_val_true_labels}\nPredicted labels: {best_val_predicted_labels}")
 
     print("Done")
 
-    return best_params, best_accuracy, best_model_path, best_val_true_labels, best_val_predicted_labels
+    results = [best_params, best_accuracy, model_name]
+
+    return results
+
+# Function to plot confusion matrix. This prevents notebooks from printing the plot twice.
+def plot_confusion(t_class, p_class, title, cmap='turbo', **kwargs):
+
+    # Define plot design
+    title = title
+    title_size = 'xx-large'
+    label_size = 'large'
+    tick_size = 'small'
+    colors = cmap
+    padding = 14
+
+    if 'display_labels' in kwargs:
+        d_labels = kwargs.get("display_labels")
+
+    fig, ax = plt.subplots(figsize=(8,6))
+
+    # plt.suptitle(title, fontsize = title_size)
+    plt.title(title, fontsize = title_size, pad=padding * 1.25)
+    plt.xticks(fontsize = tick_size)
+    plt.yticks(fontsize = tick_size)
+    plt.ylabel("True label", fontsize = label_size, labelpad=padding)
+    plt.xlabel("Predicted label", fontsize = label_size, labelpad=padding)
+    plt.subplots_adjust(bottom=0.35)
+
+    if 'display_labels' in kwargs:
+        d_labels = kwargs.get("display_labels")
+        cm = ConfusionMatrixDisplay.from_predictions(t_class, p_class, cmap=colors, display_labels=d_labels)
+    else:
+        cm = ConfusionMatrixDisplay.from_predictions(t_class, p_class, cmap=colors)
+
+    cm.plot(ax=ax, 
+            xticks_rotation='vertical', 
+            cmap=colors)
+    
+    plt.close()
+
+    return fig
 
 
 # Function to load saved model and evaluate on new test data
-def load_and_evaluate_model(model_path, test_data_folder, img_size=(64, 64), sequence_length=30):
+def load_and_evaluate_model(model_path, test_data_folder, img_size=(64, 64), sequence_length=30, plot=False):
     # Load the trained model
     model = load_model(model_path)
+    print(" ")
+    print(f'Loaded model from: {model_path}')
 
     # Load and preprocess the test data
+    print(" ")
+    print('Preprocessing')
+
     test_data, test_labels, activity_classes = load_videos_from_folders(test_data_folder, img_size, sequence_length)
 
+    print(test_data, test_labels, activity_classes)
     # Make predictions
-    test_predictions = model.predict(test_data)
+    print(" ")
+    print('Making predictions')
+    print(" ")
 
-    # Convert predictions and labels to class indices
-    predicted_labels = np.argmax(test_predictions, axis=1)
-    true_labels = np.argmax(test_labels, axis=1)
+    predicted_labels = []
+    true_labels = []
 
+    for t in test_data:
+    # test_predictions = model.predict(test_data)
+        prediction = model.predict(t)
+
+        # Convert predictions and labels to class indices
+        pl = np.argmax(prediction, axis=1)
+        predicted_labels.append(pl)
+        tl = np.argmax(test_labels, axis=1)
+        true_labels.append(tl)
+
+    predicted_labels = ()
     # Calculate accuracy
     accuracy = accuracy_score(true_labels, predicted_labels)
+    print(" ")
+    print("=========================================")
     print(f"Test Accuracy: {accuracy}")
+    print("=========================================")
+    print(" ")
 
-    # Generate confusion matrix
-    cm = confusion_matrix(true_labels, predicted_labels)
-    disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=activity_classes)
-    disp.plot(cmap=plt.cm.Blues)
-    plt.show()
+    if plot:
+        # Generate confusion matrix
+        # cmap = plt.cm.Blues
+        cm = plot_confusion(t_class = true_labels, 
+                            p_class = predicted_labels,
+                            display_labels = activity_classes, 
+                            title = "Conv3D Confusion")
+        
+        # Make classification report
+        report = classification_report(true_labels, predicted_labels)
+        print(report)
 
-    return accuracy, predicted_labels, true_labels
+        return accuracy, predicted_labels, true_labels, cm
+
+    else:
+        return accuracy, predicted_labels, true_labels
+
+
+def predict_avg(directory, model, output_size, num_frames, image_height, image_width, classes, webcam=False):
+
+    # Initialize the Numpy array which will store Prediction Probabilities
+    predicted_labels_probabilities_np = np.zeros((num_frames, output_size), dtype = float)
+
+    if webcam == True:
+        # Open webcam
+        video_reader = cv2.VideoCapture(0)
+    else:
+        video_reader = cv2.VideoCapture(directory)
+
+    # Get The Total Frames present in the video
+    video_frames_count = int(video_reader.get(cv2.CAP_PROP_FRAME_COUNT))
+
+    # Calculate The Number of Frames to skip Before reading a frame
+    skip_frames_window = video_frames_count // num_frames
+
+    top_predictions = []
+
+    for frame_counter in range(num_frames):
+
+        # Set Frame Position
+        video_reader.set(cv2.CAP_PROP_POS_FRAMES, frame_counter * skip_frames_window)
+
+        # Read The Frame
+        _ , frame = video_reader.read()
+
+        # Resize the Frame to fixed Dimensions
+        resized_frame = cv2.resize(frame, (image_height, image_width))
+
+        # Normalize the resized frame by dividing it with 255 so that each pixel value then lies between 0 and 1
+        normalized_frame = resized_frame / 255
+
+        # Pass the Image Normalized Frame to the model and receiving Predicted Probabilities.
+        predicted_labels_probabilities = model.predict(np.expand_dims(normalized_frame, axis = 0))[0]
+
+        # Append predicted label probabilities to the deque object
+        predicted_labels_probabilities_np[frame_counter] = predicted_labels_probabilities
+
+    # Calculate Average of Predicted Labels Probabilities Column Wise
+    predicted_labels_probabilities_averaged = predicted_labels_probabilities_np.mean(axis = 0)
+
+    # Sort the Averaged Predicted Labels Probabilities
+    predicted_labels_probabilities_averaged_sorted_indexes = np.argsort(predicted_labels_probabilities_averaged)[::-1]
+
+    # Iterate Over All Averaged Predicted Label Probabilities
+    for predicted_label in predicted_labels_probabilities_averaged_sorted_indexes:
+
+        # Access The Class Name using predicted label.
+        predicted_class_name = classes[predicted_label]
+
+        # Access The Averaged Probability using predicted label.
+        predicted_probability = predicted_labels_probabilities_averaged[predicted_label]
+        predicted_probability = round(predicted_probability, 2)
+
+        top_predictions.append([predicted_class_name, predicted_probability])
+
+        # print(f"CLASS NAME: {predicted_class_name}   AVERAGED PROBABILITY: {predicted_probability}")
+
+    # Close the VideoCapture Object and releasing all resources held by it.
+    video_reader.release()
+
+    return top_predictions
+
+
+def predict_all_3D(test_path, model, num_frames, image_height, image_width, classes, output_size, webcam):
+    # train_path = f'{path}/downloads/selected_features'
+    # test_path = f'{path}/downloads/ignored_features'
+    train_directory = list_files(test_path)
+
+    all_results = [] 
+
+    dir_len = len(train_directory)
+    sub_dir_len = 0
+    dir_count = 1
+    sub_dir_count = 1
+
+    for directory in train_directory:
+
+        vid_path = f'{test_path}/{directory}'
+
+        dir_files = list_files(vid_path)
+        sub_dir_len = len(dir_files)
+
+        print(" ")
+        print("=========================================")
+        print(f'Class: {directory}')
+        print("=========================================")
+
+        if sub_dir_len != 0:
+            for video in dir_files:
+                print(" ")
+                print(f'Folder: {dir_count}/{dir_len}  |  File: {sub_dir_count}/{sub_dir_len}')
+                print(" ")
+
+                input_path = f'{vid_path}/{video}'
+
+                # Make avg prediction for each video
+                p_class = predict_avg(input_path, model, output_size, num_frames, image_height, image_width, classes, webcam)
+                result = [directory, p_class]
+                # all_results.append(result)
+
+                # Get true labels and predictions
+                true_class = result[0]
+                pred = result[1]
+
+                for p in pred:
+                    all_results.append({"true_class": true_class, 
+                                "predicted_class": p[0], 
+                                "predicted_value": p[1]})
+
+                # print(result)
+
+                sub_dir_count += 1
+
+            sub_dir_count = 0
+            dir_count += 1
+
+        else:
+            print("No video found")
+
+    print("Done")
+
+    return 
 
 
 if __name__ == "__main__":
     train3d()
+    predict_all_3D

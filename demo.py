@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-from functions import predict_avg, predict_avg_stream, list_files
+from conv2d.conv2d_functions import predict_avg, predict_avg_stream, list_files
 from keras.models import load_model
 from collections import deque
 from tabulate import tabulate

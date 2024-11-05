@@ -174,6 +174,27 @@ _**Important Note:** The prediction in the image above is incorrect, and these m
  
 ## Troubleshooting
 
+### Using TensorFlow with a CUDA-enabled GPU on a PC
+If TensorFlow does not recognize your GPU, try uninstalling existing versions of tensorflow and reinstalling it using this command
+
+```bash
+python -m pip install "tensorflow==2.10" --user
+```
+
+Then check to see if the GPU is recognized
+```bash
+python -c "import tensorflow as tf; print(tf.config.list_physical_devices('GPU'))"
+# Should see something like the message below: 
+# [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
+```
+
+In a Jupyter Notebook or Python file, you can simply run the following command to see if the GPU is enabled:
+
+```python
+print("Num GPUs Available: ", len(tf.config.list_physical_devices('GPU')))
+# Num GPUs Available:  1
+```
+
 ### Missing dependencies
 
 The file `s3d_v1.ipynb` uses OpenCV features with dependencies that may not be automatically installed (e.g., GStreamer). To clear errors, OpenCV may need to be built from source. A few options are below.

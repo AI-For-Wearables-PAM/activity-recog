@@ -1,10 +1,10 @@
-from conv3d_functions import load_and_evaluate_model
+from conv3d_functions import load_and_evaluate_model, predict_all_3D
 import pandas as pd
 import datetime as dt
 import matplotlib.pyplot as plt
 
 # Load model
-model_path = './2024-11-04-22-47-17-conv3d-model.keras'
+model_path = './2024-11-05-02-15-08-conv3d-model.keras'
 
 # Change to True for the option to change datasets 
 choose_dataset = False
@@ -27,7 +27,8 @@ show_plot = True
 while run: 
     if selection == "r2_test" or selection == "train":
         subset = selection
-        data_path = f'../downloads/{subset}'
+        # data_path = f'../downloads/{subset}'
+        data_path = "../downloads/r2_test/"
 
         # Make predictions
         all_predictions = load_and_evaluate_model(model_path = model_path, 
