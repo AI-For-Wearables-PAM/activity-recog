@@ -19,8 +19,7 @@ from keras.models import load_model
 from keras.optimizers import Adam
 
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
+from sklearn.metrics import accuracy_score, f1_score, confusion_matrix, ConfusionMatrixDisplay
 
 
 # List files and ignore .DS_Store if on a Mac
@@ -71,6 +70,17 @@ def video_to_frames(video_path, img_size, sequence_length):
         return None  # Ignore short videos
 
     return np.array(frames)
+
+
+def plot_metrics(train_metric, val_metric, metric_type, title):
+  # Visualize metrics vs training Epochs
+  plt.figure()
+  plt.plot(range(len(train_metric)), train_metric, label = f"Training {metric_type}")
+  plt.plot(range(len(val_metric)), val_metric, label = f"Validation {metric_type}")
+  plt.xlabel("Epochs")
+  plt.ylabel(metric_type)
+  plt.legend()
+  plt.title(title)
 
 
 # Build the Model
@@ -170,7 +180,7 @@ def run_multiple_iterations(train_data_folder, iterations=5, epochs_list=[10, 20
     
 
 # Define random search function
-def train3d(train_data_folder, param_grid, iterations=3, random_search=False, n_combinations=10):
+def train3d(train_data_folder, param_grid, iterations=1, random_search=False, n_combinations=10):
     # Load data
     data, labels, activity_classes = load_videos_from_folders(train_data_folder)
     input_shape = (30, 64, 64, 3)  # (sequence_length, img_size, img_size, channels)
@@ -219,8 +229,11 @@ def train3d(train_data_folder, param_grid, iterations=3, random_search=False, n_
 
             # Calculate accuracy for this iteration
             accuracy = accuracy_score(val_true_labels, val_predicted_labels)
+            f1 = f1_score(val_true_labels, val_predicted_labels, average="micro")
+            
             print(f"Iteration {i + 1} Validation Accuracy: {accuracy}")
-
+            print(f'f1 score: {f1}')
+            
             # Check if this is the best accuracy so far
             if accuracy > best_accuracy:
                 best_accuracy = accuracy
@@ -248,7 +261,9 @@ def train3d(train_data_folder, param_grid, iterations=3, random_search=False, n_
 
     print("Done")
 
-    return best_params, best_accuracy, best_model_path, best_val_true_labels, best_val_predicted_labels
+    results = [best_params, best_accuracy, model_name, best_val_true_labels, best_val_predicted_labels]
+
+    return results
 
 
 # Function to load saved model and evaluate on new test data
