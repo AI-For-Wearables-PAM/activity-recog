@@ -23,3 +23,5 @@ __pycache__/
 .env.test.local
 .env.production.local
 old/
+histo/video_classification_model.pkl
+histo/label_map.pkl
