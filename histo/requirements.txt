@@ -1,7 +1,0 @@
-opencv-python
-numpy
-scikit-learn
-joblib
-tqdm
-seaborn
-ipywidgets
