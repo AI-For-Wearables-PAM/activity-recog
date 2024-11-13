@@ -6,7 +6,7 @@ from collections import deque
 from tabulate import tabulate
 import random
 
-
+ 
 # Generate table of predictions
 def makePredTable(predictions, true_class, file):
     table = []
