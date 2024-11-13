@@ -26,3 +26,4 @@ old/
 histo/video_classification_model.pkl
 histo/label_map.pkl
 model_types/conv3d/models
+utilities/test-stratified-kfold
