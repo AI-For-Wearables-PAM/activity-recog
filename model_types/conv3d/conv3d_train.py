@@ -13,10 +13,10 @@ param_grid = {'conv_filters': [32, 64, 128],
 
 # Path to training data
 path = '../../downloads'
-train_dir = f'{path}/fr_split'
+train_dir = f'{path}/fr_10s/train_fr_10s'
 
 # Train model
-best_model_details = train3d(train_dir, param_grid, random_search=False, complex=False)
+best_model_details = train3d(train_dir, param_grid, random_search=False, complex=True)
 
 for detail in best_model_details:
     print(detail)

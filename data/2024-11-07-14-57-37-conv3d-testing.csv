@@ -1,0 +1,3345 @@
+Predicted label,Predicted class,True label,True class
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[1],EVS visit,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[1],EVS visit,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[0],Eating,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[0],Eating,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[7],Talking on phone,0,Eating
+[1],EVS visit,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[1],EVS visit,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[5],Resting,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[5],Resting,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[1],EVS visit,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[9],Watching TV,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[5],Resting,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[9],Watching TV,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[2],Family visit,0,Eating
+[0],Eating,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[8],Therapy,0,Eating
+[0],Eating,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[8],Therapy,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[1],EVS visit,0,Eating
+[8],Therapy,0,Eating
+[8],Therapy,0,Eating
+[8],Therapy,0,Eating
+[8],Therapy,0,Eating
+[8],Therapy,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[8],Therapy,0,Eating
+[8],Therapy,0,Eating
+[8],Therapy,0,Eating
+[8],Therapy,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[5],Resting,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[4],Nurse-Doctor visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[5],Resting,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,0,Eating
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[1],EVS visit,1,EVS visit
+[9],Watching TV,2,Family visit
+[2],Family visit,2,Family visit
+[9],Watching TV,2,Family visit
+[8],Therapy,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[2],Family visit,2,Family visit
+[7],Talking on phone,3,Lying in bed
+[7],Talking on phone,3,Lying in bed
+[7],Talking on phone,3,Lying in bed
+[7],Talking on phone,3,Lying in bed
+[7],Talking on phone,3,Lying in bed
+[7],Talking on phone,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[5],Resting,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[5],Resting,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[5],Resting,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[5],Resting,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[3],Lying in bed,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[5],Resting,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[5],Resting,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[5],Resting,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[1],EVS visit,3,Lying in bed
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[9],Watching TV,4,Nurse-Doctor visit
+[9],Watching TV,4,Nurse-Doctor visit
+[9],Watching TV,4,Nurse-Doctor visit
+[9],Watching TV,4,Nurse-Doctor visit
+[9],Watching TV,4,Nurse-Doctor visit
+[9],Watching TV,4,Nurse-Doctor visit
+[9],Watching TV,4,Nurse-Doctor visit
+[9],Watching TV,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[9],Watching TV,4,Nurse-Doctor visit
+[9],Watching TV,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[0],Eating,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[6],Sitting in wheelchair,4,Nurse-Doctor visit
+[6],Sitting in wheelchair,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[6],Sitting in wheelchair,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[6],Sitting in wheelchair,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[7],Talking on phone,4,Nurse-Doctor visit
+[6],Sitting in wheelchair,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[6],Sitting in wheelchair,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[6],Sitting in wheelchair,4,Nurse-Doctor visit
+[6],Sitting in wheelchair,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[2],Family visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[4],Nurse-Doctor visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[5],Resting,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[3],Lying in bed,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[8],Therapy,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[1],EVS visit,4,Nurse-Doctor visit
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[3],Lying in bed,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[3],Lying in bed,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[3],Lying in bed,5,Resting
+[1],EVS visit,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[1],EVS visit,5,Resting
+[3],Lying in bed,5,Resting
+[1],EVS visit,5,Resting
+[3],Lying in bed,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[3],Lying in bed,5,Resting
+[1],EVS visit,5,Resting
+[3],Lying in bed,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[3],Lying in bed,5,Resting
+[5],Resting,5,Resting
+[5],Resting,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[1],EVS visit,5,Resting
+[3],Lying in bed,5,Resting
+[3],Lying in bed,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[1],EVS visit,5,Resting
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[6],Sitting in wheelchair,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[7],Talking on phone,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[4],Nurse-Doctor visit,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[5],Resting,6,Sitting in wheelchair
+[4],Nurse-Doctor visit,6,Sitting in wheelchair
+[4],Nurse-Doctor visit,6,Sitting in wheelchair
+[4],Nurse-Doctor visit,6,Sitting in wheelchair
+[4],Nurse-Doctor visit,6,Sitting in wheelchair
+[4],Nurse-Doctor visit,6,Sitting in wheelchair
+[4],Nurse-Doctor visit,6,Sitting in wheelchair
+[4],Nurse-Doctor visit,6,Sitting in wheelchair
+[4],Nurse-Doctor visit,6,Sitting in wheelchair
+[4],Nurse-Doctor visit,6,Sitting in wheelchair
+[4],Nurse-Doctor visit,6,Sitting in wheelchair
+[4],Nurse-Doctor visit,6,Sitting in wheelchair
+[7],Talking on phone,7,Talking on phone
+[7],Talking on phone,7,Talking on phone
+[7],Talking on phone,7,Talking on phone
+[7],Talking on phone,7,Talking on phone
+[7],Talking on phone,7,Talking on phone
+[6],Sitting in wheelchair,7,Talking on phone
+[6],Sitting in wheelchair,7,Talking on phone
+[7],Talking on phone,7,Talking on phone
+[6],Sitting in wheelchair,7,Talking on phone
+[6],Sitting in wheelchair,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[1],EVS visit,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[5],Resting,7,Talking on phone
+[8],Therapy,8,Therapy
+[8],Therapy,8,Therapy
+[8],Therapy,8,Therapy
+[8],Therapy,8,Therapy
+[8],Therapy,8,Therapy
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[9],Watching TV,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[9],Watching TV,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[9],Watching TV,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[2],Family visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[1],EVS visit,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[1],EVS visit,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[1],EVS visit,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[1],EVS visit,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[1],EVS visit,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[1],EVS visit,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[6],Sitting in wheelchair,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[1],EVS visit,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[7],Talking on phone,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[8],Therapy,9,Watching TV
+[8],Therapy,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[8],Therapy,9,Watching TV
+[8],Therapy,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[8],Therapy,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[8],Therapy,9,Watching TV
+[8],Therapy,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[8],Therapy,9,Watching TV
+[8],Therapy,9,Watching TV
+[8],Therapy,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[8],Therapy,9,Watching TV
+[8],Therapy,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[8],Therapy,9,Watching TV
+[8],Therapy,9,Watching TV
+[8],Therapy,9,Watching TV
+[8],Therapy,9,Watching TV
+[8],Therapy,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[0],Eating,9,Watching TV
+[0],Eating,9,Watching TV
+[0],Eating,9,Watching TV
+[1],EVS visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[8],Therapy,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[4],Nurse-Doctor visit,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[5],Resting,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV
+[1],EVS visit,9,Watching TV

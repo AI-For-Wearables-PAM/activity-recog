@@ -1,0 +1,217 @@
+Testing with parameters: {'conv_filters': [32, 64, 128], 'kernel_size': (3, 3, 3), 'dense_units': 512, 'dropout_rate': 0.4, 'learning_rate': 0.001, 'batch_size': 8, 'epochs': 30}
+
+Iteration 1/3
+C:\Users\james\.conda\envs\recog\Lib\site-packages\keras\src\layers\convolutional\base_conv.py:107: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(activity_regularizer=activity_regularizer, **kwargs)
+2024-11-05 01:57:04.514847: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Epoch 1/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 20s 368ms/step - accuracy: 0.3491 - loss: 8.5343 - val_accuracy: 0.0800 - val_loss: 166.0095
+Epoch 2/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 358ms/step - accuracy: 0.5833 - loss: 2.2954 - val_accuracy: 0.1400 - val_loss: 41.3192
+Epoch 3/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 19s 371ms/step - accuracy: 0.6401 - loss: 1.2804 - val_accuracy: 0.2000 - val_loss: 5.7284
+Epoch 4/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 19s 373ms/step - accuracy: 0.6810 - loss: 0.9181 - val_accuracy: 0.4500 - val_loss: 3.4268
+Epoch 5/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 361ms/step - accuracy: 0.7170 - loss: 0.7807 - val_accuracy: 0.6600 - val_loss: 1.4634
+Epoch 6/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 357ms/step - accuracy: 0.6898 - loss: 0.9005 - val_accuracy: 0.4900 - val_loss: 2.5026
+Epoch 7/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 363ms/step - accuracy: 0.6962 - loss: 1.0180 - val_accuracy: 0.7100 - val_loss: 1.2900
+Epoch 8/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 366ms/step - accuracy: 0.7406 - loss: 0.7750 - val_accuracy: 0.7400 - val_loss: 1.2913
+Epoch 9/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 362ms/step - accuracy: 0.7863 - loss: 0.5735 - val_accuracy: 0.7300 - val_loss: 1.3458
+Epoch 10/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 19s 373ms/step - accuracy: 0.7556 - loss: 0.6609 - val_accuracy: 0.7200 - val_loss: 1.1421
+Epoch 11/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 370ms/step - accuracy: 0.7668 - loss: 0.6062 - val_accuracy: 0.6400 - val_loss: 1.5039
+Epoch 12/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 366ms/step - accuracy: 0.7616 - loss: 0.6515 - val_accuracy: 0.7200 - val_loss: 0.8555
+Epoch 13/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 19s 373ms/step - accuracy: 0.7538 - loss: 0.6958 - val_accuracy: 0.7700 - val_loss: 1.0159
+Epoch 14/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 19s 370ms/step - accuracy: 0.7835 - loss: 0.5774 - val_accuracy: 0.6500 - val_loss: 1.8184
+Epoch 15/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 369ms/step - accuracy: 0.7861 - loss: 0.5331 - val_accuracy: 0.8600 - val_loss: 0.7037
+Epoch 16/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.8199 - loss: 0.5508 - val_accuracy: 0.7300 - val_loss: 1.2914
+Epoch 17/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 357ms/step - accuracy: 0.8374 - loss: 0.4416 - val_accuracy: 0.7200 - val_loss: 1.3534
+Epoch 18/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.8104 - loss: 0.4699 - val_accuracy: 0.6800 - val_loss: 1.4330
+Epoch 19/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.7827 - loss: 0.5572 - val_accuracy: 0.9100 - val_loss: 0.6417
+Epoch 20/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 354ms/step - accuracy: 0.8060 - loss: 0.4745 - val_accuracy: 0.7700 - val_loss: 0.9519
+Epoch 21/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.8220 - loss: 0.4433 - val_accuracy: 0.6800 - val_loss: 1.4161
+Epoch 22/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.8056 - loss: 0.6860 - val_accuracy: 0.7200 - val_loss: 1.4235
+Epoch 23/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 354ms/step - accuracy: 0.8423 - loss: 0.4119 - val_accuracy: 0.0900 - val_loss: 42.7267
+Epoch 24/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 354ms/step - accuracy: 0.8437 - loss: 0.4156 - val_accuracy: 0.8300 - val_loss: 1.0013
+Epoch 25/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.7925 - loss: 0.7697 - val_accuracy: 0.8400 - val_loss: 1.4990
+Epoch 26/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.7505 - loss: 0.5462 - val_accuracy: 0.6900 - val_loss: 1.8532
+Epoch 27/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 359ms/step - accuracy: 0.8294 - loss: 0.4146 - val_accuracy: 0.6800 - val_loss: 1.4847
+Epoch 28/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.8066 - loss: 0.7763 - val_accuracy: 0.5500 - val_loss: 5.1919
+Epoch 29/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.7654 - loss: 0.6301 - val_accuracy: 0.7800 - val_loss: 1.6983
+Epoch 30/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.7599 - loss: 0.5495 - val_accuracy: 0.8400 - val_loss: 1.1653
+4/4 ━━━━━━━━━━━━━━━━━━━━ 1s 181ms/step
+Iteration 1 Validation Accuracy: 0.84
+Best model saved with accuracy 0.84
+
+Iteration 2/3
+C:\Users\james\.conda\envs\recog\Lib\site-packages\keras\src\layers\convolutional\base_conv.py:107: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(activity_regularizer=activity_regularizer, **kwargs)
+Epoch 1/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 19s 356ms/step - accuracy: 0.3374 - loss: 6.5408 - val_accuracy: 0.1700 - val_loss: 101.0701
+Epoch 2/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 354ms/step - accuracy: 0.4948 - loss: 2.9764 - val_accuracy: 0.1000 - val_loss: 42.7268
+Epoch 3/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.5713 - loss: 1.5429 - val_accuracy: 0.2100 - val_loss: 8.0169
+Epoch 4/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 353ms/step - accuracy: 0.6881 - loss: 0.9364 - val_accuracy: 0.5100 - val_loss: 3.1223
+Epoch 5/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 360ms/step - accuracy: 0.6888 - loss: 0.8566 - val_accuracy: 0.6600 - val_loss: 2.0829
+Epoch 6/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 358ms/step - accuracy: 0.7082 - loss: 0.8488 - val_accuracy: 0.7500 - val_loss: 0.9382
+Epoch 7/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.7042 - loss: 0.6747 - val_accuracy: 0.8000 - val_loss: 1.0188
+Epoch 8/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 359ms/step - accuracy: 0.6979 - loss: 0.7822 - val_accuracy: 0.7900 - val_loss: 0.9230
+Epoch 9/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.8027 - loss: 0.4876 - val_accuracy: 0.7900 - val_loss: 0.7108
+Epoch 10/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 354ms/step - accuracy: 0.7469 - loss: 0.6722 - val_accuracy: 0.7700 - val_loss: 0.7904
+Epoch 11/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 364ms/step - accuracy: 0.7579 - loss: 0.5420 - val_accuracy: 0.8100 - val_loss: 0.7547
+Epoch 12/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 363ms/step - accuracy: 0.8494 - loss: 0.4991 - val_accuracy: 0.8800 - val_loss: 0.7234
+Epoch 13/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 362ms/step - accuracy: 0.7761 - loss: 0.6567 - val_accuracy: 0.8500 - val_loss: 0.7292
+Epoch 14/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 363ms/step - accuracy: 0.8134 - loss: 0.4738 - val_accuracy: 0.9100 - val_loss: 0.3528
+Epoch 15/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 362ms/step - accuracy: 0.7879 - loss: 0.5363 - val_accuracy: 0.8500 - val_loss: 0.4620
+Epoch 16/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 363ms/step - accuracy: 0.7755 - loss: 0.5942 - val_accuracy: 0.8900 - val_loss: 0.5271
+Epoch 17/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 363ms/step - accuracy: 0.8226 - loss: 0.4164 - val_accuracy: 0.8500 - val_loss: 0.6613
+Epoch 18/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 363ms/step - accuracy: 0.8322 - loss: 0.4572 - val_accuracy: 0.8500 - val_loss: 0.4682
+Epoch 19/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 354ms/step - accuracy: 0.8483 - loss: 0.3654 - val_accuracy: 0.9200 - val_loss: 0.5012
+Epoch 20/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.7907 - loss: 0.5390 - val_accuracy: 0.6700 - val_loss: 1.4277
+Epoch 21/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 357ms/step - accuracy: 0.7731 - loss: 0.5383 - val_accuracy: 0.7000 - val_loss: 1.0803
+Epoch 22/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 354ms/step - accuracy: 0.8015 - loss: 0.5465 - val_accuracy: 0.9000 - val_loss: 0.8663
+Epoch 23/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.8193 - loss: 0.4348 - val_accuracy: 0.8700 - val_loss: 0.6157
+Epoch 24/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.8872 - loss: 0.3483 - val_accuracy: 0.8400 - val_loss: 0.6080
+Epoch 25/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 358ms/step - accuracy: 0.8498 - loss: 0.3889 - val_accuracy: 0.8000 - val_loss: 1.6252
+Epoch 26/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 353ms/step - accuracy: 0.8477 - loss: 0.5435 - val_accuracy: 0.8900 - val_loss: 0.6422
+Epoch 27/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.8517 - loss: 0.3315 - val_accuracy: 0.9000 - val_loss: 0.3390
+Epoch 28/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.8614 - loss: 0.3481 - val_accuracy: 0.9100 - val_loss: 0.3395
+Epoch 29/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 354ms/step - accuracy: 0.8701 - loss: 0.3324 - val_accuracy: 0.8900 - val_loss: 0.3574
+Epoch 30/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 354ms/step - accuracy: 0.8709 - loss: 0.2997 - val_accuracy: 0.9000 - val_loss: 0.3361
+4/4 ━━━━━━━━━━━━━━━━━━━━ 1s 181ms/step
+Iteration 2 Validation Accuracy: 0.9
+Best model saved with accuracy 0.9
+
+Iteration 3/3
+C:\Users\james\.conda\envs\recog\Lib\site-packages\keras\src\layers\convolutional\base_conv.py:107: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
+  super().__init__(activity_regularizer=activity_regularizer, **kwargs)
+Epoch 1/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 19s 358ms/step - accuracy: 0.3129 - loss: 7.8441 - val_accuracy: 0.0800 - val_loss: 250.8718
+Epoch 2/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 354ms/step - accuracy: 0.5361 - loss: 2.3949 - val_accuracy: 0.3300 - val_loss: 12.8376
+Epoch 3/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.6561 - loss: 1.3145 - val_accuracy: 0.4500 - val_loss: 4.8006
+Epoch 4/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.6222 - loss: 1.1613 - val_accuracy: 0.6500 - val_loss: 1.2536
+Epoch 5/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.6556 - loss: 0.9712 - val_accuracy: 0.4100 - val_loss: 2.4114
+Epoch 6/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.6298 - loss: 0.8790 - val_accuracy: 0.5900 - val_loss: 3.1841
+Epoch 7/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.6665 - loss: 0.8154 - val_accuracy: 0.6100 - val_loss: 1.7419
+Epoch 8/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 358ms/step - accuracy: 0.6766 - loss: 0.9168 - val_accuracy: 0.6700 - val_loss: 2.1362
+Epoch 9/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.7430 - loss: 0.8954 - val_accuracy: 0.7400 - val_loss: 1.2129
+Epoch 10/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.7681 - loss: 0.7136 - val_accuracy: 0.0900 - val_loss: 13.2733
+Epoch 11/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.7642 - loss: 0.7000 - val_accuracy: 0.6900 - val_loss: 0.7520
+Epoch 12/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.7016 - loss: 0.7152 - val_accuracy: 0.8600 - val_loss: 0.8173
+Epoch 13/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.8302 - loss: 0.5418 - val_accuracy: 0.7700 - val_loss: 1.3299
+Epoch 14/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.7951 - loss: 0.5789 - val_accuracy: 0.7400 - val_loss: 1.0351
+Epoch 15/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.8348 - loss: 0.5237 - val_accuracy: 0.7900 - val_loss: 1.1499
+Epoch 16/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.8412 - loss: 0.4577 - val_accuracy: 0.8700 - val_loss: 1.3326
+Epoch 17/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.8151 - loss: 0.5854 - val_accuracy: 0.8700 - val_loss: 1.1208
+Epoch 18/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 357ms/step - accuracy: 0.8817 - loss: 0.3266 - val_accuracy: 0.8900 - val_loss: 0.7007
+Epoch 19/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 356ms/step - accuracy: 0.8840 - loss: 0.4154 - val_accuracy: 0.8800 - val_loss: 0.6038
+Epoch 20/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.8920 - loss: 0.2470 - val_accuracy: 0.8300 - val_loss: 0.5501
+Epoch 21/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 357ms/step - accuracy: 0.9182 - loss: 0.2891 - val_accuracy: 0.8600 - val_loss: 0.8130
+Epoch 22/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 358ms/step - accuracy: 0.8954 - loss: 0.2797 - val_accuracy: 0.8800 - val_loss: 0.7781
+Epoch 23/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.8690 - loss: 0.3825 - val_accuracy: 0.5800 - val_loss: 2.3713
+Epoch 24/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 355ms/step - accuracy: 0.8967 - loss: 0.3095 - val_accuracy: 0.8300 - val_loss: 0.8311
+Epoch 25/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 358ms/step - accuracy: 0.9349 - loss: 0.2221 - val_accuracy: 0.8800 - val_loss: 0.7454
+Epoch 26/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 18s 357ms/step - accuracy: 0.9222 - loss: 0.2309 - val_accuracy: 0.8500 - val_loss: 1.1693
+Epoch 27/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 17s 348ms/step - accuracy: 0.9111 - loss: 0.3619 - val_accuracy: 0.9100 - val_loss: 0.7276
+Epoch 28/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 17s 347ms/step - accuracy: 0.9207 - loss: 0.2082 - val_accuracy: 0.8900 - val_loss: 0.6524
+Epoch 29/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 17s 349ms/step - accuracy: 0.9384 - loss: 0.1836 - val_accuracy: 0.9000 - val_loss: 0.5979
+Epoch 30/30
+50/50 ━━━━━━━━━━━━━━━━━━━━ 17s 346ms/step - accuracy: 0.9422 - loss: 0.1472 - val_accuracy: 0.8900 - val_loss: 0.6726
+WARNING:tensorflow:5 out of the last 9 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000002548EE65800> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+3/4 ━━━━━━━━━━━━━━━━━━━━ 0s 212ms/stepWARNING:tensorflow:6 out of the last 12 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x000002548EE65800> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+4/4 ━━━━━━━━━━━━━━━━━━━━ 1s 175ms/step
+Iteration 3 Validation Accuracy: 0.89
+
+Best hyperparameters: {'conv_filters': [32, 64, 128], 'kernel_size': (3, 3, 3), 'dense_units': 512, 'dropout_rate': 0.4, 'learning_rate': 0.001, 'batch_size': 8, 'epochs': 30} with accuracy: 0.9
+True labels: [6 6 0 1 9 9 6 0 4 1 6 3 2 1 6 3 8 5 2 2 5 6 6 9 1 7 0 6 3 4 3 6 4 8 6 2 5
+ 0 8 7 6 8 9 4 6 6 5 8 8 2 3 4 0 8 8 1 6 6 0 7 6 1 5 7 7 6 7 6 5 3 6 6 2 0
+ 2 9 9 8 5 2 5 2 3 8 3 4 8 5 9 9 9 9 8 0 8 0 3 1 4 2]
+Predicted labels: [6 6 0 1 9 9 6 0 5 1 6 3 2 9 6 3 8 5 2 2 9 6 6 9 9 7 0 6 3 4 3 6 7 8 6 2 5
+ 0 8 7 6 8 9 1 6 6 5 8 8 2 3 4 0 8 8 9 6 6 0 7 6 1 5 7 7 6 7 6 5 3 6 6 2 0
+ 2 7 9 8 7 2 5 2 3 8 3 7 8 5 9 9 9 9 8 0 8 0 3 1 4 2]
+Done
+{'conv_filters': [32, 64, 128], 'kernel_size': (3, 3, 3), 'dense_units': 512, 'dropout_rate': 0.4, 'learning_rate': 0.001, 'batch_size': 8, 'epochs': 30}
+0.9
+2024-11-05-02-15-08-conv3d-model.keras

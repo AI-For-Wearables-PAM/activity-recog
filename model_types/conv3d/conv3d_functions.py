@@ -168,7 +168,123 @@ def run_multiple_iterations(train_data_folder, iterations=5, epochs_list=[10, 20
     print(f"\nAverage validation accuracy over {iterations} iterations: {avg_accuracy}")
 
     return avg_accuracy, best_model_path
-    
+
+# Define random search function
+# def train3d_skf(train_data_folder, param_grid, iterations=3, random_search=False, n_combinations=10, complex=True):
+    # Load data
+    data, labels, activity_classes = load_videos_from_folders(train_data_folder)
+    input_shape = (30, 64, 64, 3)  # (sequence_length, img_size, img_size, channels)
+    num_classes = len(activity_classes)
+
+    # To store results
+    best_accuracy = 0.0
+    best_params = None
+    best_model_path = None
+    best_val_true_labels = None
+    best_val_predicted_labels = None
+
+    if random_search:
+        # Randomly sample a subset of parameter combinations
+        param_combinations = [dict(zip(param_grid.keys(), values)) for values in random.sample(list(product(*param_grid.values())), n_combinations)]
+    else:
+        param_combinations = [param_grid]
+
+    for param_comb in param_combinations:
+        # Unpack the current parameter combination
+        params = dict(param_comb)
+        print(f"\nTesting with parameters: {params}")
+
+        for i in range(iterations):
+            print(f"\nIteration {i + 1}/{iterations}")
+            # Split data
+            # X_train, X_val, y_train, y_val = train_test_split(data, labels, test_size=0.2, random_state=i)
+
+            # Build and train the model with the current hyperparameters
+            model = build_3dcnn(
+                input_shape, num_classes,
+                conv_filters=params['conv_filters'],
+                kernel_size=params['kernel_size'],
+                dense_units=params['dense_units'],
+                dropout_rate=params['dropout_rate'],
+                learning_rate=params['learning_rate'],
+                complex=complex
+            ) 
+
+            le = LabelEncoder()
+            le.fit(labels)
+            encoded_labels = le.transform(labels)
+
+            # Format X and y as np arrays
+            X = data 
+            y = encoded_labels 
+
+            # Configure StratifiedKFold
+            num_folds = 5
+            skf = StratifiedKFold(n_splits=num_folds)
+            skf.get_n_splits(X, y)
+
+            print(skf)
+
+            print(y)
+
+            scores = []
+
+            for i, (train_index, test_index) in enumerate(skf.split(X, y)):
+                print(f"Fold {i}")
+                # print(f"  Train: index={train_index}")
+                # print(f"  Test:  index={test_index}")
+            
+                # Train model
+                scores.append(get_score(model, X[train_index], X[test_index], y[train_index], y[test_index], 
+                                        epochs=params['epochs'], batch_size=params['batch_size'], verbose=1))
+
+            #####
+
+            # Train the model for a set number of epochs
+            # model.fit(X_train, y_train, validation_data=(X_val, y_val), epochs=params['epochs'], batch_size=params['batch_size'], verbose=1)
+
+            # Evaluate model on validation set
+            # val_predictions = model.predict(X_val)
+            # val_predicted_labels = np.argmax(val_predictions, axis=1)
+            # val_true_labels = np.argmax(y_val, axis=1)
+
+            # # Calculate accuracy for this iteration
+            # accuracy = accuracy_score(val_true_labels, val_predicted_labels)
+            accuracy = scores[i]
+  
+            print(f"Iteration {i + 1} Validation Accuracy: {accuracy}")
+
+            # Check if this is the best accuracy so far
+            if accuracy > best_accuracy:
+                best_accuracy = accuracy
+                best_params = params
+                # best_model_path = f"best_model_{params}_accuracy_{best_accuracy:.2f}.h5"
+                # model.save(best_model_path)
+
+                # Save model
+                date_time_format = '%Y-%m-%d-%H-%M-%S'
+                current_date_time_dt = dt.datetime.now()
+                current_date_time_string = dt.datetime.strftime(current_date_time_dt, date_time_format)
+
+                model_name = f'{current_date_time_string}-conv3d-model.keras'
+                
+                model.save(model_name)
+
+                print(f"Best model saved with accuracy {best_accuracy}")
+
+                # Store the best validation predictions and labels for confusion matrix
+                # best_val_true_labels = val_true_labels
+                # best_val_predicted_labels = val_predicted_labels
+
+    # Return the best parameters and accuracy
+    print(f"\nBest hyperparameters: {best_params} with accuracy: {best_accuracy}")
+    # print(f"True labels: {best_val_true_labels}\nPredicted labels: {best_val_predicted_labels}")
+
+    print("Done")
+
+    results = [best_params, best_accuracy, model_name]
+
+    return results
 
 # Define random search function
 def train3d(train_data_folder, param_grid, iterations=3, random_search=False, n_combinations=10, complex=True):
@@ -209,7 +325,7 @@ def train3d(train_data_folder, param_grid, iterations=3, random_search=False, n_
                 dropout_rate=params['dropout_rate'],
                 learning_rate=params['learning_rate'],
                 complex=complex
-            )
+            ) 
 
             # Train the model for a set number of epochs
             model.fit(X_train, y_train, validation_data=(X_val, y_val), epochs=params['epochs'], batch_size=params['batch_size'], verbose=1)

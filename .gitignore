@@ -10,7 +10,8 @@ predictions/
 ignore/
 
 # Conv3D models are too large for GitHub storage. Add them to Google Drive.
-conv3D/*.keras
+conv3d/*
+model_types/conv3d/*.keras
 
 # misc
 __pycache__/
