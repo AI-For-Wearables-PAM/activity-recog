@@ -74,7 +74,7 @@ def video_to_frames(video_path, img_size, sequence_length):
 
 
 # Build the Model
-def build_3dcnn(input_shape, num_classes, conv_filters=[64, 128, 256], kernel_size=(3, 3, 3), dense_units=1024, dropout_rate=0.5, learning_rate=0.001):
+def build_3dcnn(input_shape, num_classes, conv_filters=[64, 128, 256], kernel_size=(3, 3, 3), dense_units=1024, dropout_rate=0.5, learning_rate=0.001, complex=True):
     model = Sequential()
 
     # First Conv Layer
@@ -82,15 +82,16 @@ def build_3dcnn(input_shape, num_classes, conv_filters=[64, 128, 256], kernel_si
     model.add(BatchNormalization())
     model.add(MaxPooling3D(pool_size=(2, 2, 2)))
 
-    # Second Conv Layer
-    model.add(Conv3D(conv_filters[1], kernel_size=kernel_size, activation='relu'))
-    model.add(BatchNormalization())
-    model.add(MaxPooling3D(pool_size=(2, 2, 2)))
+    if complex: 
+        # Second Conv Layer
+        model.add(Conv3D(conv_filters[1], kernel_size=kernel_size, activation='relu'))
+        model.add(BatchNormalization())
+        model.add(MaxPooling3D(pool_size=(2, 2, 2)))
 
-    # Third Conv Layer
-    model.add(Conv3D(conv_filters[2], kernel_size=kernel_size, activation='relu'))
-    model.add(BatchNormalization())
-    model.add(MaxPooling3D(pool_size=(2, 2, 2)))
+        # Third Conv Layer
+        model.add(Conv3D(conv_filters[2], kernel_size=kernel_size, activation='relu'))
+        model.add(BatchNormalization())
+        model.add(MaxPooling3D(pool_size=(2, 2, 2)))
 
     # Fully Connected Layers
     model.add(Flatten())
@@ -170,7 +171,7 @@ def run_multiple_iterations(train_data_folder, iterations=5, epochs_list=[10, 20
     
 
 # Define random search function
-def train3d(train_data_folder, param_grid, iterations=3, random_search=False, n_combinations=10):
+def train3d(train_data_folder, param_grid, iterations=3, random_search=False, n_combinations=10, complex=True):
     # Load data
     data, labels, activity_classes = load_videos_from_folders(train_data_folder)
     input_shape = (30, 64, 64, 3)  # (sequence_length, img_size, img_size, channels)
@@ -206,7 +207,8 @@ def train3d(train_data_folder, param_grid, iterations=3, random_search=False, n_
                 kernel_size=params['kernel_size'],
                 dense_units=params['dense_units'],
                 dropout_rate=params['dropout_rate'],
-                learning_rate=params['learning_rate']
+                learning_rate=params['learning_rate'],
+                complex=complex
             )
 
             # Train the model for a set number of epochs

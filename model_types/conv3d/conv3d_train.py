@@ -16,7 +16,7 @@ path = '../../downloads'
 train_dir = f'{path}/fr_split'
 
 # Train model
-best_model_details = train3d(train_dir, param_grid, random_search=False)
+best_model_details = train3d(train_dir, param_grid, random_search=False, complex=False)
 
 for detail in best_model_details:
     print(detail)
