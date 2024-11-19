@@ -1,0 +1,1107 @@
+True label,Top prediction,Top probability
+EVS Visit,spraying,17.58
+EVS Visit,making bed,50.95
+EVS Visit,folding napkins,27.9
+EVS Visit,folding napkins,24.56
+EVS Visit,making bed,74.19
+EVS Visit,spraying,18.42
+EVS Visit,spraying,18.5
+EVS Visit,robot dancing,14.03
+EVS Visit,massaging person's head,15.3
+EVS Visit,plastering,7.99
+EVS Visit,spraying,14.58
+EVS Visit,folding napkins,19.17
+EVS Visit,slapping,13.17
+EVS Visit,reading newspaper,26.15
+EVS Visit,spray painting,28.68
+EVS Visit,moving furniture,14.92
+EVS Visit,making bed,97.0
+EVS Visit,making bed,6.06
+EVS Visit,folding napkins,14.7
+EVS Visit,making bed,31.16
+EVS Visit,plastering,12.89
+EVS Visit,making bed,52.57
+EVS Visit,making bed,14.87
+EVS Visit,slapping,17.27
+EVS Visit,making bed,26.36
+EVS Visit,slapping,13.88
+EVS Visit,playing didgeridoo,95.85
+EVS Visit,plastering,7.72
+EVS Visit,playing didgeridoo,36.52
+EVS Visit,plastering,10.51
+EVS Visit,robot dancing,19.03
+EVS Visit,robot dancing,14.69
+EVS Visit,moving furniture,27.35
+EVS Visit,playing didgeridoo,36.88
+EVS Visit,reading newspaper,37.72
+EVS Visit,reading newspaper,57.47
+EVS Visit,slapping,13.78
+EVS Visit,making bed,16.48
+EVS Visit,making bed,76.72
+EVS Visit,massaging legs,31.3
+EVS Visit,making bed,59.5
+Sitting In Wheelchair,folding napkins,4.19
+Sitting In Wheelchair,belly dancing,5.35
+Sitting In Wheelchair,doing laundry,9.23
+Sitting In Wheelchair,belly dancing,5.35
+Sitting In Wheelchair,folding napkins,4.19
+Sitting In Wheelchair,doing laundry,10.82
+Sitting In Wheelchair,doing laundry,16.67
+Sitting In Wheelchair,doing laundry,16.01
+Sitting In Wheelchair,robot dancing,9.91
+Sitting In Wheelchair,doing laundry,15.94
+Sitting In Wheelchair,folding napkins,4.19
+Sitting In Wheelchair,doing laundry,15.46
+Sitting In Wheelchair,robot dancing,9.91
+Sitting In Wheelchair,robot dancing,9.91
+Sitting In Wheelchair,doing laundry,15.08
+Sitting In Wheelchair,folding napkins,4.19
+Sitting In Wheelchair,doing laundry,15.26
+Sitting In Wheelchair,doing laundry,15.82
+Sitting In Wheelchair,doing laundry,14.71
+Sitting In Wheelchair,doing laundry,17.32
+Sitting In Wheelchair,doing laundry,14.57
+Sitting In Wheelchair,doing laundry,17.72
+Sitting In Wheelchair,doing laundry,15.62
+Sitting In Wheelchair,doing laundry,8.24
+Sitting In Wheelchair,doing laundry,13.06
+Sitting In Wheelchair,doing laundry,11.32
+Sitting In Wheelchair,doing laundry,15.39
+Sitting In Wheelchair,doing laundry,18.63
+Sitting In Wheelchair,belly dancing,5.35
+Sitting In Wheelchair,doing laundry,12.66
+Sitting In Wheelchair,belly dancing,5.35
+Sitting In Wheelchair,doing laundry,11.14
+Sitting In Wheelchair,doing laundry,12.33
+Sitting In Wheelchair,doing laundry,15.53
+Sitting In Wheelchair,doing laundry,14.79
+Sitting In Wheelchair,playing harmonica,16.31
+Sitting In Wheelchair,doing laundry,15.42
+Sitting In Wheelchair,doing laundry,13.72
+Sitting In Wheelchair,playing harp,15.26
+Sitting In Wheelchair,playing harmonica,11.6
+Sitting In Wheelchair,doing laundry,13.55
+Sitting In Wheelchair,doing laundry,15.29
+Sitting In Wheelchair,robot dancing,9.91
+Sitting In Wheelchair,robot dancing,9.91
+Sitting In Wheelchair,doing laundry,14.64
+Sitting In Wheelchair,doing laundry,16.66
+Sitting In Wheelchair,doing laundry,9.79
+Sitting In Wheelchair,doing laundry,14.85
+Sitting In Wheelchair,doing laundry,17.83
+Sitting In Wheelchair,doing laundry,14.62
+Sitting In Wheelchair,doing laundry,15.74
+Sitting In Wheelchair,robot dancing,9.91
+Sitting In Wheelchair,doing laundry,13.21
+Sitting In Wheelchair,robot dancing,9.91
+Sitting In Wheelchair,doing laundry,16.42
+Sitting In Wheelchair,doing laundry,16.87
+Sitting In Wheelchair,doing laundry,17.03
+Sitting In Wheelchair,doing laundry,14.03
+Sitting In Wheelchair,headbanging,19.5
+Sitting In Wheelchair,doing laundry,16.7
+Sitting In Wheelchair,belly dancing,12.0
+Sitting In Wheelchair,doing laundry,13.58
+Sitting In Wheelchair,doing laundry,16.43
+Sitting In Wheelchair,doing laundry,16.36
+Sitting In Wheelchair,doing laundry,13.46
+Sitting In Wheelchair,belly dancing,13.5
+Sitting In Wheelchair,playing bass guitar,29.61
+Sitting In Wheelchair,doing laundry,16.09
+Sitting In Wheelchair,doing laundry,12.44
+Sitting In Wheelchair,playing bass guitar,35.46
+Sitting In Wheelchair,playing bass guitar,18.86
+Sitting In Wheelchair,doing laundry,15.44
+Sitting In Wheelchair,doing laundry,15.51
+Sitting In Wheelchair,playing bass guitar,28.11
+Sitting In Wheelchair,belly dancing,5.35
+Sitting In Wheelchair,belly dancing,5.35
+Sitting In Wheelchair,belly dancing,5.94
+Sitting In Wheelchair,doing laundry,11.05
+Sitting In Wheelchair,doing laundry,12.3
+Sitting In Wheelchair,doing laundry,14.48
+Sitting In Wheelchair,doing laundry,14.93
+Sitting In Wheelchair,belly dancing,28.61
+Sitting In Wheelchair,belly dancing,17.21
+Sitting In Wheelchair,playing bass guitar,10.01
+Sitting In Wheelchair,belly dancing,23.98
+Sitting In Wheelchair,doing laundry,14.92
+Doctor Visit,doing laundry,20.34
+Doctor Visit,doing laundry,45.27
+Talking on the Phone,reading newspaper,14.27
+Talking on the Phone,applying cream,29.57
+Talking on the Phone,applying cream,22.79
+Talking on the Phone,reading newspaper,15.06
+Talking on the Phone,reading book,17.9
+Talking on the Phone,reading book,24.7
+Talking on the Phone,stretching arm,11.63
+Talking on the Phone,dancing ballet,19.67
+Talking on the Phone,reading newspaper,13.88
+Talking on the Phone,plastering,10.58
+Talking on the Phone,plastering,14.16
+Talking on the Phone,plastering,17.6
+Talking on the Phone,stretching arm,5.37
+Talking on the Phone,plastering,14.83
+Talking on the Phone,plastering,13.15
+Talking on the Phone,plastering,14.15
+Talking on the Phone,plastering,12.63
+Talking on the Phone,plastering,11.44
+Talking on the Phone,plastering,12.67
+Talking on the Phone,plastering,14.26
+Talking on the Phone,plastering,11.04
+Talking on the Phone,plastering,13.7
+Talking on the Phone,plastering,13.93
+Talking on the Phone,plastering,14.02
+Talking on the Phone,plastering,9.18
+Talking on the Phone,plastering,15.74
+Talking on the Phone,plastering,16.54
+Talking on the Phone,plastering,13.51
+Talking on the Phone,plastering,13.53
+Talking on the Phone,stretching arm,6.43
+Talking on the Phone,plastering,14.35
+Talking on the Phone,plastering,13.98
+Talking on the Phone,plastering,13.56
+Talking on the Phone,applying cream,16.32
+Talking on the Phone,plastering,14.23
+Talking on the Phone,plastering,15.56
+Talking on the Phone,plastering,14.04
+Talking on the Phone,stretching arm,9.94
+Talking on the Phone,dancing ballet,7.41
+Talking on the Phone,plastering,13.01
+Talking on the Phone,stretching leg,10.27
+Talking on the Phone,reading book,11.62
+Talking on the Phone,yoga,13.71
+Talking on the Phone,plastering,12.42
+Talking on the Phone,robot dancing,17.31
+Talking on the Phone,reading newspaper,11.14
+Talking on the Phone,reading newspaper,26.89
+Talking on the Phone,reading book,24.99
+Talking on the Phone,dancing ballet,20.19
+Talking on the Phone,dancing ballet,20.28
+Talking on the Phone,plastering,16.3
+Talking on the Phone,dancing ballet,26.96
+Talking on the Phone,applying cream,27.32
+Talking on the Phone,reading newspaper,17.48
+Talking on the Phone,spray painting,11.86
+Family,robot dancing,7.21
+Family,plastering,6.22
+Family,plastering,5.4
+Family,applying cream,7.92
+Family,plastering,5.4
+Family,plastering,6.83
+Family,robot dancing,7.21
+Family,plastering,7.95
+Family,plastering,5.4
+Family,taking a shower,7.73
+Family,taking a shower,5.92
+Family,plastering,5.4
+Family,plastering,7.07
+Family,robot dancing,7.51
+Family,robot dancing,7.21
+Family,plastering,5.97
+Family,robot dancing,5.71
+Family,plastering,5.4
+Family,stretching arm,6.99
+Family,stretching arm,6.99
+Family,plastering,5.83
+Family,plastering,5.48
+Family,plastering,5.97
+Family,robot dancing,7.21
+Family,robot dancing,4.82
+Family,plastering,6.26
+Family,stretching arm,6.94
+Family,taking a shower,5.39
+Family,plastering,5.92
+Family,plastering,8.95
+Family,plastering,8.95
+Family,taking a shower,16.59
+Family,sign language interpreting,6.5
+Family,sign language interpreting,8.44
+Family,plastering,9.24
+Family,plastering,10.91
+Family,plastering,9.42
+Family,plastering,12.33
+Family,sign language interpreting,8.52
+Family,plastering,7.57
+Family,sign language interpreting,7.66
+Family,applying cream,9.68
+Family,robot dancing,7.14
+Family,robot dancing,8.84
+Family,washing hands,7.95
+Family,taking a shower,5.45
+Family,plastering,5.4
+Family,plastering,5.97
+Family,stretching arm,7.63
+Family,plastering,5.97
+Family,plastering,8.82
+Family,stretching arm,7.63
+Family,stretching arm,7.63
+Family,applying cream,27.64
+Family,robot dancing,7.21
+Family,taking a shower,7.86
+Family,plastering,5.97
+Family,plastering,5.97
+Family,robot dancing,7.21
+Family,plastering,7.18
+Family,plastering,11.18
+Family,taking a shower,7.58
+Family,plastering,5.4
+Family,plastering,5.4
+Family,taking a shower,5.45
+Family,plastering,6.66
+Watching TV,playing harmonica,9.89
+Watching TV,doing laundry,19.15
+Watching TV,doing laundry,12.88
+Watching TV,reading newspaper,9.86
+Watching TV,shredding paper,12.9
+Watching TV,doing laundry,20.03
+Watching TV,doing laundry,22.26
+Watching TV,doing laundry,18.95
+Watching TV,doing laundry,18.95
+Watching TV,shredding paper,9.25
+Watching TV,doing laundry,14.85
+Watching TV,doing laundry,18.39
+Watching TV,shredding paper,8.36
+Watching TV,shredding paper,15.9
+Watching TV,playing harmonica,14.21
+Watching TV,doing laundry,21.18
+Watching TV,playing harmonica,14.78
+Watching TV,plastering,11.44
+Watching TV,doing laundry,15.41
+Watching TV,doing laundry,16.63
+Watching TV,playing harmonica,16.93
+Watching TV,shredding paper,13.1
+Watching TV,playing harmonica,27.81
+Watching TV,doing laundry,15.95
+Watching TV,ripping paper,52.72
+Watching TV,stretching arm,5.71
+Watching TV,doing laundry,18.34
+Watching TV,shredding paper,7.92
+Watching TV,reading newspaper,16.75
+Watching TV,playing harmonica,19.68
+Watching TV,playing harmonica,29.56
+Watching TV,ripping paper,33.68
+Watching TV,taking a shower,4.81
+Watching TV,playing harmonica,10.66
+Watching TV,stretching arm,6.06
+Watching TV,doing laundry,5.79
+Watching TV,playing harmonica,19.18
+Watching TV,doing laundry,23.44
+Watching TV,doing laundry,24.5
+Watching TV,doing laundry,8.5
+Watching TV,doing laundry,25.8
+Watching TV,playing harmonica,20.77
+Watching TV,doing laundry,21.95
+Watching TV,doing laundry,5.79
+Watching TV,stretching arm,6.06
+Watching TV,playing harmonica,53.91
+Watching TV,taking a shower,4.81
+Watching TV,moving furniture,10.03
+Watching TV,stretching arm,6.06
+Watching TV,shredding paper,6.52
+Watching TV,doing laundry,11.58
+Watching TV,doing laundry,15.59
+Watching TV,stretching arm,6.06
+Watching TV,playing harmonica,30.22
+Watching TV,doing laundry,12.18
+Watching TV,doing laundry,5.36
+Watching TV,taking a shower,4.81
+Watching TV,dancing ballet,8.34
+Watching TV,doing laundry,24.82
+Watching TV,doing laundry,5.79
+Watching TV,shredding paper,7.49
+Watching TV,shredding paper,13.89
+Watching TV,doing laundry,5.79
+Watching TV,doing laundry,26.19
+Watching TV,taking a shower,4.81
+Watching TV,shredding paper,16.27
+Watching TV,doing laundry,12.89
+Watching TV,doing laundry,8.64
+Watching TV,doing laundry,12.69
+Watching TV,shredding paper,6.54
+Watching TV,shredding paper,6.47
+Watching TV,ripping paper,9.89
+Watching TV,doing laundry,8.47
+Watching TV,doing laundry,23.75
+Watching TV,shredding paper,13.23
+Watching TV,stretching arm,6.05
+Watching TV,doing laundry,18.24
+Watching TV,playing ukulele,26.1
+Watching TV,doing laundry,5.79
+Watching TV,stretching arm,6.06
+Watching TV,stretching arm,6.06
+Watching TV,doing laundry,5.79
+Watching TV,doing laundry,20.26
+Watching TV,doing laundry,10.32
+Watching TV,taking a shower,4.81
+Watching TV,doing laundry,19.73
+Watching TV,playing harmonica,31.94
+Watching TV,doing laundry,23.01
+Watching TV,shredding paper,18.43
+Watching TV,playing harmonica,49.55
+Watching TV,doing laundry,23.82
+Watching TV,doing laundry,18.41
+Watching TV,doing laundry,9.53
+Watching TV,doing laundry,20.59
+Watching TV,taking a shower,4.81
+Watching TV,stretching arm,6.06
+Watching TV,doing laundry,25.74
+Watching TV,playing harmonica,19.48
+Watching TV,doing laundry,21.38
+Watching TV,doing laundry,16.83
+Watching TV,doing laundry,22.87
+Watching TV,playing ukulele,48.27
+Watching TV,stretching arm,6.06
+Watching TV,doing laundry,8.17
+Watching TV,taking a shower,4.81
+Watching TV,doing laundry,16.53
+Watching TV,taking a shower,4.81
+Watching TV,playing harmonica,23.46
+Watching TV,doing laundry,23.77
+Watching TV,playing harmonica,18.89
+Watching TV,doing laundry,25.84
+Watching TV,doing laundry,18.91
+Watching TV,taking a shower,4.81
+Watching TV,doing laundry,11.54
+Watching TV,reading newspaper,25.89
+Watching TV,doing laundry,22.2
+Watching TV,ripping paper,61.85
+Watching TV,doing laundry,17.32
+Watching TV,ripping paper,58.83
+Watching TV,reading newspaper,30.14
+Watching TV,doing laundry,11.19
+Watching TV,doing laundry,12.31
+Watching TV,doing laundry,10.93
+Watching TV,reading newspaper,20.9
+Watching TV,doing laundry,20.63
+Watching TV,doing laundry,18.38
+Watching TV,doing laundry,17.68
+Watching TV,reading newspaper,30.18
+Watching TV,doing laundry,12.37
+Watching TV,doing laundry,12.57
+Watching TV,doing laundry,6.57
+Watching TV,doing laundry,11.44
+Watching TV,shredding paper,39.86
+Watching TV,doing laundry,17.68
+Watching TV,doing laundry,15.98
+Watching TV,doing laundry,17.96
+Watching TV,doing laundry,18.9
+Watching TV,reading newspaper,31.04
+Watching TV,shredding paper,25.56
+Watching TV,doing laundry,6.57
+Watching TV,doing laundry,10.95
+Watching TV,doing laundry,6.3
+Watching TV,doing laundry,17.71
+Watching TV,doing laundry,16.8
+Watching TV,doing laundry,16.98
+Watching TV,doing laundry,17.17
+Watching TV,shredding paper,9.06
+Watching TV,doing laundry,18.41
+Watching TV,doing laundry,6.57
+Watching TV,doing laundry,11.5
+Asleep-Trying to sleep,doing laundry,48.42
+Asleep-Trying to sleep,shredding paper,19.44
+Asleep-Trying to sleep,making bed,43.32
+Asleep-Trying to sleep,spraying,11.61
+Asleep-Trying to sleep,plastering,15.78
+Asleep-Trying to sleep,folding napkins,9.4
+Asleep-Trying to sleep,reading newspaper,12.91
+Asleep-Trying to sleep,spray painting,18.61
+Asleep-Trying to sleep,plastering,12.51
+Asleep-Trying to sleep,stretching arm,12.41
+Asleep-Trying to sleep,doing laundry,30.46
+Asleep-Trying to sleep,washing hands,9.85
+Asleep-Trying to sleep,plastering,14.8
+Asleep-Trying to sleep,making bed,28.17
+Asleep-Trying to sleep,doing laundry,28.99
+Asleep-Trying to sleep,plastering,18.79
+Asleep-Trying to sleep,plastering,16.33
+Asleep-Trying to sleep,plastering,21.65
+Asleep-Trying to sleep,making bed,15.18
+Asleep-Trying to sleep,stretching arm,7.07
+Asleep-Trying to sleep,spray painting,25.49
+Asleep-Trying to sleep,stretching arm,14.1
+Asleep-Trying to sleep,folding napkins,12.76
+Asleep-Trying to sleep,folding napkins,22.71
+Asleep-Trying to sleep,spraying,31.46
+Asleep-Trying to sleep,reading newspaper,15.11
+Asleep-Trying to sleep,folding napkins,33.33
+Asleep-Trying to sleep,stretching arm,7.45
+Asleep-Trying to sleep,making bed,6.97
+Asleep-Trying to sleep,plastering,9.45
+Asleep-Trying to sleep,doing laundry,18.34
+Asleep-Trying to sleep,stretching arm,27.7
+Asleep-Trying to sleep,reading newspaper,18.34
+Asleep-Trying to sleep,doing laundry,16.74
+Asleep-Trying to sleep,stretching arm,10.71
+Asleep-Trying to sleep,washing hands,7.91
+Asleep-Trying to sleep,massaging person's head,12.14
+Asleep-Trying to sleep,doing laundry,17.47
+Asleep-Trying to sleep,making bed,21.37
+Asleep-Trying to sleep,making bed,13.82
+Asleep-Trying to sleep,stretching arm,9.35
+Asleep-Trying to sleep,reading newspaper,11.66
+Asleep-Trying to sleep,making bed,29.57
+Asleep-Trying to sleep,cleaning toilet,8.63
+Asleep-Trying to sleep,plastering,10.32
+Asleep-Trying to sleep,making bed,8.75
+Asleep-Trying to sleep,doing laundry,6.22
+Asleep-Trying to sleep,folding napkins,32.53
+Asleep-Trying to sleep,making bed,5.64
+Asleep-Trying to sleep,doing laundry,17.96
+Asleep-Trying to sleep,massaging person's head,15.12
+Asleep-Trying to sleep,washing hands,9.53
+Asleep-Trying to sleep,doing laundry,19.76
+Asleep-Trying to sleep,stretching arm,12.63
+Asleep-Trying to sleep,reading newspaper,52.42
+Asleep-Trying to sleep,stretching arm,17.5
+Asleep-Trying to sleep,setting table,11.44
+Asleep-Trying to sleep,making bed,7.87
+Asleep-Trying to sleep,plastering,13.41
+Asleep-Trying to sleep,setting table,9.94
+Asleep-Trying to sleep,cleaning shoes,6.63
+Asleep-Trying to sleep,folding napkins,8.38
+Asleep-Trying to sleep,shredding paper,18.34
+Asleep-Trying to sleep,plastering,22.54
+Asleep-Trying to sleep,making bed,11.39
+Asleep-Trying to sleep,bandaging,8.98
+Asleep-Trying to sleep,washing hands,9.2
+Asleep-Trying to sleep,reading newspaper,89.1
+Asleep-Trying to sleep,doing laundry,16.99
+Asleep-Trying to sleep,yoga,11.24
+Asleep-Trying to sleep,making bed,18.71
+Asleep-Trying to sleep,spray painting,24.72
+Asleep-Trying to sleep,washing hands,8.6
+Asleep-Trying to sleep,cleaning toilet,11.46
+Asleep-Trying to sleep,folding napkins,9.26
+Asleep-Trying to sleep,applying cream,14.69
+Asleep-Trying to sleep,making bed,33.47
+Asleep-Trying to sleep,folding napkins,34.72
+Asleep-Trying to sleep,stretching arm,22.86
+Asleep-Trying to sleep,stretching arm,20.31
+Asleep-Trying to sleep,folding napkins,7.55
+Asleep-Trying to sleep,spray painting,22.52
+Asleep-Trying to sleep,stretching arm,8.75
+Asleep-Trying to sleep,stretching arm,30.78
+Asleep-Trying to sleep,folding napkins,20.3
+Asleep-Trying to sleep,stretching arm,16.84
+Asleep-Trying to sleep,setting table,16.77
+Asleep-Trying to sleep,folding napkins,9.28
+Asleep-Trying to sleep,spraying,11.53
+Asleep-Trying to sleep,washing hands,12.58
+Asleep-Trying to sleep,yoga,11.82
+Asleep-Trying to sleep,plastering,7.49
+Asleep-Trying to sleep,cleaning toilet,11.65
+Asleep-Trying to sleep,spraying,13.02
+Asleep-Trying to sleep,washing hands,12.68
+Asleep-Trying to sleep,folding napkins,8.5
+Asleep-Trying to sleep,doing laundry,21.13
+Asleep-Trying to sleep,plastering,12.8
+Asleep-Trying to sleep,stretching arm,11.29
+Asleep-Trying to sleep,shredding paper,28.24
+Asleep-Trying to sleep,folding napkins,28.41
+Asleep-Trying to sleep,folding napkins,8.52
+Asleep-Trying to sleep,spray painting,27.29
+Asleep-Trying to sleep,spray painting,27.6
+Asleep-Trying to sleep,stretching arm,20.99
+Asleep-Trying to sleep,doing laundry,37.3
+Asleep-Trying to sleep,doing laundry,5.81
+Asleep-Trying to sleep,reading newspaper,8.86
+Asleep-Trying to sleep,shredding paper,72.63
+Asleep-Trying to sleep,cleaning toilet,12.07
+Asleep-Trying to sleep,stretching arm,12.13
+Asleep-Trying to sleep,stretching arm,13.15
+Asleep-Trying to sleep,stretching arm,8.35
+Asleep-Trying to sleep,folding napkins,11.55
+Asleep-Trying to sleep,folding napkins,15.6
+Asleep-Trying to sleep,setting table,13.65
+Asleep-Trying to sleep,folding napkins,17.97
+Asleep-Trying to sleep,washing hands,14.46
+Asleep-Trying to sleep,shredding paper,86.97
+Asleep-Trying to sleep,plastering,7.78
+Asleep-Trying to sleep,washing hands,9.09
+Asleep-Trying to sleep,crying,9.31
+Asleep-Trying to sleep,spray painting,14.76
+Asleep-Trying to sleep,spray painting,13.43
+Asleep-Trying to sleep,stretching arm,11.08
+Asleep-Trying to sleep,shredding paper,14.39
+Asleep-Trying to sleep,doing laundry,19.43
+Asleep-Trying to sleep,stretching arm,23.69
+Asleep-Trying to sleep,folding napkins,9.06
+Asleep-Trying to sleep,plastering,15.39
+Asleep-Trying to sleep,massaging person's head,14.68
+Asleep-Trying to sleep,reading newspaper,30.55
+Asleep-Trying to sleep,doing laundry,7.7
+Asleep-Trying to sleep,shredding paper,60.3
+Asleep-Trying to sleep,reading newspaper,14.24
+Asleep-Trying to sleep,spraying,7.67
+Asleep-Trying to sleep,shredding paper,59.56
+Asleep-Trying to sleep,shredding paper,21.69
+Asleep-Trying to sleep,folding napkins,12.39
+Asleep-Trying to sleep,spraying,13.96
+Asleep-Trying to sleep,shredding paper,11.38
+Asleep-Trying to sleep,stretching arm,17.01
+Asleep-Trying to sleep,stretching arm,9.04
+Asleep-Trying to sleep,shredding paper,13.28
+Asleep-Trying to sleep,folding napkins,9.04
+Asleep-Trying to sleep,shredding paper,8.27
+Asleep-Trying to sleep,cleaning toilet,14.54
+Asleep-Trying to sleep,shredding paper,16.56
+Asleep-Trying to sleep,folding napkins,6.8
+Asleep-Trying to sleep,stretching arm,17.54
+Asleep-Trying to sleep,making bed,30.22
+Asleep-Trying to sleep,making bed,9.85
+Asleep-Trying to sleep,shredding paper,6.98
+Asleep-Trying to sleep,stretching arm,11.48
+Asleep-Trying to sleep,washing hands,11.83
+Asleep-Trying to sleep,folding napkins,14.35
+Asleep-Trying to sleep,washing hands,12.93
+Asleep-Trying to sleep,doing laundry,9.23
+Asleep-Trying to sleep,making bed,5.71
+Asleep-Trying to sleep,doing laundry,13.31
+Asleep-Trying to sleep,making bed,9.34
+Asleep-Trying to sleep,folding napkins,10.14
+Asleep-Trying to sleep,doing laundry,19.95
+Asleep-Trying to sleep,plastering,17.34
+Asleep-Trying to sleep,washing hands,10.6
+Asleep-Trying to sleep,folding napkins,8.2
+Asleep-Trying to sleep,folding napkins,5.1
+Asleep-Trying to sleep,plastering,18.28
+Asleep-Trying to sleep,reading newspaper,12.99
+Asleep-Trying to sleep,making bed,8.09
+Asleep-Trying to sleep,plastering,13.67
+Asleep-Trying to sleep,doing laundry,18.41
+Asleep-Trying to sleep,folding napkins,9.61
+Asleep-Trying to sleep,spraying,11.11
+Asleep-Trying to sleep,spray painting,49.68
+Asleep-Trying to sleep,spray painting,57.95
+Asleep-Trying to sleep,plastering,10.07
+Asleep-Trying to sleep,reading newspaper,14.78
+Asleep-Trying to sleep,doing laundry,46.91
+Asleep-Trying to sleep,plastering,9.18
+Asleep-Trying to sleep,spraying,16.64
+Asleep-Trying to sleep,plastering,9.01
+Asleep-Trying to sleep,stretching arm,18.47
+Asleep-Trying to sleep,folding napkins,20.32
+Asleep-Trying to sleep,shredding paper,23.23
+Asleep-Trying to sleep,stretching arm,13.98
+Asleep-Trying to sleep,making bed,20.94
+Asleep-Trying to sleep,stretching arm,8.79
+Asleep-Trying to sleep,folding napkins,11.14
+Asleep-Trying to sleep,plastering,13.26
+Asleep-Trying to sleep,shredding paper,4.43
+Asleep-Trying to sleep,doing laundry,13.22
+Asleep-Trying to sleep,cleaning toilet,11.24
+Asleep-Trying to sleep,shredding paper,35.17
+Asleep-Trying to sleep,doing laundry,24.31
+Asleep-Trying to sleep,stretching arm,32.48
+Asleep-Trying to sleep,spraying,13.29
+Asleep-Trying to sleep,shredding paper,13.68
+Asleep-Trying to sleep,stretching arm,8.42
+Asleep-Trying to sleep,plastering,9.15
+Asleep-Trying to sleep,stretching arm,12.0
+Asleep-Trying to sleep,doing laundry,10.36
+Asleep-Trying to sleep,plastering,19.69
+Asleep-Trying to sleep,folding napkins,9.16
+Asleep-Trying to sleep,shredding paper,5.76
+Asleep-Trying to sleep,plastering,24.89
+Asleep-Trying to sleep,doing laundry,34.71
+Asleep-Trying to sleep,spray painting,68.8
+Asleep-Trying to sleep,stretching arm,20.99
+Asleep-Trying to sleep,stretching arm,13.77
+Asleep-Trying to sleep,stretching arm,7.68
+Asleep-Trying to sleep,reading newspaper,39.13
+Asleep-Trying to sleep,cleaning toilet,11.09
+Asleep-Trying to sleep,stretching arm,13.54
+Asleep-Trying to sleep,doing laundry,23.52
+Asleep-Trying to sleep,stretching arm,12.15
+Asleep-Trying to sleep,shredding paper,10.96
+Asleep-Trying to sleep,doing laundry,8.37
+Asleep-Trying to sleep,plastering,10.59
+Asleep-Trying to sleep,spray painting,26.76
+Asleep-Trying to sleep,stretching arm,13.31
+Asleep-Trying to sleep,folding napkins,6.62
+Asleep-Trying to sleep,plastering,11.99
+Asleep-Trying to sleep,stretching arm,14.05
+Asleep-Trying to sleep,crying,9.16
+Asleep-Trying to sleep,doing laundry,24.67
+Asleep-Trying to sleep,shredding paper,19.27
+Asleep-Trying to sleep,stretching arm,12.41
+Asleep-Trying to sleep,reading newspaper,27.98
+Asleep-Trying to sleep,stretching arm,12.7
+Asleep-Trying to sleep,shredding paper,31.14
+Asleep-Trying to sleep,stretching arm,7.04
+Asleep-Trying to sleep,stretching arm,12.95
+Asleep-Trying to sleep,blowing nose,47.71
+Asleep-Trying to sleep,stretching arm,17.94
+Asleep-Trying to sleep,washing hands,9.98
+Asleep-Trying to sleep,making bed,28.26
+Asleep-Trying to sleep,plastering,20.24
+Asleep-Trying to sleep,stretching arm,7.01
+Asleep-Trying to sleep,shredding paper,22.76
+Asleep-Trying to sleep,doing laundry,6.16
+Asleep-Trying to sleep,shredding paper,10.92
+Asleep-Trying to sleep,spray painting,30.01
+Asleep-Trying to sleep,stretching arm,13.11
+Asleep-Trying to sleep,doing laundry,14.02
+Asleep-Trying to sleep,shredding paper,18.04
+Asleep-Trying to sleep,spraying,11.5
+Asleep-Trying to sleep,doing laundry,16.55
+Asleep-Trying to sleep,washing hands,9.63
+Asleep-Trying to sleep,shredding paper,46.79
+Asleep-Trying to sleep,making bed,17.41
+Asleep-Trying to sleep,stretching arm,14.73
+Asleep-Trying to sleep,reading newspaper,27.7
+Asleep-Trying to sleep,shredding paper,14.81
+Asleep-Trying to sleep,stretching arm,12.55
+Asleep-Trying to sleep,reading newspaper,83.25
+Asleep-Trying to sleep,folding napkins,10.08
+Asleep-Trying to sleep,making bed,13.05
+Asleep-Trying to sleep,doing laundry,8.25
+Asleep-Trying to sleep,stretching arm,13.07
+Asleep-Trying to sleep,spraying,8.04
+Asleep-Trying to sleep,doing laundry,17.21
+Asleep-Trying to sleep,reading newspaper,66.91
+Asleep-Trying to sleep,shredding paper,14.48
+Asleep-Trying to sleep,stretching arm,8.62
+Asleep-Trying to sleep,shredding paper,24.64
+Asleep-Trying to sleep,shredding paper,15.09
+Asleep-Trying to sleep,plastering,8.71
+Asleep-Trying to sleep,folding napkins,15.57
+Asleep-Trying to sleep,reading newspaper,40.71
+Asleep-Trying to sleep,making bed,13.41
+Asleep-Trying to sleep,doing laundry,21.07
+Asleep-Trying to sleep,spraying,11.84
+Asleep-Trying to sleep,folding napkins,7.21
+Asleep-Trying to sleep,shredding paper,25.46
+Asleep-Trying to sleep,massaging person's head,16.77
+Asleep-Trying to sleep,plastering,9.9
+Asleep-Trying to sleep,folding napkins,8.21
+Asleep-Trying to sleep,folding napkins,9.89
+Asleep-Trying to sleep,plastering,10.84
+Asleep-Trying to sleep,doing laundry,13.06
+Asleep-Trying to sleep,spray painting,10.16
+Asleep-Trying to sleep,plastering,11.64
+Asleep-Trying to sleep,shredding paper,8.15
+Asleep-Trying to sleep,massaging person's head,6.56
+Asleep-Trying to sleep,reading newspaper,25.77
+Asleep-Trying to sleep,reading newspaper,22.23
+Asleep-Trying to sleep,plastering,18.74
+Asleep-Trying to sleep,doing laundry,18.21
+Asleep-Trying to sleep,shredding paper,8.8
+Therapy,playing didgeridoo,8.53
+Therapy,playing saxophone,37.96
+Therapy,playing saxophone,55.14
+Therapy,doing laundry,28.37
+Therapy,plastering,8.75
+Therapy,waxing legs,23.02
+Therapy,playing bass guitar,42.04
+Therapy,doing laundry,18.26
+Therapy,plastering,20.29
+Lying In Bed,plastering,9.54
+Lying In Bed,making bed,16.22
+Lying In Bed,making bed,18.52
+Lying In Bed,plastering,53.52
+Lying In Bed,plastering,18.88
+Lying In Bed,spray painting,17.04
+Lying In Bed,plastering,15.27
+Lying In Bed,shredding paper,21.72
+Lying In Bed,doing laundry,16.45
+Lying In Bed,ripping paper,22.75
+Lying In Bed,plastering,46.25
+Lying In Bed,plastering,22.96
+Lying In Bed,plastering,15.87
+Lying In Bed,playing bagpipes,6.53
+Lying In Bed,counting money,15.19
+Lying In Bed,plastering,27.02
+Lying In Bed,shredding paper,15.01
+Lying In Bed,shredding paper,16.98
+Lying In Bed,plastering,34.91
+Lying In Bed,spray painting,10.05
+Lying In Bed,plastering,41.7
+Lying In Bed,spray painting,38.18
+Lying In Bed,reading newspaper,10.43
+Lying In Bed,ripping paper,22.92
+Lying In Bed,plastering,8.93
+Lying In Bed,stretching arm,8.28
+Lying In Bed,plastering,28.94
+Lying In Bed,shredding paper,37.04
+Lying In Bed,spray painting,17.71
+Lying In Bed,spray painting,49.53
+Lying In Bed,reading newspaper,13.24
+Lying In Bed,plastering,39.76
+Lying In Bed,washing hands,8.07
+Lying In Bed,washing hands,7.86
+Lying In Bed,making bed,22.12
+Lying In Bed,spray painting,17.71
+Lying In Bed,setting table,5.75
+Lying In Bed,making bed,22.88
+Lying In Bed,reading newspaper,13.93
+Lying In Bed,plastering,20.7
+Lying In Bed,clay pottery making,19.69
+Lying In Bed,reading newspaper,12.51
+Lying In Bed,folding napkins,25.68
+Lying In Bed,plastering,20.63
+Lying In Bed,folding napkins,7.09
+Lying In Bed,shredding paper,63.19
+Lying In Bed,stretching arm,10.6
+Lying In Bed,setting table,21.26
+Lying In Bed,washing hands,26.3
+Lying In Bed,washing hands,16.6
+Lying In Bed,dancing ballet,26.86
+Lying In Bed,ripping paper,7.98
+Lying In Bed,reading newspaper,27.01
+Lying In Bed,dancing ballet,24.26
+Lying In Bed,spray painting,14.48
+Lying In Bed,plastering,20.25
+Lying In Bed,reading newspaper,12.81
+Lying In Bed,clay pottery making,32.73
+Lying In Bed,plastering,47.18
+Lying In Bed,shredding paper,43.48
+Lying In Bed,washing hands,14.92
+Lying In Bed,dancing ballet,21.3
+Lying In Bed,plastering,24.03
+Lying In Bed,washing hands,6.21
+Lying In Bed,stretching arm,5.61
+Lying In Bed,reading newspaper,19.46
+Lying In Bed,plastering,15.49
+Lying In Bed,ripping paper,15.76
+Lying In Bed,reading newspaper,15.36
+Lying In Bed,dancing ballet,25.66
+Lying In Bed,dancing ballet,22.79
+Lying In Bed,plastering,17.43
+Lying In Bed,clay pottery making,69.03
+Lying In Bed,reading newspaper,34.84
+Lying In Bed,blowing nose,11.02
+Lying In Bed,folding napkins,39.3
+Lying In Bed,ripping paper,10.05
+Lying In Bed,reading newspaper,49.23
+Lying In Bed,ripping paper,22.04
+Lying In Bed,making a cake,19.05
+Lying In Bed,spray painting,6.76
+Lying In Bed,clay pottery making,86.93
+Lying In Bed,folding napkins,11.92
+Lying In Bed,washing hands,11.28
+Lying In Bed,clay pottery making,25.4
+Lying In Bed,folding napkins,27.85
+Lying In Bed,taking a shower,10.96
+Lying In Bed,plastering,30.33
+Lying In Bed,applying cream,11.34
+Lying In Bed,plastering,10.59
+Lying In Bed,plastering,34.08
+Lying In Bed,plastering,50.6
+Lying In Bed,plastering,48.27
+Lying In Bed,plastering,42.3
+Lying In Bed,stretching arm,25.87
+Lying In Bed,applying cream,28.5
+Lying In Bed,stretching arm,12.66
+Lying In Bed,plastering,17.63
+Lying In Bed,plastering,53.03
+Lying In Bed,plastering,47.15
+Lying In Bed,reading newspaper,23.73
+Lying In Bed,plastering,49.6
+Lying In Bed,reading newspaper,11.13
+Lying In Bed,reading newspaper,7.32
+Lying In Bed,plastering,32.75
+Eating,stretching arm,5.61
+Eating,reading newspaper,20.89
+Eating,playing harmonica,46.82
+Eating,playing harmonica,15.05
+Eating,playing ukulele,24.09
+Eating,playing harmonica,17.29
+Eating,playing harmonica,16.33
+Eating,playing harmonica,16.16
+Eating,playing harmonica,19.12
+Eating,stretching arm,5.61
+Eating,doing laundry,17.79
+Eating,doing laundry,16.65
+Eating,playing harmonica,22.86
+Eating,playing harmonica,21.79
+Eating,doing laundry,18.44
+Eating,doing laundry,19.14
+Eating,playing harmonica,16.98
+Eating,playing harmonica,13.87
+Eating,playing harmonica,23.84
+Eating,playing harmonica,8.08
+Eating,doing laundry,17.57
+Eating,doing laundry,18.93
+Eating,playing ukulele,42.48
+Eating,playing harmonica,20.37
+Eating,playing harmonica,6.47
+Eating,playing ukulele,24.47
+Eating,tying tie,5.7
+Eating,doing laundry,18.52
+Eating,ripping paper,36.06
+Eating,doing laundry,18.91
+Eating,playing harmonica,47.21
+Eating,stretching arm,11.1
+Eating,applying cream,9.98
+Eating,playing harmonica,25.01
+Eating,plastering,12.67
+Eating,playing ukulele,21.94
+Eating,stretching arm,11.1
+Eating,stretching arm,6.15
+Eating,playing harmonica,38.01
+Eating,doing laundry,18.27
+Eating,playing harmonica,34.3
+Eating,playing harmonica,82.55
+Eating,belly dancing,5.28
+Eating,playing harmonica,36.65
+Eating,belly dancing,5.28
+Eating,doing laundry,16.41
+Eating,playing harmonica,68.26
+Eating,stretching arm,11.1
+Eating,playing harmonica,27.79
+Eating,plastering,11.31
+Eating,playing ukulele,22.45
+Eating,plastering,11.31
+Eating,stretching arm,11.1
+Eating,stretching arm,3.75
+Eating,playing ukulele,19.29
+Eating,doing laundry,19.97
+Eating,belly dancing,5.28
+Eating,belly dancing,5.28
+Eating,playing harmonica,31.55
+Eating,reading newspaper,20.13
+Eating,playing harmonica,7.42
+Eating,stretching arm,5.61
+Eating,stretching arm,11.1
+Eating,applying cream,7.22
+Eating,ripping paper,20.85
+Eating,playing harmonica,28.11
+Eating,applying cream,8.23
+Eating,playing harmonica,30.01
+Eating,playing harmonica,17.25
+Eating,stretching arm,5.61
+Eating,playing harmonica,56.22
+Eating,playing harmonica,33.75
+Eating,doing laundry,18.24
+Eating,ripping paper,20.67
+Eating,plastering,11.3
+Eating,playing harmonica,17.11
+Eating,playing harmonica,24.43
+Eating,playing trombone,28.48
+Eating,doing laundry,17.32
+Eating,playing harmonica,49.77
+Eating,doing laundry,16.34
+Eating,shredding paper,17.67
+Eating,playing harmonica,38.12
+Eating,doing laundry,20.26
+Eating,doing laundry,17.42
+Eating,doing laundry,18.08
+Eating,doing laundry,21.32
+Eating,playing harmonica,28.2
+Eating,playing harmonica,28.55
+Eating,doing laundry,17.97
+Eating,playing harmonica,31.52
+Eating,doing laundry,18.66
+Eating,playing harmonica,35.23
+Eating,playing harmonica,40.43
+Eating,doing laundry,18.44
+Eating,playing harmonica,15.86
+Eating,playing harmonica,32.09
+Eating,playing harmonica,33.15
+Eating,plastering,11.31
+Eating,plastering,11.31
+Eating,playing harmonica,31.04
+Eating,playing harmonica,18.05
+Eating,playing harmonica,41.23
+Eating,doing laundry,18.56
+Eating,playing harmonica,20.2
+Eating,playing harmonica,35.57
+Eating,playing harmonica,39.45
+Eating,playing harmonica,37.16
+Eating,stretching arm,11.1
+Eating,plastering,11.31
+Eating,plastering,11.31
+Eating,stretching arm,11.1
+Eating,playing harmonica,37.69
+Eating,playing harmonica,3.66
+Eating,playing harmonica,36.63
+Eating,stretching arm,11.1
+Eating,doing laundry,12.47
+Eating,doing laundry,19.14
+Eating,tying tie,5.7
+Eating,tying tie,5.7
+Eating,playing harmonica,19.86
+Eating,playing harmonica,36.79
+Eating,plastering,10.99
+Eating,doing laundry,18.34
+Eating,stretching arm,11.1
+Eating,doing laundry,12.74
+Eating,taking a shower,8.36
+Eating,playing harmonica,24.33
+Eating,tying tie,5.7
+Eating,tying tie,5.7
+Eating,playing harmonica,18.4
+Eating,playing harmonica,4.2
+Eating,taking a shower,13.4
+Eating,doing laundry,12.08
+Eating,shredding paper,7.37
+Eating,stretching arm,5.61
+Eating,playing harmonica,11.91
+Eating,playing harmonica,39.33
+Eating,playing harmonica,48.33
+Eating,playing harmonica,9.84
+Eating,stretching arm,5.61
+Eating,ripping paper,11.41
+Eating,doing laundry,12.59
+Eating,playing harmonica,22.77
+Eating,playing ukulele,19.43
+Eating,playing harmonica,43.67
+Eating,playing harmonica,12.92
+Eating,playing harmonica,20.16
+Eating,doing laundry,6.82
+Eating,taking a shower,9.3
+Nurse Visit,doing laundry,7.43
+Nurse Visit,making bed,97.38
+Nurse Visit,making bed,96.65
+Nurse Visit,plastering,14.38
+Nurse Visit,dancing ballet,3.89
+Nurse Visit,stretching arm,6.14
+Nurse Visit,stretching arm,6.14
+Nurse Visit,dancing ballet,3.89
+Nurse Visit,plastering,5.61
+Nurse Visit,trimming or shaving beard,4.63
+Nurse Visit,making bed,74.83
+Nurse Visit,taking a shower,8.33
+Nurse Visit,doing laundry,7.43
+Nurse Visit,making bed,63.32
+Nurse Visit,trimming or shaving beard,6.42
+Nurse Visit,doing laundry,7.43
+Nurse Visit,plastering,33.82
+Nurse Visit,crying,19.66
+Nurse Visit,dying hair,45.98
+Nurse Visit,massaging legs,16.11
+Nurse Visit,taking a shower,9.3
+Nurse Visit,stretching arm,6.14
+Nurse Visit,stretching arm,6.14
+Nurse Visit,punching bag,23.23
+Nurse Visit,moving furniture,21.44
+Nurse Visit,washing hands,18.29
+Nurse Visit,crying,28.54
+Nurse Visit,massaging person's head,32.93
+Nurse Visit,making bed,16.5
+Nurse Visit,doing laundry,12.82
+Nurse Visit,taking a shower,9.81
+Nurse Visit,making bed,95.66
+Nurse Visit,doing laundry,59.03
+Nurse Visit,folding napkins,4.66
+Nurse Visit,stretching arm,6.14
+Nurse Visit,making bed,81.46
+Nurse Visit,blowing nose,22.97
+Nurse Visit,making bed,15.48
+Nurse Visit,doing laundry,12.01
+Nurse Visit,robot dancing,22.49
+Nurse Visit,robot dancing,8.23
+Nurse Visit,making bed,82.37
+Nurse Visit,doing laundry,14.23
+Nurse Visit,plastering,19.54
+Nurse Visit,fixing hair,20.88
+Nurse Visit,plastering,21.35
+Nurse Visit,making bed,80.38
+Nurse Visit,smoking,15.84
+Nurse Visit,brushing hair,18.5
+Nurse Visit,shredding paper,44.57
+Nurse Visit,playing harmonica,16.09
+Nurse Visit,doing laundry,12.84
+Nurse Visit,massaging person's head,14.48
+Nurse Visit,plastering,16.01
+Nurse Visit,doing laundry,14.37
+Nurse Visit,doing laundry,17.74
+Nurse Visit,crying,37.37
+Nurse Visit,doing laundry,6.96
+Nurse Visit,dancing ballet,3.89
+Nurse Visit,doing laundry,14.3
+Nurse Visit,massaging person's head,43.01
+Nurse Visit,doing laundry,20.35
+Nurse Visit,dancing ballet,3.89
+Nurse Visit,plastering,22.04
+Nurse Visit,robot dancing,26.28
+Nurse Visit,doing laundry,10.19
+Nurse Visit,plastering,26.04
+Nurse Visit,applying cream,20.86
+Nurse Visit,plastering,15.52
+Nurse Visit,doing laundry,14.04
+Nurse Visit,doing laundry,18.41
+Nurse Visit,eating spaghetti,8.83
+Nurse Visit,plastering,51.47
+Nurse Visit,doing laundry,16.94
+Nurse Visit,taking a shower,17.72
+Nurse Visit,doing laundry,18.54
+Nurse Visit,taking a shower,4.72
+Nurse Visit,doing laundry,12.66
+Nurse Visit,applying cream,27.98
+Nurse Visit,massaging person's head,33.85
+Nurse Visit,plastering,15.36
+Nurse Visit,doing laundry,13.21
+Nurse Visit,punching bag,8.79
+Nurse Visit,making bed,99.39
+Nurse Visit,robot dancing,25.06
+Nurse Visit,doing laundry,28.08
+Nurse Visit,shredding paper,50.71
+Nurse Visit,folding napkins,5.08
+Nurse Visit,plastering,12.22
+Nurse Visit,doing laundry,18.16
+Nurse Visit,plastering,25.37
+Nurse Visit,making bed,99.5
+Nurse Visit,waxing legs,46.72
+Nurse Visit,stretching arm,12.72
+Nurse Visit,massaging person's head,62.6
+Nurse Visit,massaging legs,14.78
+Nurse Visit,doing laundry,15.12
+Nurse Visit,doing laundry,18.8
+Nurse Visit,massaging person's head,43.5
+Nurse Visit,dying hair,6.97
+Nurse Visit,trimming or shaving beard,4.87
+Nurse Visit,plastering,9.5
+Nurse Visit,making bed,94.62
+Nurse Visit,doing laundry,14.67
+Nurse Visit,playing harmonica,46.87
+Nurse Visit,stretching arm,21.81
+Nurse Visit,stretching arm,4.49
+Nurse Visit,robot dancing,24.32
+Nurse Visit,making bed,13.74
+Nurse Visit,beatboxing,48.53
+Nurse Visit,massaging person's head,34.57
+Nurse Visit,robot dancing,9.35
+Nurse Visit,crying,7.67
+Nurse Visit,washing hair,25.17
+Nurse Visit,making bed,96.22
+Nurse Visit,belly dancing,5.71
+Nurse Visit,doing laundry,14.01
+Nurse Visit,stretching arm,6.14
+Nurse Visit,stretching arm,6.14
+Nurse Visit,doing laundry,17.27
+Nurse Visit,belly dancing,5.71
+Nurse Visit,slapping,14.5
+Nurse Visit,making bed,89.88
+Nurse Visit,doing laundry,17.86
+Nurse Visit,playing harmonica,29.37
+Nurse Visit,playing harmonica,48.78
+Nurse Visit,applying cream,66.71
+Nurse Visit,massaging person's head,12.05
+Nurse Visit,applying cream,8.49
+Nurse Visit,applying cream,58.9
+Nurse Visit,doing laundry,7.43
+Nurse Visit,taking a shower,8.33
+Nurse Visit,trimming or shaving beard,5.7
+Nurse Visit,blowing nose,30.16
+Nurse Visit,dancing ballet,3.89
+Nurse Visit,making bed,6.51
+Nurse Visit,making bed,45.38
+Nurse Visit,dancing ballet,3.89
+Nurse Visit,waxing legs,7.42
+Nurse Visit,trimming or shaving beard,5.7
+Nurse Visit,taking a shower,8.33
+Nurse Visit,doing laundry,7.43
+Nurse Visit,trimming or shaving beard,5.7
+Nurse Visit,taking a shower,8.33
+Nurse Visit,doing laundry,13.13
+Nurse Visit,stretching arm,6.14
+Nurse Visit,stretching arm,6.14
+Nurse Visit,blowing nose,14.04
+Nurse Visit,taking a shower,8.33
+Nurse Visit,trimming or shaving beard,5.7
+Transfer To Bed,massaging legs,82.29
+Transfer To Bed,massaging legs,55.13
