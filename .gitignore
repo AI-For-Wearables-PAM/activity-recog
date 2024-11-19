@@ -27,3 +27,6 @@ old/
 histo/video_classification_model.pkl
 histo/label_map.pkl
 model_types/conv3d/models
+model_types/inflated_3d/ucf101
+model_types/inflated_3d/End_of_a_jam.ogv
+model_types/inflated_3d/animation.gif
