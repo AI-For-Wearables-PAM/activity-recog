@@ -1,4 +1,5 @@
 from conv3d_functions import train3d
+import os
 
 TF_ENABLE_ONEDNN_OPTS=1
 
@@ -11,11 +12,11 @@ param_grid = {'conv_filters': [32, 64, 128],
               'epochs': 30}
 
 # Path to training data
-path = '../downloads'
-train_dir = f'{path}/r2_train'
+path = '../../downloads'
+train_dir = f'{path}/fr_10s/train_fr_10s'
 
 # Train model
-best_model_details = train3d(train_dir, param_grid, random_search=False)
+best_model_details = train3d(train_dir, param_grid, random_search=False, complex=True)
 
 for detail in best_model_details:
     print(detail)

@@ -10,7 +10,8 @@ predictions/
 ignore/
 
 # Conv3D models are too large for GitHub storage. Add them to Google Drive.
-conv3D/*.keras
+conv3d/*
+model_types/conv3d/*.keras
 
 # misc
 __pycache__/
@@ -26,3 +27,6 @@ old/
 histo/video_classification_model.pkl
 histo/label_map.pkl
 model_types/conv3d/models
+model_types/inflated_3d/ucf101
+model_types/inflated_3d/End_of_a_jam.ogv
+model_types/inflated_3d/animation.gif

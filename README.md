@@ -38,6 +38,9 @@ conda deactivate
 
 **2. Create new venv**
 ```console
+# Recommended to use python <= 3.12
+python3.12 -m venv ~/venv-metal 
+# or 
 python3 -m venv ~/venv-metal  
 ```  
 
