@@ -168,7 +168,7 @@ Predictions for each class:
 ### Example output using live video: 
 Predicting live video from a webcam attached to a Raspberry Pi 5. 
 
-![Predicting live video on a Raspberry Pi 5](./images/rpi.jpg "Predicting live video")
+![Predicting live video on a Raspberry Pi 5](./assets/images/rpi.jpg "Predicting live video")
 
 _**Important Note:** The prediction in the image above is incorrect, and these models need to be refined further before they are used in this way. This image merely demonstrates how predictions can be visualized in real time._
 
