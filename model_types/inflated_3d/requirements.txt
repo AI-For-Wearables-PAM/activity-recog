@@ -1,0 +1,13 @@
+absl-py
+tensorflow
+tensorflow-hub
+opencv-python
+numpy
+imageio
+ipython
+matplotlib
+pillow
+pandas
+tqdm
+ipywidgets
+scikit-learn
