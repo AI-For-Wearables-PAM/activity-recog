@@ -1,4 +1,4 @@
-Predicted label,Predicted activity,True label,True activity
+Predicted label,Predicted class,True label,True class
 5,Asleep-Trying to sleep,0,Asleep-Trying to sleep
 0,Asleep-Trying to sleep,0,Asleep-Trying to sleep
 0,Asleep-Trying to sleep,0,Asleep-Trying to sleep
