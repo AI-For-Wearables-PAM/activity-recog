@@ -1,0 +1,25 @@
+Train/Test,Type,Classes,Number of videos
+Train,10s,Asleep-Trying to sleep,150
+Train,10s,Doctor Visit,9
+Train,10s,Eating,150
+Train,10s,EVS Visit,41
+Train,10s,Family,66
+Train,10s,Lying In Bed,105
+Train,10s,Nurse Visit,150
+Train,10s,Sitting In Wheelchair,86
+Train,10s,Talking on the Phone,55
+Train,10s,Therapy,26
+Train,10s,Transfer To Bed,8
+Train,10s,Watching TV,150
+Test,10s,Asleep-Trying to sleep,150
+Test,10s,Doctor Visit,2
+Test,10s,Eating,150
+Test,10s,EVS Visit,41
+Test,10s,Family,66
+Test,10s,Lying In Bed,105
+Test,10s,Nurse Visit,150
+Test,10s,Sitting In Wheelchair,86
+Test,10s,Talking on the Phone,55
+Test,10s,Therapy,9
+Test,10s,Transfer To Bed,2
+Test,10s,Watching TV,150
