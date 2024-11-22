@@ -1,0 +1,104 @@
+True Class (Name),Predicted Class (Name),True Class (Numerical),Predicted Class (Numerical)
+Asleep-Trying to sleep,Asleep-Trying to sleep,0,7
+Asleep-Trying to sleep,Asleep-Trying to sleep,0,2
+Asleep-Trying to sleep,Asleep-Trying to sleep,0,7
+Asleep-Trying to sleep,Doctor Visit,0,11
+Asleep-Trying to sleep,Asleep-Trying to sleep,0,2
+Asleep-Trying to sleep,Doctor Visit,0,11
+Asleep-Trying to sleep,Asleep-Trying to sleep,0,0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0,0
+Asleep-Trying to sleep,Asleep-Trying to sleep,0,2
+Asleep-Trying to sleep,Asleep-Trying to sleep,0,0
+Doctor Visit,Asleep-Trying to sleep,1,5
+Doctor Visit,Asleep-Trying to sleep,1,7
+Eating,Asleep-Trying to sleep,2,5
+Eating,Asleep-Trying to sleep,2,5
+Eating,Asleep-Trying to sleep,2,2
+Eating,Asleep-Trying to sleep,2,0
+Eating,Asleep-Trying to sleep,2,2
+Eating,Asleep-Trying to sleep,2,2
+Eating,Asleep-Trying to sleep,2,9
+Eating,Asleep-Trying to sleep,2,3
+Eating,Asleep-Trying to sleep,2,9
+Eating,Asleep-Trying to sleep,2,9
+EVS Visit,Asleep-Trying to sleep,3,9
+EVS Visit,Asleep-Trying to sleep,3,9
+EVS Visit,Asleep-Trying to sleep,3,8
+EVS Visit,Asleep-Trying to sleep,3,9
+EVS Visit,Asleep-Trying to sleep,3,6
+EVS Visit,Doctor Visit,3,11
+EVS Visit,Asleep-Trying to sleep,3,5
+EVS Visit,Asleep-Trying to sleep,3,5
+EVS Visit,Asleep-Trying to sleep,3,5
+EVS Visit,Asleep-Trying to sleep,3,5
+Family,Doctor Visit,4,11
+Family,Asleep-Trying to sleep,4,7
+Family,Asleep-Trying to sleep,4,5
+Family,Asleep-Trying to sleep,4,5
+Family,Doctor Visit,4,11
+Family,Asleep-Trying to sleep,4,8
+Family,Asleep-Trying to sleep,4,0
+Family,Asleep-Trying to sleep,4,7
+Family,Asleep-Trying to sleep,4,0
+Family,Asleep-Trying to sleep,4,5
+Lying In Bed,Asleep-Trying to sleep,5,8
+Lying In Bed,Doctor Visit,5,11
+Lying In Bed,Asleep-Trying to sleep,5,3
+Lying In Bed,Asleep-Trying to sleep,5,3
+Lying In Bed,Asleep-Trying to sleep,5,0
+Lying In Bed,Asleep-Trying to sleep,5,0
+Lying In Bed,Asleep-Trying to sleep,5,2
+Lying In Bed,Asleep-Trying to sleep,5,0
+Lying In Bed,Asleep-Trying to sleep,5,0
+Lying In Bed,Asleep-Trying to sleep,5,5
+Nurse Visit,Asleep-Trying to sleep,6,0
+Nurse Visit,Asleep-Trying to sleep,6,0
+Nurse Visit,Asleep-Trying to sleep,6,0
+Nurse Visit,Asleep-Trying to sleep,6,0
+Nurse Visit,Asleep-Trying to sleep,6,0
+Nurse Visit,Doctor Visit,6,11
+Nurse Visit,Asleep-Trying to sleep,6,0
+Nurse Visit,Asleep-Trying to sleep,6,8
+Nurse Visit,Asleep-Trying to sleep,6,5
+Nurse Visit,Asleep-Trying to sleep,6,5
+Sitting In Wheelchair,Asleep-Trying to sleep,7,0
+Sitting In Wheelchair,Asleep-Trying to sleep,7,0
+Sitting In Wheelchair,Asleep-Trying to sleep,7,0
+Sitting In Wheelchair,Asleep-Trying to sleep,7,0
+Sitting In Wheelchair,Asleep-Trying to sleep,7,0
+Sitting In Wheelchair,Asleep-Trying to sleep,7,0
+Sitting In Wheelchair,Doctor Visit,7,11
+Sitting In Wheelchair,Asleep-Trying to sleep,7,0
+Sitting In Wheelchair,Asleep-Trying to sleep,7,5
+Sitting In Wheelchair,Asleep-Trying to sleep,7,7
+Talking on the Phone,Asleep-Trying to sleep,8,0
+Talking on the Phone,Asleep-Trying to sleep,8,0
+Talking on the Phone,Asleep-Trying to sleep,8,5
+Talking on the Phone,Asleep-Trying to sleep,8,6
+Talking on the Phone,Asleep-Trying to sleep,8,0
+Talking on the Phone,Asleep-Trying to sleep,8,2
+Talking on the Phone,Asleep-Trying to sleep,8,0
+Talking on the Phone,Asleep-Trying to sleep,8,4
+Talking on the Phone,Asleep-Trying to sleep,8,0
+Talking on the Phone,Asleep-Trying to sleep,8,0
+Therapy,Asleep-Trying to sleep,9,5
+Therapy,Asleep-Trying to sleep,9,0
+Therapy,Asleep-Trying to sleep,9,0
+Therapy,Asleep-Trying to sleep,9,4
+Therapy,Asleep-Trying to sleep,9,5
+Therapy,Asleep-Trying to sleep,9,4
+Therapy,Asleep-Trying to sleep,9,0
+Therapy,Asleep-Trying to sleep,9,0
+Therapy,Asleep-Trying to sleep,9,0
+Transfer To Bed,Asleep-Trying to sleep,10,0
+Transfer To Bed,Asleep-Trying to sleep,10,0
+Watching TV,Asleep-Trying to sleep,11,5
+Watching TV,Doctor Visit,11,11
+Watching TV,Asleep-Trying to sleep,11,0
+Watching TV,Asleep-Trying to sleep,11,9
+Watching TV,Asleep-Trying to sleep,11,2
+Watching TV,Asleep-Trying to sleep,11,2
+Watching TV,Asleep-Trying to sleep,11,4
+Watching TV,Asleep-Trying to sleep,11,0
+Watching TV,Asleep-Trying to sleep,11,6
+Watching TV,Asleep-Trying to sleep,11,2

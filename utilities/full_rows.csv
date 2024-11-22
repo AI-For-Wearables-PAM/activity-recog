@@ -1,0 +1,25 @@
+Train/Test,Type,Classes,Number of videos
+Train,Full,EVS Visit,5
+Train,Full,Sitting In Wheelchair,28
+Train,Full,Doctor Visit,1
+Train,Full,Talking on the Phone,17
+Train,Full,Family,9
+Train,Full,Watching TV,107
+Train,Full,Asleep-Trying to sleep,158
+Train,Full,Therapy,2
+Train,Full,Lying In Bed,33
+Train,Full,Eating,36
+Train,Full,Nurse Visit,48
+Train,Full,Transfer To Bed,2
+Test,Full,EVS Visit,5
+Test,Full,Sitting In Wheelchair,28
+Test,Full,Doctor Visit,1
+Test,Full,Talking on the Phone,18
+Test,Full,Family,10
+Test,Full,Watching TV,106
+Test,Full,Asleep-Trying to sleep,158
+Test,Full,Therapy,3
+Test,Full,Lying In Bed,33
+Test,Full,Eating,36
+Test,Full,Nurse Visit,48
+Test,Full,Transfer To Bed,2

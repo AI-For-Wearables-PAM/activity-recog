@@ -30,3 +30,7 @@ model_types/conv3d/models
 model_types/inflated_3d/ucf101
 model_types/inflated_3d/End_of_a_jam.ogv
 model_types/inflated_3d/animation.gif
+model_types/Xception/ucf101
+model_types/Xception/animation.gif
+model_types/i3d_transfer/*.h5
+wip/
